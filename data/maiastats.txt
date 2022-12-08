@@ -1,0 +1,914 @@
+[White "Agrest, Inna"]
+[Black "Melia, Salome"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "a6", "Be3", "e6", "f4", "Be7", "Nb3", "Be7", "O-O-O", "O-O", "f3", "a5", "Be3", "Ne5", "h4", "Qc7", "h4", "b5", "h4", "b5", "h4", "Bb7", "Ne2", "Bb7", "h4", "Bb7", "f5", "Qb5", "b3", "Nc5", "exd5", "exd5", "Bf1", "Nf8", "Nd4", "Qa5", "Bd3", "hxg6", "Ng5", "Nf6", "Qh4", "Nf5", "h5", "Nxe3", "Rxh5", "Nf6", "Rh2", "d4", "Bb6", "Nfxe3", "Qh3", "Nh6", "Qxe3", "Bf5", "Bd3", "Bf5", "Rdf1", "Bf5", "Bxf5", "Re8", "Qd4", "Bxd3", "Qxd3", "Qf5", "Qxg4", "Qf5", "Rhg1", "Qf5", "Nb2", "Rxd3", "Nb2", "dxe4", "dxe4", "exd3", "Qg1", "Kxg7", "Qg2", "exd3", "Nc5"]
+
+[White "Bashkite, Viktoria"]
+[Black "Molchanova, Tatjana"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "Bg7", "Be3", "Nf6", "Nc3", "O-O", "Be3", "d6", "Be3", "Be6", "Qd2", "a6", "Qd2", "a6", "Rad1", "b5", "Nb6", "Rc7", "Nxd7", "Qxd7", "Nd4", "Rcc8", "c3", "Rfc8", "exd5", "dxe4", "Qxe5", "Qc8", "Bf2", "gxf5", "Rxd5", "exf3", "Bd1", "exf3", "fxe4", "exd5", "Qxd5", "dxe4", "Bb1", "dxe4", "Bxd4", "Nc6", "Rd1", "bxa4", "axb5", "d3", "axb5", "d3", "axb5", "d3", "Qa5", "Qc3", "Qxc3", "Qxb3", "axb5", "axb5", "Ba2", "Nc4", "Bxe5", "b4", "Bxe5", "b3", "Rb2", "Qc1+", "Qxc5", "Qxf2", "Rf1", "Nc4", "Qe1", "Nd3", "Bxd3", "Qxd3", "e5", "Rc3", "Rxb2", "Rd1+", "Rxb2", "Qd5+", "Bxe5", "Qd5+", "Qxc2"]
+
+[White "Danielian, Elina"]
+[Black "Rogule, Laura"]
+["e4", "Nf6", "c4", "Nf6", "Bf4", "c6", "Nc3", "Be7", "Nc3", "c6", "Bd3", "Bd6", "O-O", "O-O", "b3", "dxe4", "exd5", "cxd5", "exd5", "Nxd5", "Nxd4", "Bc5", "Nxd6", "Qxd6", "Nxd4", "Bg4", "Qxd4", "Bxf3", "gxf3", "Rfe8", "Qh4", "Nxd5", "Rd1", "Nef4", "Bf4", "Qxg3+", "Bb3", "Rad8", "Bh6", "Qg6", "Rac1", "Qg6", "Rxc7", "Qxb2", "Bxd5", "Qf5", "Be5", "Rxc7", "Qxc7", "Qxc1", "Rxc1", "Rxc1+", "Kg2", "Rxd5", "Bxb7", "Rc2", "f4", "h5", "h4", "h6", "Qxh7+", "Kf8"]
+
+[White "Dushinok, Anna"]
+[Black "Burtasova, Anna"]
+["e4", "Nf6", "c4", "e6", "d5", "b5", "cxb5", "bxc4", "Nc3", "d6", "e4", "g6", "Bxc4", "Bg7", "O-O", "O-O", "O-O", "O-O", "Re1", "O-O", "Rb1", "Nb6", "Bf4", "Nc7", "Bc6", "Bxd7", "Ba4", "Qxd7", "Bf4", "Nb5", "e5", "Bxb5", "Rab1", "Rfb8", "exd6", "Qxd5", "Rad1", "Rb6", "Bc3", "dxe5", "bxc4", "Rc8", "exd6", "exd6", "c5", "Bxc4", "Qe3", "Bxc4", "Rxe7", "Qxd5", "Qxa7", "Bxa2", "Qxa7", "Ra6", "Qa5", "Qxa5", "Bxa5", "Rb2", "Bc3", "Ra2", "Bb4", "Rcc2", "Nd4", "Bxa3", "g4", "Bxa3", "Rxf7", "Bxa3", "Ra1", "Bb2", "Nf3", "Bxg5", "Bxg5"]
+
+[White "Gaponenko, Inna"]
+[Black "Kludacz, Magdalena"]
+["e4", "c5", "d4", "d5", "Nc3", "exd5", "Nf3", "Nf6", "Be2", "Bh5", "Be2", "Be7", "Be3", "Nc6", "Nbd2", "O-O-O", "Qxf3", "O-O-O", "Qxd5", "Nf5", "Nxd5", "Qd6", "Bc4", "Qxd5", "cxd4", "cxd4", "Qa4+", "b5", "a4", "Bb4+", "bxc4", "Bb4+", "bxc4", "bxc4", "Rxc4", "Rxc4", "Rxc8", "Rc7", "Qb5+", "Qxb5", "Qa6+", "Rb7", "Ba6+", "Kd8", "O-O", "Qxb5", "Bxb5+", "Kd8", "O-O", "Nc3", "Ra5", "Nd5", "O-O", "Nc3+", "fxe3", "Be7", "Rf1", "Bg7", "Rb8+", "Kd7", "e4", "Rd7", "Rxa7", "f5", "Raxa7", "Bxd6", "Rd7+", "Ke8"]
+
+[White "Gavasheli, Ana"]
+[Black "Socko, Monika"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Bb4", "Qc2", "O-O", "Bd3", "d5", "Bd3", "cxd4", "exd4", "d5", "O-O", "dxc4", "Bxc4", "Nc6", "Bg5", "Be7", "Re1", "a6", "Rad1", "Bb7", "Rfe1", "Rc8", "Bd3", "Rc8", "Bf3", "Nd5", "Bxe7", "Nxc3", "bxc3", "Qd5", "Bf3", "Qxa2", "Bd3", "Bf6", "Be4", "Rxc3", "Bh6", "Bf6", "Bd2", "Nc4", "Ra1", "Bxe5", "Nxc6", "Bxc6", "Be5", "Rfc8", "Rc1", "a6", "Rb1", "b4", "Rb1", "b4", "Rb1", "b4", "cxb4", "b3", "cxb4", "Rxc3", "Rxb6", "Qxb6", "Rb1", "Qc7", "Qc2", "c2", "Qc2", "Bd5", "Qa2", "Ba6", "Qxa4", "Qd7", "Rxb7+", "Rc7", "d5", "Rc7", "Rxc7", "Qxc7", "Qxa4", "Bd6", "Qc2", "Qxd4", "g3", "Qxh2+", "Kf1", "Bc5", "Ke2"]
+
+[White "Grabuzova, Tatiana"]
+[Black "Vojinovic, Jovana"]
+["e4", "e5", "Bb2", "c5", "e3", "e6", "Nf3", "Nc6", "Nf3", "Bg4", "Bb5", "Bd7", "O-O", "bxc6", "O-O", "Qc7", "O-O", "Nxg4", "Qxg4", "e5", "O-O", "g6", "Qxf7+", "Kxf7", "O-O", "e5", "exd4", "e5", "fxe5", "Bxe5", "exd4", "Be6", "d3", "a4", "Nd2", "a3", "h3", "Bxf3", "Rxf3", "axb3", "Bc1", "axb3", "Bxc5", "Be3+", "Bxc5", "Be3+", "Kg2", "Rxb3", "Rxa1", "Rxb3", "Ra7+", "Kg6", "Rc7", "Rxd3", "Rc7", "Rxa3", "Bc5", "Bf4", "Bd6", "Kg5", "e5", "fxe4", "e5+", "g5", "f4", "Bxf4+", "Kh3", "h6", "fxe4", "h6", "Kg4", "Ke5", "Bg5+", "Be3", "h5", "Be3", "h5", "Bc3", "Ke2", "c5", "Kf3", "Be7", "Bg3", "h6", "Kf3", "g5", "Kf4", "c5", "Bg3+", "c5", "hxg5", "Bxg5", "Kf3", "h4+", "Bd2", "Bg5", "Bc7+", "Ke6", "Bb6", "Be3", "Bb6", "Bf8", "Kg3", "Be7", "Kf4", "Be1+", "Kh3", "c5", "Bf4", "Be3", "Bg3", "Bf2", "Bg5", "Be3", "Bd8+", "Be3", "Kf3", "Bd2", "Kf3", "Kg5", "Bf2", "c5", "Bg3+", "Bf4", "Bf2", "Ke5", "Bh4", "c5", "Bf4", "Be7", "Bg5", "Be7", "Bf4", "Kg6", "Bf4+", "Ke6", "Kg3", "Kg6", "Kh3", "Kg6", "Kg2", "Be3", "Kh4", "Kg6", "Kg3", "Kd7", "Bc7", "Be3", "Bd8+", "Bxg3", "Bh4+", "Bg5+", "Kh3", "Kh6", "Kh3", "Be3", "Kg2", "Be3", "Kf3", "h4", "Bf4", "Bxf4", "Kxf4", "Kf6", "e5", "Kg5", "Kh3", "h4", "Kh4", "Kg6", "Kg3", "Kf5", "Kxh5", "Kxe5", "Kg5", "Ke6", "Kf4", "Ke5", "Kg5", "Ke6"]
+
+[White "Hunt, Harriet"]
+[Black "Gromova, Iulia"]
+["e4", "c5", "d4", "d5", "exd5", "Bf5", "Bd3", "e6", "Bd3", "c5", "O-O", "c5", "c4", "c5", "Bb2", "g5", "Nc3", "Nf5", "Bb2", "Be7", "Rc1", "O-O", "Qc2", "a6", "Rac1", "a6", "Rac1", "Nf8", "Bb1", "Nh4", "Rcd2", "Nh4", "g4", "Nh4", "b4", "axb6", "Na4", "Nd7", "Rdc1", "c5", "Nc5", "cxb5", "Nxg5+", "Qxg5", "Rxc6", "Nh4", "Nc5", "Nh4", "Bxg6+", "Qxg4", "Bxg6+", "Qxg4", "Qxg5", "Qxg4", "Bxg6+", "Nf5", "Bxf5", "Nd7", "Qxg5", "Qd8", "Qxg5", "Qd8", "Qxg5", "Qd8", "Bd3", "fxe6", "Nxd8", "fxg6"]
+
+[White "Karlovich, Anastazia"]
+[Black "Ciuksyte, Dagne"]
+["e4", "c5", "Nf3", "Nc6", "d4", "d5", "e5", "Nd5", "d4", "cxd4", "cxd4", "d6", "Nc3", "Nc6", "Nc3", "Nc6", "O-O", "Nd7", "Nc3", "Be7", "dxe5", "Be7", "Bg5", "Bg7", "Nc3", "O-O", "Nxd5", "Qc7", "Rac1", "a6", "Ne4", "Qc7", "Nxd5", "Bxd5", "Rc1", "Bxe4", "Bd3", "Nxe5", "Nxe5", "Bxe5", "Rc1", "Bxh2+", "Kh1", "Qxb7", "Bf3", "Qxb7", "Bf3", "Bf4", "Qc3", "e5", "Qf6", "Bh6", "axb4", "Bh6", "Re4", "Bg7", "Rc1", "Bxb2", "Rc2", "Bc3", "Re4", "Bxb4"]
+
+[White "Khukhashvili, Sopiko"]
+[Black "Krasenkova, Ilena"]
+["e4", "c5", "Nf3", "Nc6", "Bb2", "d6", "Nf3", "d6", "Bb5", "Bd7", "O-O", "Nf6", "c3", "Nf6", "Re1", "O-O", "Nbd2", "a6", "Nh2", "f5", "Ba4", "Bxc6", "d4", "cxd4", "cxd4", "exd4", "Nxd4", "Ne6", "Bb2", "Bf6", "Nc4", "d5", "gxh3", "Nxh3+", "Kh2", "Qxh3", "Kh1", "Nf4+", "Kh1", "Qh3", "exd5", "cxd5", "Ne3", "Bf6", "Qxd5", "Rd8", "Qg2", "Nf4", "Rg1", "g6", "Ng4", "Nf4", "Ng4", "Qxa2", "Qc3", "f6", "f3", "f6", "Rxg5", "fxg5"]
+
+[White "Kopylova, Lyubov"]
+[Black "Dzagnidze, Nana"]
+["e4", "Nf6", "c4", "g6", "c4", "d5", "Bg2", "c6", "Bd2", "O-O", "Qa4+", "b5", "e3", "Nxd4", "O-O", "a5", "O-O", "Bxd2", "a3", "e5", "Nxe5", "Qd6", "d5", "Ne7", "a3", "Bd6", "Bg5", "Nbd7", "Bb2", "Ba6", "Rac1", "Ba6", "a3", "axb4", "bxa5", "axb4", "bxa5", "axb4", "axb4", "b5", "Nfd2", "Ra3", "Qc2", "exf4", "fxe5", "Nxe5", "Qxc3", "cxd6", "Nxc4", "cxd6", "Qxc3", "Rxc4", "Qb2", "Rxc3", "Bxe6", "Rxe6", "exf6", "Nxf6", "dxc7", "Rxd6", "Ra7", "Kg7", "Rfa1", "Ne5", "Kg2"]
+
+[White "Krivec, Jana"]
+[Black "Hitzgerova, Gabriela"]
+["e4", "c5", "Nf3", "Nc6", "f4", "Nd4", "Bc4", "e6", "Nf3", "Bg7", "d3", "cxd4", "Ne2", "e6", "Nb5", "d5", "d3", "Be5", "e5", "dxc3", "dxc3", "a6", "Bg5+", "b5", "Bb3", "Nf6", "Qxc5", "Qc7", "O-O", "Nf6", "Nb3", "Nf6", "Bxh6", "Nxh6", "O-O", "Be6", "O-O", "Ng8", "O-O", "Be6", "f4", "Rac8", "Nd5+", "Bxd5", "exd5", "Nf6", "Qg5+", "Nf6", "Rac1", "Qe7", "Qe3", "Nf6", "f4", "Nf6", "Rfe1", "Re8", "a4", "Qc7", "Rc2", "b6", "Ba2", "Qd7", "fxe4", "Nxe4", "Rf1", "Qe7", "Rf4", "Qe5", "c5", "Rxc4", "cxb5", "axb5", "Bxe4", "Rc2", "Rxf6", "Rc2", "Bb3", "Rd2", "Qb7+", "Kg8", "Rh4+", "Nxd5", "Kh1", "Nxd5"]
+
+[White "Lujan, Maria Carolina"]
+[Black "Miednikova, Swietlana"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "O-O", "Bc5", "O-O", "Be7", "O-O", "O-O", "Nf1", "a6", "Ba4", "b5", "Bc2", "Bb7", "Ng3", "Bf8", "O-O", "dxe4", "dxe4", "Bg4", "O-O", "Bxb3", "Bxe6", "Bxb3", "axb3", "Qe6", "Rd1", "Qe6", "Rd1", "Qe6", "b4", "g6", "Rfd1", "a5", "f4", "a5", "f4", "c5", "bxc5", "Nxc5", "b4", "Bxc5", "b4", "Nc6", "Qg4", "Rd8", "Qg4", "a4", "c4", "Nd4", "Nxd4", "Qg6", "exf5", "Qf6", "Ne4", "Bd4", "Nxc5", "Rd8", "Rad2", "Qc6", "Rd3", "Qc6", "Kh2", "Qc6", "Nxc5", "Rxd5", "cxd5", "Rd8", "Qc4", "Bxf2", "d6", "Qxf2", "Rxa5", "Qxf5", "Qxb4", "Qf1+", "Qe7", "Qe5", "b4", "e3"]
+
+[White "Lundina, Aelita"]
+[Black "Vajda, Szidonia"]
+["e4", "Nf6", "Nc3", "Nc6", "Bg2", "g6", "Nc3", "d5", "e3", "d6", "Nge2", "d6", "O-O", "cxd4", "Nxd4", "Qc7", "O-O", "Be7", "Be3", "O-O", "b3", "O-O", "Bb2", "Bd7", "Rc1", "Rfd8", "cxb5", "bxc4", "Rc1", "bxc4", "cxb5", "bxc4", "cxb5", "axb5", "h3", "b4", "Na4", "Bb5", "Nd4", "Nfd7", "Bxe5", "Nd3", "Qb2", "Nc5", "Bxe5", "Nxg4+", "Nxe5", "Nxg4+", "hxg4", "e5", "Qxd6", "exf4", "Nh3", "Be7", "f4", "Qxb3", "Qd2", "Bb5", "Qxb3", "Bb5", "Qf2", "Nd3", "Re3", "Qc2", "Red1", "Rc2", "Qe3", "b3", "Rg1", "b3", "Rxd3"]
+
+[White "Makka, Ioulia"]
+[Black "Charkhalashvili, Inga"]
+["e4", "c5", "d4", "d5", "exd5", "dxe4", "Nxe4", "Bf5", "Ng3", "Bg6", "Nf3", "e6", "Nf4", "e6", "Nxg6", "hxg6", "Bd3", "e6", "Bd3", "Nd7", "Bd3", "N7f6", "Bg2", "Be7", "Bg2", "Qb6", "Bg2", "Bd6", "O-O", "O-O-O", "O-O-O", "Nb4", "b3", "O-O", "Ne4", "fxe6", "Qxe6", "Nf6", "cxb6", "Nxb6", "O-O-O", "Bf6", "O-O", "Rah8", "h4", "Bg5", "O-O", "c5", "O-O", "Rh4", "O-O", "Bxb6", "Qf3+", "Nd5", "Qf3+", "Bf6", "O-O", "Kf7", "Qf3+", "Bf6", "Qe4", "Kf7", "Qf3+", "Ke8"]
+
+[White "Muzychuk, Anna"]
+[Black "Blazkova, Petra"]
+["e4", "c5", "exd5", "Qxd5", "Nc3", "Qa5", "d4", "Nf6", "d3", "c6", "Bd2", "Bg4", "Bd2", "e6", "O-O-O", "e6", "Nf3", "e6", "O-O-O", "e6", "Bb3", "Bg6", "Nxf5", "cxd3", "dxc4", "cxd3", "Qxd3", "Bg7", "Qg3", "Bg7", "Qxb6", "axb6", "Rhe1", "Nc4", "Nxc6", "Bh6", "Nxc6", "e6", "b3", "O-O", "Nxa5", "O-O", "Nd7", "Nd5", "Rxb6", "Nd5", "Nxc6", "Nxe5", "Rxc8+", "Rxc8", "Rxe5", "Nd7", "Rb5", "Bxc3", "Ne4", "Nc4", "Bc3", "Bh6+", "b3", "Ne5", "Ne3", "Nxe3", "fxe3", "Rd5", "Bd2", "f6", "Bd2", "Kf7", "Kb2", "Ke6", "e4", "f5", "a5", "e4", "a5", "f4", "exf5+", "f4", "Rxe4", "Kf5", "Rxe4", "Rd6", "Rxe4", "hxg4", "hxg4", "Bh6", "Rxe4", "Bf4", "Re2", "e4", "c4+", "Ke5", "Rxd6+", "Kxd6", "Bxb6", "e3", "a5", "e3", "Kc2", "Ke5", "Kd3", "Kf4"]
+
+[White "Muzychuk, Mariya"]
+[Black "Kasparova, Tatiana"]
+["e4", "c5", "d4", "d5", "exd5", "Bf5", "Bd3", "e6", "Bd3", "e6", "Bd3", "e6", "Nf3", "Bxd3", "Qxd3", "c5", "Nf3", "Nf5", "g4", "c5", "g4", "O-O-O", "f5", "exf5", "fxe6", "fxe6", "h4", "Nxc5", "Na4", "Nb4", "Nxe5", "Nxe5", "Qe2", "Nc6", "Nb6+", "Kb8", "Qa4", "Be7", "Bxd4", "Nxd4", "Rxd4", "Bxc5", "Rxd8+", "Qxb6", "Rxc5", "Rc8", "b4", "Qxe5", "Rxe5", "Rd6", "Rhe1", "Rd6", "h4", "Kc7", "c4", "Kd7", "Kc2", "Rf8", "R1e2", "Rf3+", "Kb4", "Rf2", "Rxe3", "Ke7", "h4", "Rc6", "b4", "Rg1", "b4", "Kf6", "Kb4", "Kf6", "Ka5", "Ra1", "Kb6", "hxg5", "hxg5", "Rd5", "Kb6", "Rxg5", "Kxb7", "e5", "Kxb7", "e5", "c6", "Kc7", "Kb6", "g5", "a4", "e5"]
+
+[White "Nemcova, Katerina"]
+[Black "Limontaite, Simona"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "e5", "Ndb5", "d6", "Bg5", "a6", "Na3", "b5", "Nd5", "gxf6", "Nd5", "f5", "c3", "O-O", "Bd3", "Bxf5", "Bd3", "O-O", "Nce3", "Bxd3", "Nxe7", "Nxd5", "Nce3", "Nxd5", "Nce3", "bxa4", "axb5", "axb5", "Nd4", "Be6", "Ncb4", "Qg5", "Nc7", "Nf4", "Nc7", "Bf7", "Nxb5", "f4", "Nxb5", "Ng4", "Bxc4", "Ne5", "Bxb5", "Rxb6", "Nxb5", "Rfb8", "c4", "f4", "c4", "f4", "Qd2", "Bxh5", "Bxf7+", "Bxh5", "Qxh5", "Rxb3", "Qg5+", "Kh8", "Nd5", "Rc6", "Nd5", "Qh5", "Rxb7", "Rxb7", "Rd1", "Bxd6", "Qd4+", "Kg8", "Qxd6", "Rxb3", "c5", "Kg7", "Qd4+", "Rf3", "Qd4+", "Rc7", "Rd6", "Rb1+", "Qxe7+", "Rxe7", "c6", "Rc7", "Rc2", "Kf6", "Kg2", "Kf6", "Kf1", "Ke5", "fxe4", "Kd4", "fxe4", "fxe4", "Ke2", "Kxc5", "Rc2", "Kd4", "Ke2", "Ke5", "Rc2", "Rxc5", "Rxh7", "Rc2+", "Ke3", "Rc3+", "Ke2", "Rd3+", "Ke2", "Kf5", "Ke2", "Kg4", "Re7+", "Kd4", "Ke2", "e3+", "Ke2", "Kd3", "Rg2", "e3", "Rg2", "Kf4", "Ke2", "Kg5", "Ke2", "Kf4", "Rg3", "Kg5", "Ke2", "Kf4", "Kd3", "Rxh2+", "Kxe3", "Kg5", "Kf3", "Rh3+", "Kf3", "Ra3+", "Ke4", "Ra2+", "Rg2", "Rb2+", "Kxg3"]
+
+[White "Sarakauskiene, Zivile"]
+[Black "Zatonskih, Anna"]
+["e4", "c5", "d4", "d5", "Nc3", "Nf6", "exd5", "exd5", "Ngf3", "cxd4", "Bc4", "Qd8", "O-O", "Nc6", "Nb3", "Nc6", "Qxd4", "Nf6", "Nbxd4", "Nf6", "Bb3", "O-O", "Bg5", "O-O", "Nxd4", "O-O", "Bb3", "b5", "Bd3", "b5", "Rad1", "Rad8", "Qh5", "e5", "Rad1", "e5", "Qxc5", "Bxc5", "Be3", "Ba7", "Be3", "Bc6", "Be3", "f5", "c5", "Rfe8", "c5", "Rxd1", "Rxd1", "Rd8", "Rxd8+", "Bxd8", "Ba5", "b6", "Bxb7", "hxg6", "Nd3", "Bxb4", "Nc5", "Bxb2", "a4", "Bd4", "Kf1", "Bxc5", "Nxc5", "Kf8", "Kf1", "Ke7", "Kf2", "Kd6", "Ke3", "Kd6", "Kd4", "Kc6", "Kd4", "b6", "g4"]
+
+[White "Stepovaia Dianchenko, Tatiana"]
+[Black "Khmiadashvili, Tamari"]
+["e4", "c5", "d4", "d5", "Bxa6", "Nc7", "f4", "d5", "f4", "Bg7", "e5", "Bg7", "Ne2", "f6", "h3", "Nf5", "Bf2", "O-O", "Ne2", "e6", "Nh3", "Bh6", "O-O-O", "Qa5", "Kb1", "a5", "cxb4", "gxf5", "cxb4", "a5", "a3", "Qxb4", "Be1", "a5", "Bd2", "Qxd2", "Nxf4", "Rxb4", "Bd2", "Rb8", "axb3", "Nxd4", "Nxf4", "Nxb3", "Ka2", "Bc2", "Rc1", "Bxb3+", "Ka3", "Bc4", "Rxc4", "Nxf3", "Bc3", "Bxf4", "Bd6", "Kd7", "Kb4", "Nxd6", "exd6", "Kd7", "b3", "Rb8", "Ra1", "dxc4", "Kd4", "e5+", "Kxc4", "h4", "gxf4", "Kd6", "b4", "Rb7", "Rxa7+", "Kd6", "Rc7", "Rf2", "Kc5", "Rxh4", "Ke5", "Rxh4", "Rc7", "exf5", "Kxf5", "Rxh4", "Rc7", "Rh1", "f4", "h4", "Kxh5", "c5", "Kg4", "c5", "f4", "c5", "Kf4", "c5", "Ke3", "Ke5", "Kg4", "Ke5", "Rxf4", "Rxf4"]
+
+[White "Tereladze, Sopiko"]
+[Black "Jackova, Jana"]
+["e4", "Nf6", "c4", "g6", "c4", "Be7", "Bh4", "Qxf6", "e3", "d6", "Bd3", "Nd7", "h3", "Bg7", "Qd2", "a6", "O-O-O", "Nc6", "e5", "Bb7", "e5", "Nd7", "Bg2", "Nb6", "Rhe1", "b4", "Na2", "a5", "Qe3", "Nxe4", "Qxb4", "Nxf2", "Nc3", "Kd7", "Nc3", "Kd7", "Nd3", "Rb8", "Qa3", "Bc4", "dxc5", "Bc4", "Qxa6", "Nxd4", "Nxd5", "Qxd3", "Nxd3", "Bc4", "f4", "c5", "f4", "gxf4", "Rxg2", "c4", "Nf2", "dxe5", "fxe5", "Bxe5", "Nb5", "Ke7", "axb5", "Rb8", "c3", "Nxb5", "Rd7+", "Kc6", "Rxf7", "c3", "Re1", "Na3+", "Rxe6+", "Nd4+", "Kc3", "Nxf7", "Rxe6+", "Kd5", "Re7", "Rb7", "Rxh6"]
+
+[White "Tsereteli, Tamari"]
+[Black "Datuashvili, Nona"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "a6", "Nc3", "Nf6", "Bg2", "Bc5", "Nb3", "Bb6", "O-O", "O-O", "Nc3", "O-O", "Nc3", "O-O", "N1d2", "a6", "Rc1", "a6", "Nb5", "a6", "Nd4", "Qb7", "Nab5", "a6", "b3", "Qb8", "Qa4", "a6", "Qxa7", "Qxa7", "Qxb8", "Rxb8", "Bxe4", "Bxg2", "Nxd6", "Bxg2", "Kxg2", "Nc5", "Nab5", "Nc5", "Bf4", "Ne8", "Bf4", "Nc6", "b4", "Ne8", "c5", "Nf6", "Rcd1", "Ng6", "Kf3", "Rxd2+", "Rxd2", "f5", "Ned6", "Nd7", "Nd6", "Nd7", "Nd6", "Rb8", "Rxd6", "Ncb8", "Nb5", "hxg4", "Rc6", "hxg4", "Ne4+", "Ke7", "c5", "bxc5", "Nxc5", "Nxc5", "Bxc5+", "Ke8", "Kf3", "Ne7", "fxe5+", "Kxe5", "a5", "hxg4", "hxg4", "f5", "Rd4+", "Kg5", "Kf3", "Ne7", "Ra8", "Rc7", "Rd7", "Rxb4", "Bb8+", "Rxd4"]
+
+[White "Umudova, Nargiz"]
+[Black "Goletiani, Rusudan"]
+["e4", "c5", "Nf3", "Nc6", "d4", "Nc6", "g3", "Nf6", "Bg2", "Nf6", "O-O", "Bg7", "c3", "Nge7", "Nbd2", "Nge7", "b4", "b6", "b5", "f5", "Bb2", "Be6", "Be3", "Bc8", "b5", "Nd4", "a4", "Nd7", "Bb2", "Nd7", "Be3", "Bc8", "f4", "exf4", "gxf4", "f5", "exd5", "Qxh4", "Qf3", "Bd4+", "Nc4", "Qxe1", "Nc4", "Ng4", "h3", "Bd4+", "Bf3", "Qh6", "Rg2", "Qxc1", "Bxh6", "Nxg3", "hxg3", "Nxf1", "Bxf8", "Kxf8"]
+
+[White "Vasilevich, Tatjana"]
+[Black "Andersson, Christin"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "Nc3", "Bg4", "Nc3", "Bd6", "Bd3", "O-O", "O-O", "O-O", "dxe5", "cxd5", "dxe5", "Bc7", "Nxd6+", "Nf4", "Nxd6+", "Qxd6", "dxe5", "O-O", "Qxd4", "Na6", "Bb3", "Na6", "Qxd4", "Nxe5", "Qxd4", "fxe6", "Bxe6", "Nf6", "Re1", "Rxc8", "Re1+", "Kf7", "Ne5+", "Qd6", "Ng5+", "Rhe8", "Rc1", "Qd5", "Qxd4", "Rxe5", "Qd6", "Rxe5", "Bxf6", "Rxe8", "Qe7+", "Kg8", "Ne5", "Nd7", "Qxf7+", "Kxf7", "Bxc5", "Rxc5", "Bxc5", "a6", "Ne5+", "Kg6", "Ne6", "h6", "Ne6", "Nc6", "f3", "Nxd6", "Bxd6", "Nc6", "f3", "g5", "g4", "Kf7", "Bc5", "Ke6", "Ke2", "Ke6", "Ke3", "h5", "Ke3", "Kd5", "f3", "Kg4", "f3", "Ne6", "Ke3", "Nc5", "hxg5", "Nxg5", "Ke3", "Ne6", "Bb4", "Nc5", "Bg7", "Ne6", "Bc3", "Ng5", "Bd4", "Ne6", "Bh4", "Ne5", "Bf4", "Ne6", "Bc7", "Ne5", "Be7", "Ne6", "Bd4", "Ng1", "gxh4", "Nxf4", "Kf3", "Kg4", "h5", "Nf4", "h6", "Kg6", "Bd2", "Ne6+", "Ke5", "Nf8", "Kd6", "Nf7", "Kb6", "Nxh6", "Kxa6", "Nc4", "Kxb5", "Nb2", "Kxb5", "Ne4", "Be3", "Nc3+", "a4", "Kf5"]
+
+[White "Vovk, Oksana"]
+[Black "Shumiakina, Tatiana"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "Nc3", "Nf6", "Nc3", "Nf6", "O-O", "Bd6", "Nc3", "O-O", "Bb2", "O-O", "Ba3", "O-O", "Bxd6", "Bxa3", "f4", "Bxa3", "Bxd6", "exd5", "Bxd6", "Qxd6", "Nc3", "Ne4", "Nf3", "Ne4", "Rc1", "Rac8", "Nfe5", "Bxe2", "Qc2", "Rac8", "f3", "fxe4", "f4", "exf3", "Bxf3", "Ne4", "Qc2", "Nd7", "Rc2", "Rfe8", "Rfc1", "c5", "Ng4", "Ne4", "dxe5", "Qxe5", "Rce2", "Re6", "Rce2", "Ne4", "Rce2", "Ne4", "Ref1", "h4", "e4", "Ne5", "Qd3", "Ne4", "Qa6", "Nd7", "Qc8", "Re7", "Qxe6+", "Bc6", "Qc8+", "Kh7", "Qb7", "Ne4", "Qc8", "Re8", "Qxe6", "Ne4", "Qc8", "Qe5", "Bxd5", "dxe4", "Bxe4", "Nxe4", "Rxe4", "Qd4+", "Kh1", "Rf6", "Kf2", "Rxe3", "Qxe6"]
+
+[White "Arutyunova, Diana"]
+[Black "Gaponenko, Inna"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nc3", "cxd4", "Nxd4", "a6", "Be3", "g6", "Nxc6", "Qb6", "Bh4", "g5", "Bg3", "Bg7", "Nxc6", "Bd7", "Bxc6+", "O-O", "O-O", "O-O", "O-O-O", "Ne3", "Bf2", "Qa5", "O-O", "Kb8", "exd5", "bxc6", "exd5", "Bxd5", "Nxd5", "Rd7", "a3", "Bc4", "Re1", "Bxe2", "Qe3", "Kb8", "Qxe5", "Bxe2", "Ne4", "Qc7", "c3", "e6", "c3", "h5", "b3", "h5", "b3", "Bxe2", "b4", "b6", "Qe3", "h4", "b5", "Na5", "a4", "h4", "h3", "Bd5", "Qf5+", "Kb8", "Qxd7+", "Rxd7", "Ne3", "Be6", "Red1", "Bxg4", "fxg4", "Rhd8", "h3", "Nc4", "Nd4", "Bd6", "a4", "Nc4", "Be3", "Nc4", "h3", "Rxa4", "Rf1", "Rxa1", "Rf1", "Bc5", "Kf2", "Nc4", "Rad2", "Nc4", "Bc1", "Nxe3", "Bxc5", "Rxc5", "Rxd1", "Rxc5", "Rb1", "Rxb5", "Ke4", "Rb2", "Nc1", "b5", "Ra1"]
+
+[White "Cherenkova, Kristina"]
+[Black "Muzychuk, Mariya"]
+["e4", "c5", "exd5", "Qxd5", "d4", "Nxd5", "c4", "Bg4", "c4", "Bxd3", "Qxd3", "e6", "O-O", "Be7", "c4", "Ndb4", "Nc3", "Be7", "Bg5", "O-O", "a3", "a6", "b4", "Rad8", "d5", "h6", "Bh4", "Ng4", "b4", "a6", "c5", "Rfe8", "c5", "Be7", "a4", "axb5", "bxa6", "Nd5", "bxc6", "Nxc6", "Nxc6", "Qxc6", "Rb6", "Nd5", "Nb6", "Qc7", "Rxb6", "Bf6", "Rxa6", "Bf6", "Qxa6", "Bxd4", "Rxa6", "Bxd4", "Rd1", "Rcd8", "Rd1", "Bxd4", "Rb1", "Bxd4", "Bxd4", "Rxd4", "Ke2", "Rd5", "Ke3", "Rb4", "a5", "Ra4", "Ra7", "Kf6", "Rb2", "Rb8", "a6", "Rc8", "Rxc6", "Re5+", "Rxc6", "Rxa5", "Rc7", "Re5+", "c6", "Rac5", "Rxc5", "Re5+", "Rbb7", "Rc2+", "Rxf7+", "Kg5"]
+
+[White "Dzagnidze, Nana"]
+[Black "Berzina, Ilze"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "Nc3", "Nf6", "Qxc4", "Nf6", "Qc2", "Bb7", "e4", "Nf6", "Bd3", "a6", "O-O", "Ngf6", "Nc3", "c5", "d5", "c4", "Bf1", "exd5", "Nc3", "Bb4", "axb5", "axb5", "Nc3", "cxb3", "bxc4", "bxc4", "Be3", "Nxe3", "fxe3", "Qb6", "Bxc4", "c3", "Nxc4", "Qb6", "Bd3", "Nxc4", "d6+", "fxe4", "Qxe4", "Nxd5", "Red1", "Bxe1", "d6+", "Bxe1", "Rxe1", "Kg7", "Qxe5+", "Bc3", "Qxd7", "Nxd7", "Rxe1", "Rc3", "Bd5", "Nd3", "Nf7+", "Kg7", "N7xe5", "Kf6"]
+
+[White "Ionica, Iulia"]
+[Black "Sudakova, Irina"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "a6", "Be3", "e6", "f4", "Be7", "O-O-O", "Be7", "f4", "Be7", "Nxc6", "gxf6", "f5", "b4", "Nxc6", "Bxc6", "Qd4", "Be7", "Bd3", "O-O-O", "Ne2", "a5", "g3", "e5", "Bc4", "a5", "Bc4", "Bb5", "Bxf7", "Rxg2", "Bxf7", "Rhg8", "Ng3", "a5", "Nd3", "a4", "Qxf2", "Rxf2", "Bd5", "Bb5", "Rg3", "a4", "Reg1", "Rh2", "Reg1", "Ke7", "R1g7", "bxa3", "bxa3", "Bb6", "Nb3", "Rxg3", "Rxg3", "Bb6", "Rb3", "Bd7", "Nd3", "Rg7", "Ra8", "Rg7", "Ra8", "Bc8", "Nb3", "Bc7", "Ra8", "Ke7", "Rb4", "Bb6", "Kc2", "Rxd3", "Bd5", "Bxd5", "cxd5", "Bb6", "Kc2", "Rg2+", "Ne2", "Rg2", "Kd2", "Rh2", "Kc2", "Rg2", "Kc2", "Rg8", "Rc4", "Rc8+", "Nc3", "Rb3", "Kb2", "Bxc3", "Re2", "Bd4", "Kd3", "Bxc3+", "Kd3", "Bc5", "Kd3", "Rc8", "Rf1", "Ba5", "Nxa4", "Bc5", "Kc4", "Rb8", "Nc3", "Ba5+", "Kd3", "Rb8", "Rg1", "Rb3+", "Kc4", "Rxa3", "Nf3", "Rc3+", "Nxh4", "a3", "Kxa4", "a3", "Ng6", "a3", "Ra1", "Ke8", "Ne6", "a2", "Ra1", "Rh2", "Rxa2", "Rb2+", "Kb3", "Rxe4", "Kxa2", "Rxe4", "Kb3", "Re3+", "Ra8+", "Re3+", "Kd2", "Rf3", "Ra7", "Kf7", "Ra8+", "Kf7", "Rh8", "Rb3+", "Ra7", "Rb3+", "Rc7", "Rb3+", "Kf2", "Re4", "Nc7", "Rd2+", "Ke2", "Rh3", "Ra7", "Rb2+", "Ra7", "Rf3", "Ra7", "Rd3", "Ng7+", "Kd7", "Rh8", "Ke8", "Ra8+", "Kf7", "Ra7"]
+
+[White "Jackova, Jana"]
+[Black "Golubenko, Valentina"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "Nf6", "d3", "Bc5", "O-O", "O-O", "c3", "d6", "c3", "Bg4", "Bxe6", "Bxc4", "Nf1", "a6", "b4", "Qxe6", "Nf1", "a6", "b4", "a6", "b5", "Nb8", "Na5", "exd4", "cxd4", "Nbd7", "e5", "Qg6", "Na5", "Nd7", "Na5", "Ng5", "Nxb6", "Ng5", "Rac1", "Rc8", "a5", "Ng5", "e5", "d5", "Bxe7", "dxc4", "Qxc4", "Rf7", "Bh4", "b6", "Rxc5", "Ng5", "Rfc1", "Ng5", "Nxg5", "Qxg5", "Rh3", "exd5", "dxe6", "Re7", "Qd5", "Rxc7", "Rxe7", "Rxe7", "Qd5", "Qxe6", "Qxe6+", "Rxe6", "Rd7", "Kf7", "Kf1", "Kf7", "Kg2", "Rxe5", "Rxg4", "Kxe5", "f4+", "Kf6", "Rf4+", "Kg6", "Kg2", "Kh5", "g4", "a6", "Kg3", "Rd3+", "f3", "Ra3", "Rc4", "Kh7", "Kh4", "Ra1", "Rxb7", "Rxa4", "f4", "axb6", "Rxb6+", "Kh7", "g5", "Ra3+", "Kh4", "Ra4", "Kg5", "Ra5+", "f5", "Ra4", "Rb7", "gxh6+", "Rxh6+", "Kg7", "Rb6", "Kf7", "Rf6+", "Kg7", "Rg6+", "Kf7", "Ra6", "Kg7", "Rf6+", "Kg7", "Rb6", "Rc7", "Kg6", "Kf7", "g5", "Kg8", "Rb7+", "Kg8", "g6", "Ra5+", "f7+", "Kf8", "Rf7+", "Rc5+", "Ke6", "Rc4+"]
+
+[White "Juergens, Vera"]
+[Black "Narva, Regina R"]
+["e4", "Nf6", "c4", "d5", "e4", "d5", "Bh4", "Be7", "e4", "Be7", "O-O-O", "O-O", "e3", "Bxf6", "e4", "dxe4", "e5", "exd5", "O-O-O", "Be6", "Bd3", "O-O", "Bd3", "Re8", "O-O", "Re8", "Rfe1", "Rfe8", "Bd3", "Bxd3", "h3", "Bxf3", "Qxf3", "Nxd4", "Ne2", "Nxd4", "Qxd5", "Rxe8", "Qxd5", "Nxd4", "c3", "Rad8", "c3", "b5", "Bxe6", "Rxe6", "Qxc7", "Ra7", "cxb4", "Bxb2", "Qxc7", "Be5", "Rxc7", "Bd6", "Rxc7", "Rad8", "Rc6", "Rd4", "Qc4+", "Kh8", "Qxa6", "e4", "Qe2", "e3", "b5", "e3", "fxe3", "Bxe3", "b5", "Rd2+", "Kh3", "Rxf7", "Qc3", "Bd4", "Qc7", "Bf6", "a4", "Rf8", "Qb3+", "Kh8", "Qc2", "Rf2+", "b5", "Rde8", "Qf5", "Re5", "Qg6", "Rde8", "a4", "Rb8", "b6", "Bf6", "b6", "Bf6", "b6", "Rf2", "b6", "Rd2", "b6", "Rf2", "a5", "Rf5", "Rxf8+", "Rxf8", "a5", "Rf2"]
+
+[White "Kostiukova, Liubov"]
+[Black "Hunt, Harriet"]
+["e4", "Nf6", "c4", "e6", "Nc3", "d5", "Bg2", "c6", "Nf3", "O-O", "O-O", "c6", "Ne5", "b5", "a4", "b5", "Qc2", "Bb7", "Nc3", "Nbd7", "Nbd2", "Nxf6", "e3", "Rc8", "Rac1", "Be4", "Qd2", "Nd5", "Qd2", "Bb4", "Qd1", "Qe7", "a3", "Be7", "Rc1", "Bb7", "e3", "Bf6", "e3", "Bf6", "Ne5", "Bxg2", "Rc1", "Bxg2", "Nb3", "Nc4", "Nc5", "Bxe5", "dxe5", "Bxg2", "Qd4", "Nc4", "Rfd1", "fxe4", "Bxe4", "Qf7", "Rfd1", "Qf7", "bxc5", "Rxc5", "Bxd5", "Rxd5", "Qxd5", "Rxd1+", "Rxd1", "Qxa5", "Rc1", "Nxb3", "Qxh5", "Nxb3", "Qxb3", "Qxe5", "Qd3", "Rc4", "Qe7", "Kh7", "Qb1+", "Rc1+", "Kg2", "Qe4+", "Qf3", "Qg4+", "Kg2", "exf5", "Rd6", "Ra4", "Rd3", "Kg6", "gxh4", "hxg3", "hxg3", "Kg6", "Kh4", "Kf6", "Kh5", "g6+", "Rd6+", "Re6", "Rd3", "Rc6", "g4", "g6+", "g4", "g6+", "g4", "g6+", "Kxg4", "b4", "axb4", "axb4", "Rc2", "b3", "Rb2", "g6", "Kf3", "Kf5", "Ke3", "Rxf4", "Kd3"]
+
+[White "Maisuradze, Nino"]
+[Black "Vasilevich, Tatjana"]
+["e4", "Nf6", "c4", "g6", "c4", "d5", "Bd2", "O-O", "e3", "O-O", "Bd3", "O-O", "bxc3", "O-O", "O-O", "O-O", "d5", "O-O", "d5", "e4", "d5", "e4", "Qe2", "e4", "d5", "Qe7", "cxd4", "exd4", "exd4", "d5", "c5", "Bxe2", "Bxc4", "Re8", "Bxc4", "b5", "Bxc4", "Nxd4", "Nxd3", "Nxd4", "Bf2", "Qxb6", "Bf2", "Ne2+", "Kh1", "Re8", "Re1", "Nc3", "Qd2", "Rxe1+", "Rxe1"]
+
+[White "Maksimovic, Suzana"]
+[Black "Tsereteli, Tamari"]
+["e4", "Nf6", "c4", "Nf6", "Bf4", "c6", "Nc3", "Be7", "Nc3", "O-O", "O-O", "b6", "Nc3", "Bb7", "b3", "exd5", "Ne5", "Nbd7", "Bb2", "c5", "Rc1", "Rc8", "Bb1", "Ne4", "Ng3", "Ndf6", "hxg3", "Nf6", "Bb1", "Bf6", "Rfd1", "Qe7", "Bb1", "a6", "dxc5", "Bxb2", "Qxb2", "bxc5", "Bxd7", "a6", "Qxa7", "c4", "Qxb4", "Qxc7", "Qxb4", "a6", "Nd4"]
+
+[White "Mamedjarova, Turkan"]
+[Black "Rudolf, Anna"]
+["e4", "Nf6", "Nc3", "g6", "e4", "d5", "Qc2", "O-O", "Bd3", "c5", "Bd3", "exd5", "Bd3", "c6", "O-O", "c6", "a3", "Bd6", "b4", "Nbd7", "Bb2", "Nbd7", "Bb2", "Nb6", "a4", "Be6", "Nf3", "Nc4", "Nf3", "Bf5", "Bd3", "Bxd3", "Qxd3", "Nc4", "Re1", "Nc4", "Nb3", "Nc4", "Nc5", "Nxa5", "bxa5", "Bc7", "Bd2", "Ne4", "Nxe4", "Qxe4", "Qc3", "c5", "dxc5", "Bxc5", "Bb4", "Bxb4", "Rac1", "Bxb4"]
+
+[White "Mamedjarova, Zeinab"]
+[Black "Nikoladze, Sopio"]
+["e4", "Nf6", "c4", "g6", "c4", "d5", "e3", "Bb7", "Be2", "Be7", "Nbd2", "Bd6", "Ne5", "Nbd7", "O-O", "Nbd7", "f3", "Nxd2", "Qxd2", "f6", "c3", "Nc6", "Ng4", "Bxf4", "Bxd6", "Bxd3", "Qxd3", "Bxf4", "Bxd6", "c4", "Bxd6", "Qxd6", "exd4", "Rae8", "Re2", "e5", "Rde2", "Rae8", "Rfe2", "Rbe8", "a3", "b4", "Rfe2", "b4", "Ne5", "gxf6", "Nh5", "Rf7", "Nh5", "b4", "Qg3", "b4", "Ng3", "gxh5", "fxe5", "Nxe5", "Rxe5", "Qd7", "Ng3", "b4", "Qe2", "Rbe8", "Qe3", "Rbe8", "Qe3", "bxc3", "Qe3", "bxc3", "Ng3", "bxc3", "bxc3", "Qa3", "Ne2", "Rxe5", "fxe5", "Qe6", "Nc5", "g5", "Nc5", "Qe7", "Qf3", "f4", "Qf3", "Kg6", "Qf3", "Kg7", "Qf5", "Rc6", "e6", "Rxc5", "Qe5+", "Kg6", "Nd7", "h5", "Nd7", "Rd6", "e7", "Re8", "Qd3+", "Kg7", "Qf5", "Rf8", "Qg4", "Qxe7", "e8=Q", "Kf8", "Nxd6", "Rf6", "Nb5", "a6", "gxf3", "fxg2", "Kxg2", "a6", "Nd6", "h5", "Nd6", "g4", "Nxa7", "Rb6", "Nd6", "Re7", "Nxa7", "Rc6", "Nxd5", "Rc6", "Nxd5", "Rb2+", "Kg3", "g4+", "Ne3+", "Kf6", "Ng4+", "Ke5", "Kg4", "Rxh3+", "Ke4", "Rh1", "d7", "Ke7", "Nd5+", "Kd8", "Ne6+", "Rxc3"]
+
+[White "Melia, Salome"]
+[Black "Fomina, Tatyana"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "a6", "Nc3", "a6", "Be3", "a6", "f3", "a6", "f3", "Qb8", "Bf4", "a6", "f3", "e5", "Bg5", "a6", "Bxf6", "b5", "Nxc8", "Nxf5", "exf5", "b5", "Bxf6", "Bxf6", "g4", "Bd8", "Nxf6+", "Bb7", "Bg2", "Bxd5", "Bxd5", "Rac8", "Bxa8", "Rac8", "Bxa8", "Qc5", "Bxa8", "Qxa8", "Qxf4", "Qc6", "Rxd7", "Qc6", "Rxd7", "Qxe4", "Qe8+", "a5", "Rd5", "Qg1+", "Re1", "Qxh2", "Qe8+", "Kxf7", "Rxf6", "a5", "Qe6+", "hxg5", "gxf6", "Rxe8"]
+
+[White "Meshcheriakova, Evgenia"]
+[Black "Sirotkina, Nina"]
+["e4", "c5", "exd5", "Qxd5", "d4", "Bd7", "dxc6", "bxc6", "Bc4", "e5", "d3", "Bc5", "Nf3", "e4", "dxe4", "Qxd1+", "Bxd1", "Nxe4", "O-O", "Bxe3", "fxe3", "O-O", "O-O", "Ba6", "Re1", "Nd7", "Nbd2", "Bxe2", "Rxe2", "Rab8", "b3", "Ndc5", "Nbd2", "Rfd8", "Nc4", "Rfd8", "Nfe5", "Nd5", "Nc6", "Rbd8", "Nf3", "Rd7", "Rad1", "Rc7", "N6e5", "Rce7", "Nc6", "Ng4", "Nfd2", "Ng4", "Red1", "Ng4", "h3", "Nef2", "Rxd8", "Nef6", "h3", "Ne4", "h3", "Ngf2", "Nfe5", "Kg8", "Nc6", "Kg7", "Nc6", "h5", "a5", "Rb7", "a6", "Nxd6", "Rxd6", "Nf6", "Rc6", "Ne4", "Nc6", "Ne4", "b3", "Ne8", "Rc6", "Ne4", "b4", "Nxc3", "Rxe6", "fxe6", "Ke2", "cxb4", "bxc5", "Kf6", "Nd6", "Kf6", "Ke2", "Ke7", "Kd3", "Kd8", "Kd4", "Nxa6", "Kc4", "Kd6", "Kc5", "Kd6", "Nf7+", "Kxc6", "Nxh6", "a5", "Nf7", "a5", "Nf7", "a4", "hxg4", "Kd7", "Nb7", "gxh3", "gxh3", "a4", "Nxa5", "Ng7", "Kc5", "Kg6", "Nd6", "Kf5", "Kd4", "Nc7", "Nd3", "Nb5+", "Nc5", "Nf4", "Nf6", "Ne2+", "Ke3", "Ng3", "Kf3", "Nh5", "Nd7", "Ng7", "Nf6"]
+
+[White "Molchanova, Tatjana"]
+[Black "Toma, Katarzyna"]
+["e4", "Nf6", "c4", "e6", "Bf4", "d5", "f3", "c5", "Bd3", "f5", "Nf3", "Bd6", "Nd2", "Nc6", "Ngf3", "Bd6", "Ne5", "O-O", "O-O", "O-O", "Re1", "f6", "Bb1", "Bb7", "exd5", "exd5", "Bb1", "Bf6", "Bb1", "Bf6", "Ng3", "Bf6", "Bg3", "f6", "Nxe5", "Bf6", "N3g4", "Rf8", "Bc6", "Bxc6", "Bxc6", "Rc8", "Bxd5", "cxd4", "Bf3", "Nxd5", "dxc5", "bxc5", "b3", "Bd4", "b3", "Bd4", "Qf3", "Nd3", "Kh2", "Nxh3+", "Ree2", "Ne5", "Rcd2", "Rbe8", "Rde1", "Qh6", "Rde1", "Nxa2", "Ng4", "Nxd5", "Nxd5", "Rxe1+", "Rxe8", "Rxe1+", "Rxe8", "Qf6", "Nxd4", "axb4", "axb4", "cxb4", "bxc5", "Rxd4", "c5", "Kg7", "c5", "Qb5", "Qc4", "Rfe8", "Qc4", "Rxe8", "Rxd4", "Re1+", "Qd1", "Kg8", "Qc4+", "Qe1+", "Rd7", "Ra1+", "Kg2", "Qe1+"]
+
+[White "Sammalvuo, Nina"]
+[Black "Krivec, Jana"]
+["e4", "c5", "Nf3", "Nf6", "Nf3", "Nf6", "d3", "Bc5", "O-O", "O-O", "c3", "d6", "c3", "Bg4", "c3", "a6", "c3", "Bg4", "b4", "exd4", "dxe5", "Nb8", "Nbd2", "Bxg5", "Bxg5", "f5", "Nf3", "Bxf5", "Ne4", "Bxc1", "Rxc1", "Nd7", "Ng3", "Qh3", "Bd3", "Nd7", "Bg2", "Nd7", "Bg2", "Nf6", "b4", "Bh3", "b4", "Raf8", "fxe4", "Raf8", "Rf1", "Nf6", "Rh4", "Nh7", "c5", "Ng5", "f4", "exf4", "gxf4", "Nh3+", "Bxh3", "Qxh3", "Qg2", "Qg4+", "Rg3", "Qg4+", "f5", "g4", "Qg6+", "Kh8", "Qe4", "Rg4", "Qe6+", "h5", "Qe4", "Rgf7", "Rg1", "Rfg6", "Qe4", "Qg4", "Ref1", "Rgf6", "Rf1", "Rg4", "Rg1", "Rgf6", "Qd4", "Qg5", "Rf2", "h5", "Rg1", "Rgf6", "Rexf4", "Qg2+", "Rg1", "Rgf6", "Rexf4", "Rxf4"]
+
+[White "Shaidullina, Sandugach"]
+[Black "Danielian, Elina"]
+["e4", "Nf6", "c4", "Nf6", "Bf4", "c6", "Nc3", "e6", "Bxc4", "Be7", "O-O", "cxd4", "a4", "b5", "a4", "Bb7", "Nbd2", "Bb7", "Nc4", "cxd4", "e5", "Nd5", "Nc4", "O-O", "Qxd4", "Bxg5", "Bxe7", "Qxe7", "Qxd4", "Bxf3", "Qxf3", "Nxe5", "Nc6", "Nxe5", "Nc4", "Nxe5", "Nxe5", "Qxe5", "Rac1", "Rc7", "Rc4", "Rd7", "Qxd4", "Qxc7", "Qxd4", "Nc6", "g3", "Qxc4", "Qg4", "Ne5", "Bb5", "Rd8", "Qxc7", "Ra8", "Bb5", "Nf5", "Rd2", "Nf5", "Bb5", "Qc1+", "Kg2", "Qxb2", "Rd2", "Qc1+", "Bb5", "Qb1+", "Qc7", "Qxd6", "Rxd6", "Ne5", "Rd7", "Nd5", "Bb5", "Kg7", "b3", "Nd5", "Rb7", "Nd5", "Bc6", "Rc8", "Rb5", "Rd8", "Ra7", "Rd1+", "Kg2", "Rd2", "Rxa5", "Rc2", "Rxa5", "Rxb2", "Ra8+", "Kg7", "a5", "Ra2", "a6", "Ra2", "a7", "Ra2", "Bc4", "b2", "Bb1", "Ra1", "Rb7", "Rxa6", "Rxb2", "Nd5", "Rb7", "Nd5", "Bd3", "Ra3", "Bc4", "Rd2", "Kg2", "Rd1", "Be4", "Rc3", "Be4", "Nc3", "Bf3", "Rc3", "Bb5", "Nd5", "Rb5", "g4", "Rb7", "Kg7", "Rb5", "Kh6", "Be4", "Rc3", "gxh4", "hxg3", "Rxg5+", "hxg3", "gxh4", "gxh4", "Kf3", "Nd5", "Rxh4", "Nd5", "Bb3", "f5", "Rxh4", "Ne4", "Rxe4+", "Rxf2", "Bg8", "Ne4", "Rxe6", "Nxh3+", "Kf1", "Ng5", "Rf6", "Rh1+", "Kg2", "Rg1+", "Kxh3", "Rg3+", "Rh2", "f4", "Rh2"]
+
+[White "Shumiakina, Tatiana"]
+[Black "Daulyte, Deimante"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Bg7", "e4", "d6", "Nf3", "O-O", "Be2", "e5", "O-O", "Nc6", "a3", "exd4", "a3", "Bg4", "h3", "Nc5", "a3", "a5", "a3", "Bxf3", "Bxf3", "Nd7", "a3", "Nc5", "a3", "f5", "a3", "b6", "b4", "f5", "f3", "f4", "b4", "axb3", "axb3", "f4", "Rf1", "f4", "Bf2", "Bxf2+", "Rxf2", "Nb4", "b4", "Nf6", "c5", "Nh5", "Bxa6", "Rxa6", "bxc5", "b6", "Rxb7", "cxd6", "cxd6", "Nxd5", "Qxd5+", "Kg7", "Rxb7", "Qxd5", "exd5", "dxc5", "Rc2", "Re8", "Kh2", "Re8", "Rb8+", "Kg7", "Rxe5", "Rd1", "Rc8", "Rxd6", "Rxc5", "Rd2", "Re5"]
+
+[White "Socko, Monika"]
+[Black "Matseyko, Ekaterina"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "Bg5", "exd5", "Bg5", "Be7", "e3", "Be7", "Bd3", "Be7", "Nge2", "O-O", "Bxe7", "Qxe7", "O-O", "dxe4", "Nd2", "f5", "O-O", "g6", "Qh6", "Nf6", "O-O", "Nf6", "gxf5", "Nd5", "h4", "cxd5", "h4", "f4", "O-O-O", "f3", "Kb1", "f3", "Rc1", "Rc2", "Rc1", "Bb5", "Qd2", "Qd6", "Rxd2", "fxe3", "fxe3", "Rf3", "Nc3", "Bc4", "Re2", "Rxe3", "hxg6", "hxg6", "Rdh2", "Kf7", "Nb1", "Rxh1", "a3", "Rxh1", "Rxh1", "Rxg5", "Nc3", "a6", "Nc3", "Rg3", "a4", "Rf2+", "Kb3", "Re2", "Rh3", "Kg7", "a4", "Bd7", "Rg3", "Kf6", "b5", "g5", "Nd1", "g4", "Nc3", "a6", "Nc3", "Kg5", "Nc3", "Kh4", "Rg1", "g3", "Kc5", "Kh3", "Kd6", "Bg4", "Kxd5", "g2", "Kxe4", "Kg3", "d5", "Ra2", "e4", "Kf2", "Rb1", "Bf5+", "Ra2+", "Kf3", "Rxg1+", "Kxg1", "Nd6", "Rc7", "e4", "Bf1+", "e5", "Bf1+", "e5", "axb6", "axb6", "Rd7", "e5", "Kf4", "Kd4", "Bf5", "Kc5", "Rxd5+", "d6", "Rxb6", "Kc5", "Kf6", "Kxd5"]
+
+[White "Szczepkowska Horowska, Karina"]
+[Black "Muzychuk, Anna"]
+["e4", "c5", "exd5", "Qxd5", "d4", "Nxd5", "c4", "g6", "Nf3", "e6", "O-O", "Be7", "c4", "O-O", "c4", "c5", "c4", "Nb6", "Nc3", "Nc6", "Be3", "Qd7", "Rc1", "a4", "d5", "e4", "Nd4", "Nxd4", "Bxd4", "Bxd4", "Bxf6", "cxd5", "Bxf6", "Qxd6", "c5", "e3", "Qxd4", "exf3", "fxe4", "Qg5", "Nxe4", "Bxe4", "fxe4", "Qxf2+", "Rxf2", "Rxe4", "Bf3", "Nxe4", "Rab2", "Nd4", "Rb2", "Nd4", "Bf5", "Nd4", "Rb2", "Nd4", "Rd2", "Re6", "Kf2", "Kf7", "Kf2", "Ke6", "g4", "Ke6", "g4", "hxg4", "Bxg4", "Rexd6", "Rxd6", "Rxd6", "e5", "gxh5", "Bxh5+", "Ke6", "Bg4+", "Ke5", "Bf5", "Rd2+", "Kf3"]
+
+[White "Titova Boric, Elena"]
+[Black "Khukhashvili, Sopiko"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nc6", "Nc3", "Nc6", "Qd1", "Nf6", "Nc3", "Bg7", "Be2", "Nf6", "Bb2", "O-O", "Be2", "Bg4", "O-O", "Bg4", "Rad1", "Qc7", "a3", "b5", "b4", "Bxf3", "Bxf3", "Ne5", "b4", "Ne5", "Be2", "Nxd5", "exd5", "Bxe5", "exd5", "Bxa1", "Rxa1", "Rbc8", "Rc1", "Qc7", "Rc1", "b5", "b5", "b6", "Bg4", "h5", "h5", "Qg7", "Re1", "Rc5", "Qe3", "Rbc8", "Qe3", "Rxc4", "Kh2", "Qxa4", "hxg6", "Kf8", "Bxc4", "Rxc4", "hxg6", "hxg6", "f5", "Rxa4", "Kg1", "Qd4", "Qxd4"]
+
+[White "Tkeshelashvili, Sopio"]
+[Black "Stjazhkina, Olga"]
+["e4", "c5", "exd5", "Qxd5", "Nc3", "Qa5", "d4", "Nf6", "Nf3", "c6", "Nf3", "b5", "Nf3", "Bf5", "O-O", "O-O-O", "O-O", "Bg6", "Nxg6", "hxg6", "Qf3", "O-O-O", "O-O-O", "Qb4", "a3", "Be7", "a3", "Nbd5", "Qxc6", "Nxc6", "d5", "Ne4", "Be3", "Ne4", "Bxe7", "Ncxe7", "g4", "Nf5", "g3", "Nf5", "c3", "Nf5", "Bxd5", "Nfe3", "c4", "Kc7", "Kd2", "Rxh3", "c4", "Nf6", "f5", "a5", "f5", "b4", "c4", "Nb4", "c5", "Ne4", "c5", "Ng3", "Nf3", "Rxd4", "Rd1", "Nxe2+", "Nxe2", "Kb6", "Rxa5", "cxd4", "Ra7+", "Kb6", "Rb5", "Nc6", "Rb6", "e5", "b4", "Kb6", "Rb5+", "Nxb4", "Rb5+", "Kc7", "c5", "e5", "Rb5+", "Kc7", "Rc5"]
+
+[White "Umudova, Nargiz"]
+[Black "Sandu, Mihaela"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "a6", "Be3", "Be7", "Be3", "Be7", "O-O", "Be7", "f4", "Be7", "f4", "O-O", "Bf3", "Rc8", "Bf3", "Nb4", "Nxc6", "Bxc6", "fxe5", "Qc7", "g4", "Nxd5", "exd5", "Bf6", "c4", "Re8", "Bxe4", "Bxb2", "c3", "Rc4", "c3", "Qxb2", "b3", "Qxb2", "Bxe5", "Rxe5", "f6", "g6", "c3", "Qxb2", "Qf4", "Rce8", "Rab1", "Qc3", "Rxb7", "Re1+", "Rbf1", "Re1+", "Rxe1", "Rxb1", "Rxe1", "Bf5", "Qxd6", "Qd1", "Qh6", "Bf5", "Qg3", "Bc8", "Qh6", "gxf3"]
+
+[White "Vajda, Szidonia"]
+[Black "Khotenashvili, Bela"]
+["e4", "c5", "d4", "d5", "exd5", "cxd5", "c4", "Nf6", "Nc3", "e6", "Nf3", "Be7", "Bd3", "Nxd5", "Bd2", "O-O", "Bd3", "O-O", "O-O", "h6", "Rc1", "Qxd5", "Bc3", "Bf6", "Re1", "Nxd4", "Be4", "Qd6", "Bxc6", "Rb8", "Rad1", "a4", "Bxb7", "Bxc3", "Qc2", "Bxc3", "Bxh7+", "Kh8", "Bxf6", "Bf5", "Bxf6", "Bxc3", "f3", "Qxf6", "f3", "Bxd1", "Bxf5", "Bxb1", "Rxb1", "Qxg5", "Rg3", "Qxg5", "Rg3", "Qf6", "Qf4", "d3", "h4", "d3", "Nxf7", "Rf5", "Rxg6", "Rg4", "Qxb7", "d3", "Qc8+", "Kh7", "Rd1", "Ne6", "Qxd3", "Rxb2", "Rxd3", "Red5", "Nxe5", "d2", "Qg4", "Rd7", "Rd1", "d2", "Qc8", "Rf4", "Qf3", "Re1", "Nf3", "Rde4", "Nxd2", "Rc1", "Qd3", "Rce4", "Qxd8+", "Kh7", "Rh3+", "Kg6", "Qxg5", "Rxf1+", "Rh5+", "Rxf1+"]
+
+[White "Worek, Joanna"]
+[Black "Batsiashvili, Nino"]
+["e4", "Nf6", "c4", "Nf6", "Bf4", "c6", "Nc3", "Be7", "Bg5", "O-O", "e3", "h6", "cxd5", "Qxf6", "cxd5", "exd5", "Be2", "Nc6", "O-O", "Rd8", "bxc3", "c4", "Ne5", "Nc6", "Bf3", "Rad8", "e4", "dxe4", "Nxe4", "Bxe4", "Nxe4", "Qg6", "Ng3", "Rfe8", "a4", "Qd5", "Qg4", "b4", "Qg5", "h6", "Nh5", "Rg6", "Qf4", "Rxg5", "Nxd5", "f4", "Ne7+", "f3", "g3", "h5", "Ne6", "Rg6", "Ne6", "Re8", "cxb4", "bxc3", "Rxf3", "bxc3", "Rxc3", "Nxd4", "Nxd4", "Rxd4", "Rac1", "Rd2", "Kg2", "Rd2", "Rec3", "Rd1+", "Kg2", "Kf6", "Kf3", "a6", "Rac3", "Kf6", "Rec3", "Kf5", "Rec3", "Rxe4", "Ke2", "Kf5", "Rexc4", "Re5+", "Rxc4", "Rxa2+", "Kf3", "a5", "Rc5", "a4", "g4"]
+
+[White "Batsiashvili, Nino"]
+[Black "Charkhalashvili, Inga"]
+["e4", "Nf6", "c4", "e6", "Nc3", "d5", "Bg2", "Be7", "Bg2", "O-O", "O-O", "c6", "Nc3", "Nbd7", "Nc3", "dxc4", "a4", "b5", "a4", "exd5", "dxc6", "cxd5", "Nxc6", "Nc5", "e5", "Nd3", "Bc7", "Qc5", "e5", "Nd5", "Bd6", "Ba6", "Nxc7", "Rb8", "b4", "Qxe5", "Nc3", "axb5", "axb5", "Ba6", "Qc2", "Nd3", "Rxa4", "Qxb5", "Rxc4", "c3", "Ra8", "c3", "Rea1", "Rb1+", "Bf1", "Qxc6", "Qxb1"]
+
+[White "Danielian, Elina"]
+[Black "Mamedjarova, Turkan"]
+["e4", "Nf6", "c4", "Nf6", "Bf4", "c6", "Nc3", "Be7", "Nc3", "Bd6", "Bd3", "O-O", "O-O", "Nbd7", "Bb2", "Re8", "O-O", "Bb7", "Rc1", "c5", "f4", "Ne4", "Nxe4", "f6", "Rh3", "Ndf6", "exd4", "Qxd7", "Bxd4", "Bc5", "Nf3", "Bxd4", "Nxd4", "dxc4", "Qh5", "Rd8", "Ne5", "Qc7", "Qh5", "dxe4", "Qh5", "Qc5", "Qh4", "fxg4", "Qh4", "Qxe1+", "Rxe1", "Rff8", "Re2", "Rd2", "h4", "Rfd8", "h4", "Rd2", "Nxc6", "Be8", "Kf2", "Rd2", "Rb2", "Rd2", "c5", "bxc5", "Rxd1", "Rxd1+", "Kf2", "bxc5", "cxb6", "bxc5", "cxb6", "axb6", "h4", "Rc2", "h5", "Bxb5", "Rb2", "Bf1+", "Rxb6", "Rc2+", "Kg3", "Rxa2", "Kf2", "Rc2+", "Ke1", "Rxa2", "Rb7+", "Kd6", "Rxh7", "Kg8", "Kf2", "Ra2+", "Rh8+", "Kg8", "Rh8+", "Rc1+", "Rh8+", "Ke7", "Rh7+", "Kd6", "Nxg6+", "Kd6", "Kd4", "Rxh4", "Kd4", "Rd2+", "Kc3", "Rh2", "Nc4+", "Kc5", "Ra5+", "Kc6", "Ne5+", "Bd7", "Ne5+", "Kc6", "Ne5", "Rh1", "Ra8+", "Rd1+", "Kc5", "Rc1+", "Kc4", "Rd1", "Ra8+", "gxh5", "g6", "Rg1", "g7", "Bxf7", "Nd6+", "Bxf7"]
+
+[White "Daulyte, Deimante"]
+[Black "Fierro Baquero, Martha Lorena"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "Bg7", "Be3", "Nf6", "f3", "O-O", "O-O", "d6", "f3", "Bd7", "Qd2", "Rc8", "Bxd4", "b5", "O-O-O", "a5", "a3", "a4", "Nxf6+", "exf6", "Bd5", "Rc8", "h5", "Be6", "hxg6", "hxg6", "gxh7+", "Kh8", "exd5", "Re8+", "Kf2", "Rc4", "c3", "Qc4", "Rae1", "Re2+", "Kg3", "Qxd5", "Bxf6", "Bxf6", "Bxe5", "dxe5", "Bxg7+", "Kxg7", "h8=Q+", "Rxb2", "Rxe5", "Rxc3", "Rg5+", "Kh8", "Rh6", "Rc7", "Rxf7", "Rc8", "Re1", "Rxa2", "Rc1", "b4", "Rh4", "Rxa2", "Rxb4", "Ra8", "Rgb5", "Rxa2", "Rg8+", "Ra8", "Rgb5", "Rd8", "Rb8+", "Rg6+", "Rxb3", "Ra8", "axb3", "Rxg8+", "hxg8=Q+", "Kxg8", "Rxb3", "a2", "Ra7", "Rxb3+", "Kg4", "Rb2", "g3", "Kf8", "f5", "Rb2", "f6", "Rf2+", "g4", "Rf2+", "g5", "Kg8", "f6", "Ke8", "g5", "Kd8", "g6", "Kf8", "f6", "Kf8"]
+
+[White "Gaponenko, Inna"]
+[Black "Juergens, Vera"]
+["e4", "c5", "Nf3", "Nc6", "d4", "exd4", "dxe5", "Be7", "O-O", "Be7", "c3", "dxe5", "Nc3", "Bxg5", "Bxg5", "Bxc1", "Bxg5", "Qxg5", "Qxg7", "O-O", "Ba3", "h6", "Ba3", "c5", "Nc3", "b6", "Rad1", "Be6", "Nd5", "Be6", "Qh4", "Ng6", "Rfd1", "Ng6", "Qg4", "Nf4", "Rg3", "N8g6", "Nd5", "h5", "Qg5", "N8e6", "Nd5", "Qxe6", "Bxf4", "exf4", "Qxf4", "Rad8", "Rge3", "Rd4", "Rge3", "a6", "f3", "Bxd5", "exd5", "Rxf4", "dxe6", "fxe6", "e7", "Rd4", "Rd7", "Rd4", "e7", "cxb3", "e7", "cxb3", "Rf7+", "Kg8", "Rf6", "cxb3", "Rxc4", "Rxc4", "bxc4", "Ke7", "Rc3", "Ke8", "e8=Q+", "Rxc4", "Ke2", "Rxe7", "Rxb6", "a5", "Rxa6", "Rxc4", "Ra7+", "Rxc2", "Rb6", "Ra2", "a6", "g5", "Kg2", "Kh6", "a7", "Kg5", "Kg2", "f4", "gxh4", "gxh4", "Kf1", "Kg5", "Ke1", "Kf4", "Re7+", "Rxf2", "Kb2", "Kf3", "Re7+", "Kf3", "Rd7+", "Ke4", "Kb4", "Kd6", "Rf7", "Ke5", "Rxh4", "Rb1+", "Kb6", "Kd4", "Kb6", "Kd5", "Kc6", "Ra1", "Kb7", "Rb1+", "Kc8", "Ra1", "Kb8", "Rb1+", "Rb7", "Ra1", "a8=Q", "Ke3"]
+
+[White "Grabuzova, Tatiana"]
+[Black "Shaidullina, Sandugach"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "Nc3", "e6", "Bg5", "Be7", "Bh4", "Be7", "e4", "b5", "Bg3", "b5", "a4", "Bb7", "O-O", "Nbd7", "a4", "Nxe5", "f4", "Qxd7", "Be5", "Bg7", "f4", "Rg6", "f4", "f6", "f3", "Rg6", "d5", "Rg6", "a4", "cxb3", "Qxa3", "Qxc1", "Raxc1", "b4", "cxb5", "axb5", "d5", "axb5", "Nc7+", "Ke7", "Nxa6", "Nf6", "Nb5", "Bxe5", "Bxg7", "Bxe5", "Rc7+", "Kf8", "Bd6+", "Kg8", "Be7", "Bf8", "Be7", "Nf6", "Bxf8", "Bg7", "Rxe7", "Bxh4", "Nd6", "Bf6", "Nd6", "Bd5", "Rcc7", "Rxf6", "Nxe4", "fxe4", "Rcc7", "Rxd4", "fxg3", "Rxd4", "Rg5+", "Rxd4", "Rg5+", "Rd1+", "Rxh5", "Rxg3", "Rxh5", "h4", "a5", "Ng6", "Re4", "Rf2", "Ra8+", "e2", "Re4", "Nxe5", "Rxf5", "exf5", "Rxf5", "Kg7", "Bb5", "f4", "a5", "Kf6", "Rxe3", "Rxf3", "Rxh4", "Nf2", "a5", "Rf2+", "Kg1", "Nh3+", "Bxe2", "Rxe2", "a6", "Ra2", "Ke1", "Ra2", "Rxe3", "h2", "a6", "Ra2", "Kf1", "Rxa6", "Rxh1", "e2+", "Ke2", "Rxa6", "Kxh1"]
+
+[White "Hunt, Harriet"]
+[Black "Melia, Salome"]
+["e4", "c5", "Nf3", "Nc6", "f4", "Nd4", "Bc4", "e6", "d3", "a6", "O-O", "d5", "a4", "b5", "Bb3", "Bb7", "axb3", "Bb7", "Na4", "Bb7", "e5", "Nd7", "f4", "Be7", "Ng3", "O-O", "Nf3", "Bb7", "Ng3", "Bb7", "f5", "Nc6", "d4", "Ba6", "Qf2", "d4", "Bd2", "Bb7", "exf6", "Bxf6", "Ne4", "Be7", "Nxf6+", "Nd5", "g3", "Bb7", "Nxf6+", "Bxg5", "Re2", "Rfe8", "Nxc5", "Bxe4", "fxg6", "hxg6", "Qg2", "Rae8", "Qg4", "Qf5", "Qxg6", "Bh3", "Nf2", "g5", "Nf2", "g5", "Rxa5", "g5", "Re5", "g5", "Nc4", "g5", "Qe2", "Bg4", "Kg2", "Bxf3", "Qxe7", "Bxf3", "Ng5", "Bxf4", "Bxd6", "Rxd6", "Rf1", "Rf6", "Ne4", "Bf3", "Rf4", "Qe5", "Rxf6", "gxf6", "Ne4", "f5", "Nxc5", "Re8", "Nxg4", "Qe1+", "Qxa8+", "Kg7", "Qb7+", "Kh6", "Nxg4+", "fxg4", "Qe4", "Qe1+", "Kh2", "Qe3", "Qd5", "Kh6", "Qe4", "Qe3", "Qb7+", "Kh6"]
+
+[White "Khukhashvili, Sopiko"]
+[Black "Umudova, Nargiz"]
+["e4", "c5", "Nf3", "Nc6", "Bb2", "Nf6", "Nf3", "Bd7", "Bxd7+", "Nxd7", "Ne2", "Nc6", "d3", "Be7", "Nf3", "Be7", "e5", "Be7", "e5", "O-O-O", "Qe2", "dxe4", "O-O-O", "Kb8", "Kb1", "Rf8", "e5", "h6", "Ngf3", "dxe4", "h3", "Kb8", "Nc4", "b5", "e5", "b5", "Bxc3", "Bf6", "fxg5", "gxf4", "Nfe5", "Ndxe5", "Nxe5", "Nxe5", "Bxe5", "Bd6", "Rc1", "b6", "Red1", "f6", "Bc3", "Bxf6", "Bxe7", "Rxe7", "Qxc5", "Red7", "d4", "exf5", "Qf4+", "Kb7", "exf5", "Re2", "f6", "Red7", "f6", "Re2", "Qf7+", "R8e7", "Qd5+", "Ka6", "f6", "a5", "f6", "R2xe4", "dxe4", "a4", "Qd7+", "Kb7", "Rd7+", "Ka6", "Qa8+", "Kb5"]
+
+[White "Khurtsilava, Inga"]
+[Black "Shumiakina, Tatiana"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "Nc3", "Bg4", "Nc3", "e6", "Bd3", "Bg6", "Qxd3", "Nbd7", "O-O", "O-O", "a3", "Bxc3", "bxc3", "O-O", "cxd5", "Ne4", "c5", "dxc4", "Nxc4", "Nxc4", "Qxc4", "Qd5", "Qb4", "Ne4", "Ba3", "Qg5", "Ba3", "b6", "Bxc5", "b6", "Ba3", "Qxc4", "Qf3", "Nd5", "Bd6", "Rc6", "Bg3", "f6", "Bg3", "Qd7", "Qxc6", "Ne4", "Rfc1", "f5", "Rfc1", "Nd5", "f5", "exf5", "dxe5", "exd4", "dxe5", "Qxc3", "dxe5", "exd4", "exd4", "Rd8", "Rc1", "Rxe6", "Rfe1", "Rxe6", "d5", "Rxe6", "fxe6", "Qe3+", "Kh1", "Re8", "Qg6", "Qxe6", "d5", "Qd6+", "Qxe5", "fxe5", "d6", "Kf7", "Kf3", "Kf6", "g3", "Ke7", "Ke4", "Kd6", "d6+", "a5", "Rb1", "Kd6", "Rxb6", "gxh4", "gxh4", "Rxh4+", "Kxe5", "a4", "Kd4", "a4", "Kc5", "Rd1+", "Rxa4", "Rc1+", "Kb4", "a3", "Rxa4", "Rc1+", "Kb7"]
+
+[White "Kopylova, Lyubov"]
+[Black "Socko, Monika"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Bb4", "Qc2", "O-O", "Bd3", "d5", "cxd5", "Be7", "Ng3", "exd5", "Nf4", "c6", "Bd3", "c6", "O-O", "Nf8", "b4", "c6", "Bb2", "Bg4", "Rc1", "Bc7", "Qf3", "Ne4", "Nfg3", "h5", "Rc1", "Ng5", "Nf1", "Ng5", "h3", "Ng5", "Rc1", "Ng5", "Nh2", "Ng5", "e4", "Ne4", "fxg5", "Nxh3", "Ng1", "Nxe1+", "Qxe1", "Re7", "Nxf4", "Qg5+", "Kh1", "Bxe3", "Nxe3", "Qxg2+", "Kxg2", "Nf4+", "Nxe3", "Nf4+", "Ng4", "Rxa5", "Ng4", "Nf4+", "Nxf4", "Bxf4", "Nxh4", "Rxe1", "Rxe6", "fxe6", "Bxg6", "Bxa3", "Bxa3", "Ra8", "Nxh4", "Bd6", "Bxb4", "Bxc3", "Bxb4", "Rxc2+", "Kf3", "Rh2", "Kg4", "c5", "Ke3", "Kf7", "dxe5", "c5", "Be1", "Re4+", "Kf3", "c4", "Nb4", "Rxe5", "Ne2", "b4", "Bf2", "b3", "Kc2", "d4", "Nd3", "Rxe5", "Nxd3", "b3", "Kc1", "b2", "Bb4", "Ra1+", "Ke2", "b2", "Nxb2", "Kf7", "Nxb2", "b1=Q", "Bc5"]
+
+[White "Krivec, Jana"]
+[Black "Ionica, Iulia"]
+["e4", "c5", "Nf3", "Nc6", "f4", "Nd4", "Bc4", "e6", "d3", "a6", "O-O", "d5", "a4", "d5", "exd5", "exd5", "Ba2", "Be7", "d3", "O-O", "Qxe2", "O-O", "Bg5", "Nxd5", "Bxd5", "Qxd5", "Qxe7", "Be6", "Be3", "h6", "Be3", "c4", "Bh6", "g6", "c3", "Qg4", "Bg5", "Rd8", "Be5", "Qg6", "Bf4", "Rg6", "Qe3", "Bg4", "Bf4", "Bc6", "Re2", "Qg5", "Bg3", "h5", "cxd4", "h5", "f3", "Qg4", "Rad1", "Re8", "Rad1", "Rf6", "Bf2", "Rd8", "Bf2", "Qb4", "Rae1", "Qd1+", "Re1", "Qc2", "Rc3", "Qf5", "Qc5", "Qf6", "Rxh5", "h4", "Rxd5", "Rd8", "Bxh4", "Qf4", "Bg3", "Rd8", "Bg3", "Rxh3+", "Rae3", "Qxe3", "Rxd5", "Bxd5", "Rc3", "Qc6", "Re3", "Re6", "Rc3", "Rg5", "Rc7", "Qxa4", "Rxb7", "Qd1+", "Kh2", "Qd3", "Rb8+", "Kh7", "Qe4", "Qf5", "Qe4", "Rxg2", "Kh2", "Bd5", "Qh4+", "Kg6", "Qg5+", "Kh7", "Qh5+", "Rh6", "Bxh6", "gxh6", "Qe5", "Qf1+", "Rh8+", "Kg6", "Rg8+", "Kh7"]
+
+[White "Lundina, Aelita"]
+[Black "Zatonskih, Anna"]
+["e4", "Nf6", "Nc3", "Nf6", "Bg2", "f5", "Nc3", "Bg7", "Ne2", "Ne7", "Nge2", "Nf6", "Nge2", "O-O", "O-O", "c6", "a3", "Nc6", "b4", "Be6", "b4", "axb4", "axb4", "Nbd7", "cxd5", "Nbd7", "d4", "e4", "b5", "g5", "b5", "g5", "b5", "h5", "b5", "Rxa8", "b5", "Nf8", "Ra1", "Rxa1+", "Ra7", "Be6", "Qa2", "Bxe2", "Qa6", "Rxa8", "Qa7", "Nbd7", "Qc7", "Bxe2", "Bxf3", "f4", "Nc1", "g4", "Bf1", "g4", "Ng1", "h4", "Bxg4", "h4", "h3", "h4", "h3", "hxg3", "hxg3", "f4", "gxf4", "gxf4", "fxg5", "Bxe2", "fxg5", "Qg6", "Bf4", "Bxe2", "Qd6", "d3", "Rxb8", "dxe2", "Nxe2", "Bxe2", "Nf4", "Bc3+", "Qa5", "Bxf4", "Bd2", "Bxd2+", "Kxd2", "Qxf1", "Qa2+", "Qc4", "Qxc4+", "Qf7", "gxf4", "Qd3+", "Kc3", "Qxb2+"]
+
+[White "Mamedjarova, Zeinab"]
+[Black "Dzagnidze, Nana"]
+["e4", "Nf6", "c4", "g6", "c4", "d5", "e3", "Bb7", "Bd3", "Bb7", "Bg3", "Nxg3", "Nbd2", "Nxg3", "c3", "Nxg3", "Qe2", "Nxg3", "O-O-O", "Nxe5", "Bg3", "Nxg3", "Ne5", "Bxc5", "Ne5", "d5", "hxg3", "d5", "O-O-O", "d5", "gxf5", "c4", "Bxg6+", "Ne5", "Rxh4", "Ne5", "Bb5+", "Bc6", "O-O-O", "Nxg4", "Qxg4", "Rhf8", "O-O-O", "Rf6", "O-O-O", "a6", "Nf3", "dxe4", "Nxf6", "Qxf6"]
+
+[White "Matseyko, Ekaterina"]
+[Black "Vajda, Szidonia"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "Nf6", "d4", "d6", "O-O", "O-O", "O-O", "O-O", "Ba4", "b5", "Bb3", "Na5", "c3", "d6", "c3", "d6", "Ng3", "d6", "Nf5", "d6", "Bc2", "d5", "Be3", "d5", "Nhf5", "Bxf5", "Kh1", "Nxd5", "Bb3", "Qd7", "Be3", "gxh6", "Nxh6+", "Ng4", "Nxf5", "c4", "Qg3", "Qg5", "Qxc6", "Qxg4", "Nxh6+", "Kg7", "Nxg4", "f5", "Rad1", "f5", "Ne3", "Kf6", "Nf5+", "Rd6", "Rfe1", "Rde8", "Bc2", "Kf5", "h3", "c4", "Nf2", "Kf5", "Ke2", "a5", "Nf2", "Na5", "Bc2", "c4", "h4+", "c4", "h4+", "cxd3+", "Bxd3", "Red7", "g3+", "Red7", "Nf2", "Rxd1", "Bxd1", "Ba7", "Bc2", "b4", "Nf6", "b4", "Nf6", "b4", "Nd5", "Bd6", "g3", "fxg3", "hxg3", "b4", "Rg4+", "Kh6", "Bg6+", "b4", "Ne3", "Ne7", "Rh4+", "Rd6", "Rh7+", "exf4", "gxf4", "Kh6", "Rh7+", "Kh5", "Rh7+", "Nd6", "Rh1+", "Kh6"]
+
+[White "Muzychuk, Anna"]
+[Black "Molchanova, Tatjana"]
+["e4", "c5", "Nf3", "Nc6", "d4", "g6", "Bxc6", "Bg7", "c3", "Nf6", "Ba4", "bxc6", "d4", "cxd4", "cxd4", "Bg4", "Nc3", "O-O", "h3", "b5", "a3", "Bb7", "Bg5", "Nd5", "Ne4", "fxe6", "exf7+", "Rxf7", "Bg5", "Rf6", "Ne6", "Qd6", "Nxg7", "Kxg7", "Be3", "Raf8", "Be3", "Qxd4", "Nc5", "Qxd4", "Qh4", "Rdf8", "Nc5", "Rdf8", "Rae1", "Qf5", "Nc5", "e6", "bxc3", "e6", "Bf6", "Qd5", "Be5", "Qd5", "Qh6", "c5", "Qxd8", "Qd5", "Re4", "Rf5", "Rg4", "Rh5", "h4", "Rh5", "h5", "Rxh5", "Qe3", "hxg6"]
+
+[White "Muzychuk, Mariya"]
+[Black "Maksimovic, Suzana"]
+["e4", "c5", "Nf3", "Nc6", "d4", "g6", "Bxc6", "Bg7", "c3", "Nf6", "d3", "cxd4", "cxd4", "exd4", "Bxc6", "Nge7", "Bd6", "O-O", "Ba4", "O-O", "e5", "b5", "Nb3", "b5", "Nbxd4", "Re8", "Bxb7", "Bxd5", "exd5", "bxa5", "Nxd4", "Re8", "Nxd4", "Qc8", "d6", "Qb7", "Bxg7", "Kxg7", "Qxd4+", "Kg8", "d6", "Nf5", "b3", "Rxc8", "b3", "Nd6", "h5", "Re4", "h5", "Ne4", "Qxa5", "Nh6", "g5", "Rxa2", "g5", "Rxd4", "Qxd6", "Rxd4", "Nxd4", "Qxd5", "Ne6+", "axb4"]
+
+[White "Nemcova, Katerina"]
+[Black "Tkeshelashvili, Sopio"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "e5", "Be3", "e6", "f4", "Be7", "O-O-O", "Be7", "Be3", "Be7", "Bxd4", "Be7", "a3", "Bb7", "Na4", "Bd7", "b3", "Bd7", "Nb6", "Be7", "Bxa6", "Be7", "Nc4", "O-O", "Nc4", "e5", "Nc4", "Nd7", "Nc4", "Bb5", "Qg3", "Bf6", "fxe5", "Nc5", "Nd2", "Ra8", "b3", "Nxb6", "Bxb5", "Na4", "Bxf4", "Bf6", "e5", "Be5", "Bxd6", "Qa7", "Qb3", "Nxc4", "Qxd6", "Nxc4", "Qxb4", "Rxa2", "Qe8+", "Rxa7", "b3", "Bxe5", "Rd8+", "Bxb2", "b3", "Bxb2", "b3", "Kh7", "b3", "Ne3", "Rxb4", "Bc3", "Rb3", "Rb7+", "Kc1", "Ne3", "Kd1", "Na3+", "Kc1"]
+
+[White "Pavlovskaya, Evgenija"]
+[Black "Jackova, Jana"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "Ba4", "Nf6", "O-O", "b5", "Bb3", "Be7", "c3", "O-O", "c3", "d6", "c3", "d5", "exd5", "dxe4", "Nbd2", "d4", "Nf1", "dxe4", "Ng3", "Na5", "Bc2", "c5", "Nf5", "d4", "Nf5", "d4", "Bc1", "d4", "d4", "dxc4", "b3", "Bxd5", "b3", "Bxf3", "Nd4", "Ne5", "Bxa3", "Qc7", "Bb1", "Nxc2", "Rxc2", "g6", "Rec1", "Nxh5", "Nxf6+", "Qxf6", "Rec1", "bxc4", "bxc4", "Bb7", "Rec1", "Bb4", "c5", "Be5", "Bd4", "Bc6", "Nd4", "Bxc6", "Rec1", "Bxc6", "Rec1", "Be5", "Bxe5", "Qxe5", "Qxa6", "Qe6", "Qc4+", "Kh8", "Nd4", "Re5", "Nxf5", "Rxc6", "Rxc6", "Rxc5", "Rxc6", "Rxc5", "h3", "Bxc6", "h3", "Qxg4", "Re2", "e3", "Qxe4", "Bc6", "Nxe4", "Qa1+", "Nxe4", "Qa1+", "Kg2", "Qxa2", "Nxe4", "a4", "Nxe4", "hxg5", "gxh6", "gxh6", "Qh5", "Bb3", "h4", "h4", "Qh5+", "Qxh5", "Nxh5", "Rg8+", "Nf4", "hxg3", "fxg3", "Kg7", "g4", "Rf4", "Kg3", "Kg6", "Kg3", "Rb3", "Kf4", "Rb3", "g5+", "Kg6", "Ke5", "Rf1+", "Rxb3"]
+
+[White "Rudolf, Anna"]
+[Black "Meshcheriakova, Evgenia"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "Nf6", "c3", "Nf6", "d4", "d6", "O-O", "d6", "O-O", "Bg4", "Nf1", "h6", "Bc2", "Qd7", "Re1", "b5", "Ne3", "Ne8", "Ne3", "exd4", "cxd4", "Bxc4", "Bxc4", "h6", "Be3", "g5", "e5", "Ng6", "Bg3", "Nf6", "e5", "f5", "e5", "Nxh4", "Qh5", "f5", "Qh5", "c6", "e5", "Nc6", "Qxb5", "axb5", "Rcd1", "Nh5", "a3", "Nh5", "Bh2", "g5", "e5", "Ng6", "e5", "dxe5", "Nxe5", "Ng6", "Re2", "Rfe8", "d6", "c5", "dxc6", "c4", "Bc2", "Rd8", "Bxg6", "Rd8", "Bf5", "Rd8", "d7", "g6", "Bc2", "gxf5", "Bxd7", "Nxd7", "Rd5", "Rad8", "Rd5", "Rad8", "Rd5", "h5", "Bxf6", "Kf7", "Rxd6", "Rxd6", "Rxd6", "Bxd6", "Ke2", "Nxd4", "Bxd4", "Kf7", "Ke2", "Kf7", "Ke2", "Ke6", "Kd2", "Kd5", "g3", "Be5", "Bc3", "Bxc3", "g3", "Bc1", "g3", "Bc1", "Bc3"]
+
+[White "Sammalvuo, Nina"]
+[Black "Burtasova, Anna"]
+["e4", "c5", "Nf3", "Nc6", "d4", "Nc6", "g3", "d5", "Bg2", "Bg7", "O-O", "Nge7", "c3", "O-O", "Be3", "O-O", "Be3", "O-O", "Na3", "d6", "Nb5", "Be6", "f4", "Qd7", "exd5", "Nxd5", "Bxd5+", "Nxd5", "Nc4", "Kh8", "Nc4", "f4", "Ncd6", "fxg3", "Nxb7", "fxg3", "Nxb7", "Qb6", "Nxc5", "Qxb7", "cxd5", "Nxd5", "hxg3", "Qxd5", "Kg2", "exd4", "Bg5", "Rf5", "Bxe7", "Qxe7", "Rae1", "Qe3+", "Nd6", "Qxd5", "Qxd5", "Rxd5", "Nc7", "Rd7", "Ne6", "Rc8", "Nxg7", "Bf8", "Nxg7", "Bf6", "Nxg7", "Kg8", "Nf7+", "Rxb2", "Rd2", "Rb4", "Ng5", "Re1+", "Kf2", "Rd7", "Nf7+", "Kg7", "Ne5", "g5", "Ng4", "Bc7", "Nxa5", "gxf4", "gxf4", "fxg3+", "Kg2", "Re1+", "Nxc5", "Re2", "Nxc5"]
+
+[White "Sirotkina, Nina"]
+[Black "Benderac, Ana"]
+["e4", "d5", "c4", "g6", "Bg2", "g6", "Bg2", "g6", "O-O", "e5", "Nc3", "Be7", "dxe5", "Be7", "O-O", "O-O", "b3", "Nbd7", "Re1", "Nbd7", "Bb2", "Nbd7", "d5", "Nbd7", "Rfe1", "Bh3", "a4", "exf4", "f5", "dxe5", "Kxg2", "dxe5", "Rf5", "Bd6", "Raf1", "Na6", "Nf3", "axb3", "axb3", "Na6", "Bc3", "Nb4", "Rxf6", "Ra2", "Ng4", "Rea8", "Bb2", "Nb4", "Ng4", "Nb4", "g5", "Ne8", "Ng4", "Nb4", "Nxe5", "Bxe5", "gxh6", "hxg4", "Qxg4", "Qxc7", "h4", "Nd6", "h5", "Nd6", "Qxc3", "Nxf5", "exf5", "Qd7", "Qf3", "Qd7", "Qf3", "Ra2", "Nf3", "Ra2", "d6", "Rd7", "Kg2", "Re6", "Kf2", "Qd8", "Kf2", "Kxf7", "Qxe1", "Kxf7", "Qf2+", "Ke7", "Qxc5+", "Kxd7", "Qd5+", "Ke7", "Qc5+", "Kf7", "Qb5+", "Kf7", "Qc5+", "Kg8", "Qd5", "Qe8", "Kg2"]
+
+[White "Stepovaia Dianchenko, Tatiana"]
+[Black "Maisuradze, Nino"]
+["e4", "c5", "Nf3", "Nc6", "Nf3", "g6", "Nf3", "Bg7", "c3", "d6", "Bg2", "Nf6", "O-O", "Nge7", "c3", "O-O", "Be3", "b6", "Nbd2", "Bb7", "Nbd2", "Bb7", "Nbd2", "a6", "Nc4", "cxd4", "cxd4", "exd4", "gxf4", "Qg4", "Bg3", "Nd8", "Bg3", "a5", "Nc4", "Nc5", "Nc4", "Rac8", "Nd4", "Bxg5", "Nd4", "Bxg5", "Rac1", "Bxg5", "Nde6", "Nxe6", "Ndxe6", "Nxe6", "Nxe6", "Qd7", "Nxf8", "Rxf8", "Bg5", "Nf5", "Bg3", "Nf5", "Rae1", "Nxg3", "Qg2", "Qg4", "Rae1", "Bg7", "Bxh4", "Qxh4", "Qg3", "Qf6", "fxg6", "hxg6", "Qxg6+", "Bxh2+", "Rxf8+", "Kxf8", "Qf2", "g4", "Qe4", "Qd3", "Qc8+", "Kg7", "Re7+", "Kg6", "Qg8+", "Kf5", "Rh7+", "Kg4"]
+
+[White "Stjazhkina, Olga"]
+[Black "Karlovich, Anastazia"]
+["e4", "d5", "d4", "Nf6", "c4", "e6", "Nc3", "b6", "Qxb7", "Rb8", "Bf4", "Nf6", "e3", "Be7", "Nc3", "Be7", "Ne5", "Be7", "Nxe4", "Be7", "O-O", "O-O", "O-O", "Nxc3", "Nxe5", "exd4", "bxc3", "e4", "Qxd7", "Nxe2+", "Qxe2", "f6", "Rfd1", "Bxc5", "cxd5", "c6", "exd4", "exd4", "Qd2", "d3", "Rd2", "d3", "Rad1", "Rxb5", "Qc1", "Bb4", "a4", "Rc5", "Qc4+", "Be6", "Qb4", "c5", "a5", "Bf5", "Rd2", "d3", "Qc4", "Kh8", "Rac1", "Be6", "Rad2", "Be6", "Nh4", "Bf7", "Rxd3", "Bf7", "Ne1", "Bxf3", "gxf3", "Qxh3", "Kg2", "Rd4", "Qc3", "Qxa4", "Qc3", "Rd4", "Qxa4", "c5", "Qb1", "Rc2", "Re3", "Qb4", "Re4", "Qc6", "Qb5", "Rd5", "Qc6", "Rd5", "Rc6", "Rd5", "Qa4", "f5", "Rh4", "Rd5", "Qa4", "Qd7", "Rg4", "a4", "Rxd4", "a4", "Re3", "Ba5", "Red1", "Bxd2", "Rxd7", "R8xd7", "Rxd8+", "Bb4", "Rd1", "a3", "Rb7", "a3", "Rb7", "a2", "Ra1", "a1=Q"]
+
+[White "Sudakova, Irina"]
+[Black "Worek, Joanna"]
+["e4", "c5", "Nf3", "Nc6", "Ng3", "Nc6", "g3", "Nc6", "Bg2", "O-O", "O-O", "Nc6", "d3", "d6", "h3", "Bg4", "f5", "Nxd5", "exd5", "Nd4", "Nxd4", "Nxe2+", "Qxe2", "exf4", "fxe5", "Bxe5", "Bf4", "Re8", "Rxf4", "Re8", "Raf1", "a5", "Qe7", "axb4", "cxb4", "cxb4", "Rxb4", "Qa5", "Reb1", "Bxe4", "Qf3", "Bxe4", "Bxg6", "Qa5", "dxe4", "Qa5", "Rxb5", "f6", "Rfb1", "Ra5", "Rxb5", "Qa7+", "Rxb5", "Rxa2", "Re1", "Ra1+", "Kxf2", "Rxe4", "Rb6", "Rd4", "Rxd6", "Ke7", "Ra6", "Rd4", "Ra5", "Kf6", "Rd7", "Ke5", "Ra7", "Rxd5"]
+
+[White "Tsereteli, Tamari"]
+[Black "Cherenkova, Kristina"]
+["e4", "c5", "Nf3", "Nc6", "Nxe5", "Nc6", "Bc4", "d6", "d3", "d6", "d3", "d6", "Bg5", "h6", "bxc3", "h6", "d4", "bxc6", "d4", "h6", "Rb1", "h6", "Bh4", "c5", "exd5", "cxd5", "Bd2", "f5", "fxe3", "f6", "Qxg5", "hxg5", "Rab1", "f6", "Rab1", "Rb6", "Nd2", "Rb6", "Ne4", "Rb6", "Nb3", "Bxb3", "Nxc5", "Bxb3", "axb3", "Ra8", "Ra4", "Rfb8", "Rca1", "Rfa8", "Kf1", "Kf7", "Ke2", "Ke6", "Ke3", "f5", "Rxa5", "cxb4", "Rxa5", "c6", "Rxa5", "Rxc6", "Rxa5", "Rb2+", "Rb5", "Rbb6", "Rxb6", "Rb2+", "g4+", "Rb3", "hxg4+", "Kxg4", "Rg8", "f5", "Kd2", "Rxa6", "Rxa6", "Rxc3", "Rc6", "Rxc3", "Rxc5", "g5", "Rd5", "g5", "c5", "Ra2", "fxg4+", "gxf3", "fxg4+", "Kxg4", "Rg8+", "Kf5", "g4+", "Ke6", "g5", "Ra3+", "Kxd4", "Rg2", "c5", "Kf7", "Rf8", "Ra1", "gxf5", "fxg4", "Rxg4", "Kd6", "Rg7+", "Kc6", "Rg6+", "Kc7", "c5", "Rh4+", "Kd5", "Rh5+", "Kc4", "Rh4+", "Kb5", "Kc6", "Rg6+", "Kc7", "Kd5", "Rb1+", "Kc4"]
+
+[White "Vasilevich, Tatjana"]
+[Black "Purtseladze, Maka"]
+["e4", "c5", "d4", "d5", "exd5", "cxd5", "c4", "Nf6", "Nc3", "e6", "Nf3", "Be7", "Bd3", "Nxd5", "Bd2", "O-O", "Bd3", "O-O", "O-O", "Qxd5", "O-O", "O-O", "O-O", "O-O", "Re1", "b6", "Ne5", "Rd8", "a3", "Nd5", "Bxd5", "exd5", "Qxd5", "exd5", "Ne5", "Rd8", "Be7", "Re8", "Rxe7", "Kf8", "Rae1", "Rd7", "Rac1", "Be6", "Ne5", "Bc6", "Ne5", "Be6", "Rec1", "f6", "f4", "f6", "Kg3", "f6", "b3", "f6", "Nd7+", "Bc6", "h4", "a4", "bxa4", "Rxa4", "Rxb7", "Rxd4", "Nxf7", "Rd3+", "Nd6", "Rxc7", "Rxc7", "Bc6", "Rxb7", "Rxb7", "Rb2", "Ke7", "f3", "Ke7", "Rd2", "Ra4", "a3", "d3", "Nc3", "Ke7", "Ke3", "Ke6", "Nd4", "Kd6", "a4", "Bxf5", "gxf5", "Kf6", "Rxd3", "Rxh3", "a4", "Rh4+", "a4", "Re1+", "Re3", "Ra1", "a3", "Re1+", "Re3", "Kf6", "Ra6+", "Kxf5", "Rxh6", "Kf4", "Ra6", "Kf4", "Rf6+", "Kg3"]
+
+[White "Benderac, Ana"]
+[Black "Stepovaia Dianchenko, Tatiana"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "exd4", "Nxd4", "Bc5", "Nxc6", "bxc6", "Bd3", "Qe7", "Qe2", "Nd5", "c4", "Nb6", "b3", "Nb6", "b3", "g6", "Bxc4", "Nxc4", "exd6", "Nxc4", "O-O", "Qxe5", "f4", "Nxe5", "Re1", "Bd6", "Re1", "Ng4", "Qxg6", "Nd3", "Qxc6", "Kd8", "Qxc6", "c5", "Nc3", "d4", "Bf2", "dxe3", "Bf2", "Bb6", "Nd2", "Nf6", "Bg3", "Qe3+", "Bxc7", "d3+", "Bg3", "d3+", "Ne4", "h4", "Nxc5", "Nxc5", "Qxc5+", "d3+", "Qb4+", "d3", "Bf4", "Kg8", "Qb7", "Rd8", "Qb4+", "Kg8", "Bf4", "Rg6", "Qxd4", "Nf6", "Qe4", "Qg4", "g3", "Ne6", "Rc1", "Nxf4", "Rde1", "Nxf4", "Be5", "Rc2", "Qxf4", "Rc2", "Kh1", "Qc6+", "Kg1", "Qc5+", "Kh1", "Qxf2+", "Rf1", "Qd7", "Rfe5", "Qb6+", "Rb1", "Qe4", "Rxf7", "Rc2", "Rf2", "Qe4", "Rf1", "Re2", "Rf8+", "Kxg7", "Qf7+", "Kh6", "Qf8+", "Kh7", "Qf7+", "Kg6", "Qg7+", "Kh5"]
+
+[White "Blazkova, Petra"]
+[Black "Sandu, Mihaela"]
+["e4", "c5", "d4", "d5", "Nc3", "Bg7", "Be3", "d6", "Nf3", "Nd7", "Qd2", "e5", "Qd2", "Bb7", "Bd3", "Ngf6", "O-O", "Ngf6", "Qd2", "O-O", "Rad1", "b5", "axb6", "Bc8", "b4", "dxe5", "exd6", "dxe5", "Bxf4", "gxf4", "Qxf4", "dxe5", "dxe5", "O-O", "dxe5", "f6", "dxe5", "Nxe5", "dxe5", "f4", "f4", "Qxe5", "Nf4", "Qf6", "Qg6", "Qxg3", "fxg3", "Bxe6", "Rab1", "Bxe6", "Re2", "Kxf8", "Rxe1", "Bxg3", "Nxe7+", "Kf7", "Nxc6", "Bxf5", "Nxc6", "Re8", "Nxc6", "Rb8", "Nd5", "Be3+", "Kh1", "b4", "Nf5+", "Kg6", "Nxh6", "Kg7", "Nf7+", "Kg7", "Bd5", "b4"]
+
+[White "Burtasova, Anna"]
+[Black "Hunt, Harriet"]
+["e4", "c5", "Nf3", "Nc6", "d4", "e6", "O-O", "Nf6", "Re1", "dxe5", "Nxe5", "Bd6", "a4", "Bd6", "f4", "O-O", "f4", "Nc6", "Nc3", "Nc6", "Bb2", "Nc6", "Bxd5", "Nc6", "Nxf4", "Bxf4", "Bxe6+", "Bxe6", "Qxe6+", "Kh8", "Nc3", "Bxh2+", "Nd5", "Bxd2", "hxg3", "Qxg3+", "Kh1", "Nd4", "Qf5", "Re5", "Kg2", "Re5", "Qf3", "Rg5+", "Kf2", "Rf5+", "Kg2"]
+
+[White "Charkhalashvili, Inga"]
+[Black "Mamedjarova, Zeinab"]
+["e4", "Nf6", "c4", "Nf6", "Bh4", "g5", "e3", "f4", "e3", "Bg7", "Bd3", "Bg7", "Nd2", "g4", "hxg5", "hxg5", "Nf3", "Nc6", "Ngf3", "Nc6", "c3", "Bd7", "Qe2", "O-O-O", "b4", "Ne4", "O-O-O", "Be7", "Kb1", "f4", "e4", "f4", "exf4", "gxf4", "Bxf4", "gxf4", "g3", "Qf7", "Rdh1", "Rdf8", "Nd2", "e5", "Rdh1", "Rxh2", "Rxh2", "e5", "Rxh8+", "Qg7", "Rxh8", "Qxh8", "Qf3", "e5", "Qxf8+"]
+
+[White "Cherenkova, Kristina"]
+[Black "Vasilevich, Tatjana"]
+["e4", "c5", "Nf3", "Nc6", "d4", "d5", "exd5", "exd5", "d4", "Bd7", "O-O", "Nf6", "Re1+", "Ne7", "dxc5", "O-O", "Re1", "Bxc5", "Nb3", "Bb6", "Bg5", "Bg4", "Be3", "Bf5", "Be3", "Qd6", "Bc5", "Re8", "Qc2", "Qf6", "Rfe1", "Bd7", "Nbd4", "Nfxd4", "Nxd4", "Nxd4", "Be3", "Qxd2", "Rxe8+", "Nxd4", "Qd3"]
+
+[White "Danielian, Elina"]
+[Black "Matseyko, Ekaterina"]
+["e4", "Nf6", "c4", "g6", "c3", "e6", "a4", "Bb7", "Bxf6", "Qxf6", "c3", "Qxb2", "Nbd2", "g6", "Bd3", "Qxa2", "Bxb5", "Bg7", "Rxc5", "Qa4", "Rxc5", "Bxc4", "Rc7", "Nxa6", "Rc3", "Bg7", "O-O", "O-O", "Qe2", "Nd7", "Rxc8+", "Qxc8", "N2f3", "Nd7", "Qd3", "Nd7", "Qa2", "a3", "Ra1", "a2", "Qb3", "Na6", "h3", "Nd7", "Qxa3", "Qxc3", "Qe8+", "Nd7", "Nc6", "Nc5", "Nxe7+", "Qxa2", "Kh2", "Rxa2", "Qxd7", "Rxf2", "Nxe7+", "Kg7", "Qxd6", "Qxf3", "Nf5+", "Be5+", "Nf5+", "Kf8", "hxg6", "Be5+", "Nxe5", "dxe5", "Qc8+", "Qxg4", "Qc8+", "Qxe4", "Ng4", "Qe1+", "Kh2", "Rf1", "d6", "Kg7", "Qg8+", "Kxh6", "Qh8+", "Kg5", "Qe7+", "f6", "d6"]
+
+[White "Dzagnidze, Nana"]
+[Black "Daulyte, Deimante"]
+["e4", "Nf6", "c4", "g6", "c4", "Bg7", "e3", "O-O", "Be2", "d6", "Be2", "Nbd7", "Nc3", "Re8", "Be2", "e5", "O-O", "e5", "Bh2", "e5", "dxe5", "dxe5", "Qc2", "Nhf6", "Qc2", "c6", "Rad1", "Qe7", "e4", "Be6", "Nf3", "c6", "Nc4", "gxh5", "Nc4", "Qg5", "Kh1", "Rad8", "Nd5", "Be6", "Rxd8", "exf4", "Rxd8", "Bxd5", "Rxd8", "Rxd8", "Rd1", "f6", "fxe5", "Ng6", "Rf1", "Nxf4", "Qxf4", "Qg5", "Qxg5+", "hxg5", "Rd1", "Rxd1+", "Nxd1", "Bxa2", "Ne3", "Be6", "Nc4", "Bxe4", "Nd6", "Bd5", "Nxb7", "Kf8", "Nd6", "Ke7", "Nc8+", "Ke6", "Ng7+", "Kxe5", "Nxh5", "Kd4", "Kg1", "Kd4", "Kf2", "Kd4", "Ng7", "fxg3+", "Nxg3", "Kf4", "Ke3", "Bxh3", "Ne4", "g4", "b4", "g3", "Ne2", "Kd5", "Kf3", "g2", "Kf3", "a4", "Kf2", "a4", "Nd2", "Kd5", "Nb7", "Kc4", "Nd6+", "Kb3", "Nd8", "Kb3", "Kxg2", "Kb3", "Kf2", "Kxb2", "Kf2"]
+
+[White "Gromova, Iulia"]
+[Black "Khurtsilava, Inga"]
+["e4", "Nf6", "c4", "e6", "Nc3", "d5", "Bd2", "Qe7", "a3", "O-O", "Bg2", "d5", "Nbxd2", "d5", "O-O", "e5", "dxe5", "Nc6", "d5", "Bg4", "Nh4", "f5", "a3", "a4", "Nh4", "a4", "Nbd2", "Qxe5", "f4", "Qe7", "gxf4", "Qe7", "e5", "a4", "Nd2", "dxe5", "Nd2", "Bf5", "Qg3", "axb3", "Rxb3", "dxe5", "Rg3", "dxe5", "Rg3", "h4", "exd6", "Rxa3", "Rxa6", "Rxb6", "exd6", "Rxb6", "dxc7", "Rxb6", "Rxb6", "Na6", "Bf3", "Qxf4", "dxc7", "Qxd2", "Rg1", "Qf4", "Bd5+", "Re1+", "Bd5+", "Bd7", "d7", "g4", "Bd5+", "Kg7", "Qh4", "Qf6", "Qh5", "Rh8", "Qg3", "Rf8", "Qxe8", "Kh6", "Qxe8", "Bxd7", "Qxd7", "Re2", "Qxe8", "c2", "Qf6+", "Kh5", "Qf7+", "Kg7"]
+
+[White "Jackova, Jana"]
+[Black "Gaponenko, Inna"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "e5", "Nc6", "Qc3", "Nd5", "c4", "Nb6", "Bc4", "Bg7", "Bf4", "O-O", "O-O-O", "O-O", "h4", "Nxd5", "Qxd5"]
+
+[White "Juergens, Vera"]
+[Black "Makka, Ioulia"]
+["e4", "Nf6", "c4", "e6", "e4", "d5", "Bh4", "Be7", "c3", "cxd4", "exd4", "Be7", "Bd3", "O-O", "Bd3", "Nbd7", "Ne2", "a6", "Ngf3", "Bb7", "f3", "O-O", "Bf2", "Nxg3", "hxg3", "Nf6", "Nf4", "Nf6", "O-O-O", "Nf6", "Rfe1", "Nf6", "f4", "Nf6", "Qd3", "g6", "Ng4", "Bg7", "g4", "e5", "Rae1", "a5", "Nfe4", "a5", "fxe5", "Bd7", "f5", "g5", "Nfe4", "f6", "Qh3", "a5", "Nfg3", "Be8", "Nh5", "a6", "Nh5", "Bf7", "Nh5", "Nc5", "Rec1", "Nc5", "Nxc5", "Qxc5", "Ne4", "Qc7", "c5", "dxc5", "d6", "Rd8", "Rec1", "Qxc7", "d6", "Qd7", "Qd5", "Ra7", "Rc1", "Rc8", "Rc7", "a4", "Bd5", "Rc8", "Qg6+", "Rxc7", "dxc7", "Qxc7", "Nxf6+"]
+
+[White "Khukhashvili, Sopiko"]
+[Black "Muzychuk, Anna"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "a6", "Nc3", "Qc7", "O-O", "Ng6", "Be3", "Ng6", "O-O", "Be7", "Nc3", "O-O", "Nc3", "O-O", "Nc3", "O-O", "Nd5", "Bxd5", "Bb6", "Bxd5", "Bb6", "f5", "Bb6", "Qxg5", "Qxg5", "hxg5", "Nc7", "Rad8", "Nd5", "Nf4", "Rad1", "Nc8", "Rxd6", "Rxd6", "Rxe6", "Rxd6", "Rxd6", "Bf5", "Nxb7", "Nd4", "Nxb7", "Nd4", "Rxd8+", "Nxd8", "Nc3", "Bg6", "Nxe4", "Ne6", "Nac5", "b5", "cxb5", "axb5", "Nac3", "b4", "Nxd6", "Nxd6", "Bd5+", "b4", "Nxb5", "b4", "Nxa4", "Kf7", "Nc5", "Nc4", "b4", "Ke7", "Kf2", "Nd4", "Be4", "Kf6", "Be4", "Bd1", "b4", "Kf6", "b4", "Kd6", "Nd3", "Be2", "Bxc2", "Bxe4", "Nxe4+", "Kc6", "Nxg5", "Kc4", "Ne4", "Kc5", "Ne6+", "Kxb5", "Nxe5", "Kc5", "f4", "Kd4", "Nf4", "Ke5", "Ng2", "Kf4", "Ne1", "Nh4", "Nd5", "Kh4", "Kg2", "g5", "Nf6", "Ne3+", "Ne4"]
+
+[White "Melia, Salome"]
+[Black "Karlovich, Anastazia"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "Ba4", "Nf6", "O-O", "b5", "Bb3", "Be7", "c3", "d6", "Bg5", "O-O", "c3", "O-O", "O-O", "Bg4", "Be3", "Bg4", "h3", "Be6", "Be3", "Na5", "cxb4", "bxc3", "Be3", "bxc3", "bxc3", "Nxd5", "Be3", "Nxd5", "Bxd5", "Rb8", "Be3", "Rab8", "Be3", "Bc8", "Kh1", "Bc8", "f4", "Bd7", "f4", "exf4", "Bxf4", "Bd7", "Rf3", "Bd7", "Nh4", "d5", "Nh4", "f5", "Nh4", "Qh5", "e5", "Qg6", "Bd3", "Qxe4", "Bd3", "Qxe4", "d5", "cxd4", "e5", "Bd7", "cxd4", "Bd7", "Qc4", "Bb5", "Rf3", "g5", "e5", "g5", "Nf5", "Nxf5", "exf5", "Rfe8", "Rge3", "Rxe3", "Rxe8+", "Rxe6", "Rxe8+", "Rxe6", "Qf3", "Bb5", "Qe1", "Kg7", "Rxe8+", "Rxe7", "Rxe7", "Qxd5", "Rxf7", "Bxe8", "Qxe8+", "Bxe8", "Bd3", "Bb5", "Bxa6", "Bxa5", "Bxd6", "Bf7", "g4", "Kg7", "Kg2", "hxg4", "hxg4", "Kg7", "Be7", "Be2", "Kg3", "Bxg4", "Be6", "Kg7", "d6", "Bd8", "Be6+", "Bb4", "d7", "Ke8", "d7", "Be7", "d8=Q", "Bxd8", "Bxd8", "Kf8", "Be7", "Bc2", "Ke3", "Bd1", "Ke3", "Bc2", "Kd4", "Bc6", "Kd4", "Bc2", "Bd4", "Ba4", "Kf3", "Be4", "Ke3", "g4", "Kd2", "g4", "Kc5", "g3", "Kd6", "g2", "Bxf6", "g2", "Bd4", "Kg5", "f6", "Kf4", "f6", "Kf4", "f7", "Kg3", "f7", "Bf3", "f7", "Bxf7", "Be6+", "Kg3"]
+
+[White "Meshcheriakova, Evgenia"]
+[Black "Tereladze, Sopiko"]
+["e4", "c5", "d4", "Nf6", "Nc3", "g6", "dxe5", "exd4", "Bc4", "Be7", "O-O", "O-O", "Re1", "c6", "a4", "Qc7", "h3", "Qc7", "Be3", "Bf8", "Be3", "Qc7", "Bxd4", "Ne5", "e5", "dxc5", "Qxd8", "Rxd8", "Rad1", "Be6", "Bxe6", "fxe6", "Rad1", "Bd6", "Nc4", "bxc6", "e5", "Nd5", "exf6", "Bxf6", "Rxe6", "Rxd1+", "Nxd1", "Rd8", "Ne3", "Bxb2", "Rxc6", "Bd4", "Nf5", "Rf8", "Nxd4", "Rb8", "Ke2", "Rxd6", "Nxd4", "Bc3", "Ra6", "Bc3", "Rxa5", "Rc5", "Rxa5", "Bc3", "Rxa5", "Bd4", "Nxf6+", "gxf6"]
+
+[White "Miednikova, Swietlana"]
+[Black "Reizniece, Dana"]
+["e4", "c5", "Nf3", "Nc6", "d4", "d5", "e5", "Nd5", "d4", "cxd4", "cxd4", "d6", "Bc4", "Nb6", "O-O", "Be7", "Nc3", "O-O", "Nc3", "Nb6", "a3", "Bxd6", "a3", "Qd8", "Nc3", "Bf6", "a3", "exd5", "Nxd5", "Nxd5", "Bxd5", "Be6", "Rad1", "Be6", "Qb5", "Bxc4", "Rxc4", "Bf6", "Rfc1", "Qg4", "Rc1", "Bxg5", "Bxf6", "Bxg5", "Rh4", "Qxe5", "Re1", "Rac8", "Re4", "a6", "Bh4", "Rac8", "Rxb5", "Nd4", "Qd3", "Ne2+", "Kh1", "Nxf4", "Qxf4"]
+
+[White "Molchanova, Tatjana"]
+[Black "Gavasheli, Ana"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "Nf3", "exd5", "Bf4", "Nf6", "Bf4", "Nf6", "e4", "Bf5", "Qb3", "Nd7", "e3", "O-O", "Nxe4", "Bxe4", "Bd3", "Nd7", "O-O", "Nd7", "Ne5", "Rc8", "Nd2", "Bf5", "Bd3", "a6", "a3", "Bb4", "dxc5", "b6", "a4", "Nb6", "Bd1", "Na4", "Qb2", "Na4", "Qd2", "Qxb5", "Nc3", "Bxb1", "Rxb1", "Qc6", "Rfc1", "b5", "Bf3", "dxe4", "Be3", "Qxb5", "Bxc4", "Qb2", "Bxf7+", "Kg7", "Bxe8", "Bf6", "Bxe8", "Rxe8", "Bg3", "Rxe8", "Bxf6+", "Re7", "Qf7", "Kxh7", "Qf7+", "Kh6", "Qxf6", "Qd1+", "Kg2", "Qf3+", "Kg1", "Qd1+", "Bh4", "Qg4+", "Qh7+", "Kg4", "Qxg8", "Qxf6", "Qd5", "Nc3", "Qxe4+", "Qf4", "d5", "Nc4", "Qxh4+", "Qg4+", "Kf2", "Qh4+", "d5", "Nf6", "Qe5+", "g5", "Kf3", "Qxe5", "Qxf5", "Qe4+", "Qxd5", "Nxd5", "Ke4", "Nc3+", "Ke5", "Nxa4", "d5", "gxf5", "Kxf5", "Kg7", "Ke5", "Nxd5", "Ke5", "Nf6+", "Kd3", "a3", "Kc2", "Kf4", "Kb2", "Ke4", "Ka3", "Kd4", "Kb4", "Kd4", "Kb5", "Kc4", "Kb2", "Kb4", "Kb2", "Nc4+", "Ka2", "Na4", "Ka1", "Kb3", "Ka1", "Na4", "Kb1", "Nc3+", "Ka1"]
+
+[White "Purtseladze, Maka"]
+[Black "Tsereteli, Tamari"]
+["e4", "Nf6", "Nc3", "Nf6", "g3", "f5", "Bg2", "Bg7", "e3", "d6", "Nf3", "f5", "O-O", "O-O", "Rb1", "h6", "b4", "Be6", "b4", "Qd7", "b4", "g5", "b5", "Nd8", "Nxe7+", "c6", "fxe5", "c6", "bxc6", "d5", "Nec2", "bxc6", "Nec2", "dxe5", "Nf3", "a5", "gxf4", "Bh3", "gxf4", "fxg3", "Nc5", "Qc8", "Ne4", "Qg5", "Rf2", "Bxg2", "Kxg2", "Nf5", "Ne4", "Qxe6", "Rb7", "g5", "exf4", "Qxe7", "exf4", "Raf8", "exf4", "Raf8", "exf4", "f3+", "Rxf7", "Rf2+", "Rxf1", "Rxf1", "Kxf1", "Qxh3+", "Ke2", "Qxg2+", "Ke2", "Qg4+", "dxe4", "exd3+", "Nxc6", "exd3+", "Kd2", "Qc5", "Nd4", "Qf4+", "Ne5", "Qxc6", "Qxg5+", "Bg7", "Qxh5", "Qd6+", "Qd5+", "Qxd5+", "cxd5", "Kf7", "Ke4", "Ke7", "Kc4", "Kd7", "Kb5", "Kc7", "a5", "Kc7", "a6", "Kc7", "d6", "Kc7"]
+
+[White "Rogule, Laura"]
+[Black "Sudakova, Irina"]
+["e4", "Nf6", "Nc3", "d5", "cxd5", "Nf6", "Nf3", "exd5", "Nf3", "Nf6", "Bf4", "Qb6", "Qxb6", "Nd7", "e3", "Ngf6", "e3", "Qxd4", "axb3", "Bb4", "Nxe4", "Nxc3", "bxc3", "Nb6", "e4", "O-O", "g4", "a4", "e4", "dxe4", "fxe4", "Bg6", "c4", "a4", "e5", "a4", "Bb5", "cxd4", "c4", "Nb6", "Bd3", "Nb6", "Rhg1", "Bxc5", "dxc5", "Nd5", "Bc4", "f4", "Bd4", "Bxg2", "Rhg1", "Ke6", "g4", "Nc7", "Bc4+", "g6", "Bc4+", "Bd5", "Bxd5+", "Bxc4+", "Rb1", "Bxc4+", "Rb6+", "Nc6", "Rb6+", "Kf7", "Bxd5+", "gxf5", "Bxd5+", "Bxc4+", "Bxd5+", "Rg7", "Bb5", "Rg7", "Rh6+", "Kxe5", "Bxd5+", "Kxe5", "Rxg6+", "Bxc4+", "Rh6+", "Kxe5", "Rxg6+", "Bxc4+", "Bxd5", "Nxd4", "Bxd5+", "Kxd5", "c4+", "Rg3+", "Kc2", "Rxh3", "Kb3", "Rxh3", "Rbf1", "Rh2+", "Rxd4+", "Kxc5", "Re5+", "Rh2+", "Re5+", "b6", "Re5+", "f3", "Rc4+", "Rxe6", "Kxc3", "Rxf4", "Re5+", "Kc6", "Rh5", "Rf7", "Kc4", "Rf7", "Kb3", "b5", "a3", "Kc5", "Kd4", "Kb6", "Kb3", "Kb6", "a4", "Kc5", "a4", "Kb6", "a4", "bxa4+", "Kxa4", "a3", "Kb5", "a3", "Kxa5", "a2", "Ra6+", "Kb7", "Rxa5", "Rc2", "Kb6"]
+
+[White "Shaidullina, Sandugach"]
+[Black "Muzychuk, Mariya"]
+["e4", "Nf6", "c4", "Nf6", "c4", "e6", "Bg2", "Bg7", "O-O", "O-O", "Bb2", "d6", "Nbd2", "d6", "c4", "Nc6", "Nbd2", "Nbd7", "Re1", "e5", "a3", "e5", "dxe5", "fxe4", "Nxe4", "dxe5", "Nxe4", "Nxe4", "Rxe4", "Bf5", "Re1", "e4", "Ba3", "Bg4", "Nxf5", "c5", "Nxf5", "gxf5", "Rb1", "Nd3", "Bxb4", "axb4", "Qf4", "Be5", "Qe3", "Bd4", "Qe2", "Rfd8", "Rbd1", "Rd2", "Qxg6+", "hxg6", "Rbd1", "Rfd8", "Rxd3", "Bxe1", "Rxd1", "Rf7", "Rd7", "Rf7", "Rxb7", "Rxa2", "gxf5", "gxf5", "Rxb7", "Rxa2", "Be6+", "Kf8", "Rxb7", "e3", "fxe3", "fxe3", "Kf1", "Rxa2", "Rh7+", "Rf2+", "Rxb7", "Rf2+", "Kg2", "Re1", "Rxb7", "Rxb3", "Kf3", "Rb2", "Bd3", "b3", "Rb7", "Rb1", "Rb8+", "Kf7", "Rb7+", "Ke6", "Rb6+", "Ke5", "Rb5", "Rb1", "Rg8+", "Rb2", "Rg8+", "Rh3+", "Ke4", "Rh2+", "Rb1", "Rh2", "Ke2", "Kf3", "Rb1", "Ke4", "Rd5", "Rxf1+", "Kc2", "Rf2+", "Rd5"]
+
+[White "Shumiakina, Tatiana"]
+[Black "Umudova, Nargiz"]
+["e4", "d5", "c4", "g6", "Nc3", "Bg7", "Bg2", "Bg7", "O-O", "O-O", "O-O", "cxd5", "O-O", "O-O", "O-O", "Nxc3", "O-O", "Nxc3", "bxc3", "O-O", "O-O", "Nd7", "Bf4", "Nc6", "Nxd7", "Rc8", "Qd2", "f6", "Nxc6", "b6", "b3", "Bb5", "Rac1", "Bb5", "Rac1", "Nd6", "Rxc8", "Nf5", "Qd2", "Qe7", "Nb4", "Nf5", "Qd2", "Nd6", "a4"]
+
+[White "Socko, Monika"]
+[Black "Titova Boric, Elena"]
+["e4", "Nf6", "c4", "Nf6", "Nc3", "e6", "Bg2", "e5", "Bg2", "Bxe6", "Bg2", "Bxe6", "Nf4", "Be7", "Nf4", "Bf7", "Bg2", "O-O", "Bg2", "Na6", "O-O", "Nb4", "a3", "Qf7", "b3", "Rae8", "Nd3", "h6", "Rad1", "Rae8", "Rae1", "Bd8", "e4", "h6", "e4", "Kg7", "e4", "Nc7", "b5", "d5", "a4", "Ne4", "Ne5", "Ne4", "fxg5", "g4", "fxg5", "g4", "Nxe4", "dxe3", "Bxe3", "gxf4", "Nxe4", "Rfe7", "Nxe4", "Qg6", "Rxf2", "Qf7", "Rxe7", "Rxe1", "Ne5", "Bxe5", "Bxe5", "Nc7", "Rfe1", "Bd5", "Bxd5", "Rxe5", "Bxe5", "Rxe5", "Bc4", "Qxe8", "Be5", "Nd5", "Qc3", "Qe7", "Qg7+", "Kh5", "Qh7", "Qg6", "Qf6", "Bf3", "h3", "Nd5", "h3", "Nxe5", "hxg4+", "gxf3", "Kxf3", "Qxf6", "Bxf6", "Nxa3", "Kxf3", "Nc2", "Be5", "Nc2", "g4", "h5", "g4", "axb6", "g4", "b5", "g4", "h5", "g4", "Kf7", "Kd3", "Ne4", "Be1", "Kf6", "bxc5", "Nxc5+", "Kd4", "Ne4+", "Kxb4", "Ne4", "Bc3", "Ne4", "Kxb3", "Nxg3", "Kc4", "h4", "Kc4", "Ke6", "Kd4"]
+
+[White "Szczepkowska Horowska, Karina"]
+[Black "Pavlovskaya, Evgenija"]
+["e4", "c5", "d4", "d5", "exd5", "dxe4", "Nxe4", "Bf5", "Ng3", "Bg6", "Nf3", "h6", "h5", "e6", "Nf3", "Nf6", "h5", "Bh7", "Bd3", "Bxd3", "Qxd3", "Ngf6", "Bd2", "Bd6", "O-O-O", "Bd6", "O-O-O", "Bd6", "Ne5", "Nxe5", "dxe5", "Nd5", "Ne4", "Nb4", "Ba5", "Rd4", "b3", "Be7", "Bc3", "Rhd8", "Rxd1", "Rd8", "Rxd8+", "Rxd1+", "Qxd1", "Qd7", "Qxd8+", "Kxd8", "Kd2", "Kd7", "Kd2", "cxb4", "c5", "Kc6", "cxb6", "Nd5", "Nd6", "Bxd6", "exf6", "Nxc5", "fxe5", "Nxe5", "fxe5", "Bxd6", "Nxb7+", "Bf8", "Nxg7", "Kxe5", "Kd2", "Kf6", "Ne8+", "Kf7", "Ng7", "e5", "Nxe6", "Kxg3", "Nxe6", "Bxg3", "Ke4", "Kxh5", "Nf4", "b6", "Nf7", "a5", "Ne5+", "Kxh5", "Nc4", "b5", "Nf3", "b4", "Na7", "b4", "Kf3", "b4", "Nd4", "h5", "Nxb5", "h4", "Nxb5", "h4", "Kf1", "h4", "Nc3", "h4", "Nd5", "Kf3", "Ng5+", "Ke3", "Kg2", "Bd8", "Kg2", "Kg4", "Kh3", "Bxa5"]
+
+[White "Tkeshelashvili, Sopio"]
+[Black "Krivec, Jana"]
+["e4", "Nf6", "c4", "Nf6", "e3", "Nc6", "c3", "Nf6", "Bb2", "Nc6", "Nbd2", "Qxd2+", "Nbxd2", "Nc6", "Bb5", "cxd4", "Bb5", "Bb7", "O-O", "Be7", "Ne5", "O-O", "exd4", "O-O", "dxe5", "Nd7", "f4", "O-O", "f4", "Rac8", "c3", "axb4", "f4", "axb4", "g4", "Ba6", "Bxa6", "Bb7", "a4", "Bc5", "Nb3", "Bxd4+", "exf6", "fxe5", "exf6", "fxe5", "exf6", "Bc5", "g5", "Bc5", "Rxg4", "Bc5", "Rag1", "Nc5", "h5", "gxh5", "hxg6+", "Rag8", "hxg6+", "hxg6", "Rxg6", "Rxg6", "Bxg6+", "Ke7", "Bd3", "Rf8", "Rg7+", "Kd8", "Ng5", "Bxd4"]
+
+[White "Vajda, Szidonia"]
+[Black "Rudolf, Anna"]
+["e4", "c5", "d4", "d5", "Nc3", "Nf6", "Ngf3", "Nf6", "Ngf3", "exd5", "Ngf3", "Bd7", "Ngf3", "Bxc5", "Ngf3", "Ne7", "Ngf3", "Bb6", "Bg5", "O-O", "O-O", "Bg4", "h3", "Re8", "h3", "Bh5", "Be3", "Bc7", "Qxe3", "Nf5", "Qg5", "Bxf3", "Qxf5", "Be4", "Qg4", "h6", "Qg4", "a6", "f3", "Bf5", "Nd4", "a6", "Bxc6", "Rfe8", "Nd4", "Nxd4", "Nxf5", "Rfe8", "Kg1", "Bxc6", "Rd4", "Qxd4+", "Bd3", "Rfe8", "a3", "Rfe8", "Bb3", "Rfe8", "Rde1", "Bb7", "Rde1", "Rfe8", "Rxd5", "Qxe6", "Bxd5", "Rxd5", "Qxd5", "Qxd5", "Qxe6+", "Rxe6", "Rd7", "Kf7", "Rd7+", "bxa4", "Rxa4", "Rb6", "b4", "Ke6", "Ra3", "Ke6", "Ke3", "Kd5", "Kd4", "Kc7", "c4", "Kb6", "Kc3", "Rd1", "c5", "Rd1", "Rd2", "Rd6+", "Kd5", "Rd6+", "fxg5", "hxg5", "Kd5", "Re1", "Kd5", "Rh1", "Ke5", "Rc1+", "Kb3", "Rh1", "Kc3", "Rc1"]
+
+[White "Worek, Joanna"]
+[Black "Lujan, Maria Carolina"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Bg7", "Nc3", "O-O", "cxd5", "Nxd5", "e4", "Nxc3", "bxc3", "c5", "Bc4", "c5", "O-O", "Nc6", "Be3", "b6", "Ba3", "Re8", "e5", "b6", "Bh4", "g5", "e5", "Nf4", "Nxg5", "Nf4", "Bg3", "Bxe5", "dxe5", "Qxe5", "Bc4", "b6", "Rad1", "Bc6", "Bf3", "Rad8", "Rad1", "Rd7", "Rad1", "Rad8", "Rxd7", "Rxd7", "Bc4", "b6", "Bg3", "a5", "a5", "Qb3", "axb6", "axb6", "g3", "e5", "Rxd1", "Qxd1", "Kg1", "Qxe1", "Bxf4", "gxf4", "Bc4", "Qc1", "Kg1", "Kf8", "Qc8+", "Be8", "Kg1", "Qe1", "Qa6", "b5", "Qb7", "b5", "Qf5", "b5", "Qxf4", "Qc2+", "Qxf4", "Qc2+", "Bd5", "Qc2+", "Kg1", "Qxc3", "Kh2", "Qxc3", "Qxf4", "Qd6", "Qxd6", "Qxd5", "Qh6+", "Kg8"]
+
+[White "Zatonskih, Anna"]
+[Black "Golubenko, Valentina"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "d3", "fxe4", "Nc3", "dxc6", "Nxe5", "Bd6", "dxe4", "Bd6", "O-O", "O-O", "O-O", "O-O", "O-O", "O-O-O", "Bb2", "h6", "O-O-O", "Ba3", "Nxe5", "Qxa3+", "Kb1", "Rhe8", "Nc4", "Rhe8", "Ng5", "Qxe3", "Nc4", "Rhd8", "Qc3", "Qxc3+", "Kxc3", "Re8", "Nc4", "g5", "Rhe1", "Red8", "f3", "b6", "f3", "b6", "f4", "Nd7", "f4", "Kb7", "Nc4", "Kb7", "Rf1", "Nd7", "a4", "Nh5", "Ke3", "Nd7", "h4", "g4", "h4", "g4", "Rf1", "Rd8", "Nd3", "g4", "fxg4", "Nxg4", "Rhe1", "b5", "h6", "Rg5", "h6", "b5", "Ne3", "Rh7", "Nf1", "Rg6", "Rf2", "Rg6", "Rf1", "Ke7", "Nf2"]
+
+[White "Batsiashvili, Nino"]
+[Black "Blazkova, Petra"]
+["e4", "d5", "g3", "d5", "Nc3", "d5", "Bd2", "O-O", "Bg5", "h6", "Bh4", "c5", "e3", "Nbd7", "Bd3", "exd5", "Bd3", "Bg4", "O-O", "Bb7", "Rc1", "Nbd7", "Rac1", "c5", "Rac1", "Nf8", "Ne5", "Bd6", "Bxe7", "Qxe7", "Nc6", "Nxd7", "Nb5", "c6", "Nd6", "Qc7", "Rfe1", "Bxf1", "Rxf1", "Rxc8", "Bxd7", "Rxc8", "Qxa8", "Qxd7", "Nxa7", "axb6", "Qxa7", "Qxb2", "Re1", "Qxa2", "Nxc4", "Qxa2", "Nxc4", "Rxe3", "Nxc4", "Qxa2", "Rc1", "Qb2", "Nxc4"]
+
+[White "Berzina, Ilze"]
+[Black "Meshcheriakova, Evgenia"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "Ba4", "Nf6", "O-O", "Be7", "Re1", "b5", "Bb3", "O-O", "c3", "d6", "c3", "Na5", "Bc2", "c5", "d4", "Qc7", "Nbd2", "Bb7", "cxd4", "Bb7", "d5", "Nb4", "Bb1", "Bb7", "a3", "Na6", "Bd3", "axb4", "Bb2", "a4", "Bd3", "Nf4", "Rc2", "Qd8", "Nf1", "Rxc8", "Bd3", "Nf4", "Nf1", "axb4", "Be3", "Bxe3", "Rxe3", "Nf4", "Bf1", "axb4", "Nbd2", "Nc5", "Qb4", "Qa6", "Nc3", "Qxa5", "Nxb5", "Bxf5", "Qxa5", "Qxb4", "Nxd6", "Nxd5", "Bxh3", "Qxb4", "axb4", "Bxf5", "Nh4", "Rc8", "Re2", "Rxe2", "Nh4", "Bxe6", "Rc2", "Ra2", "Re2", "Bxe6", "b5", "Nc5", "Ng1", "Nxg1", "dxe6", "Nxg1", "e7", "Kf8", "Bd5", "Ke7", "Bd5", "Ke7", "Bd5", "Kf6", "Rxb7+", "Kxe6", "Rxg7", "Rb4", "Rg6+", "Kd5", "Rxh6", "Rxb5", "Rg6"]
+
+[White "Calzetta Ruiz, Monica"]
+[Black "Dzagnidze, Nana"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "a6", "Nc3", "Qc7", "Be3", "Nf6", "O-O", "Bb4", "O-O", "Be7", "Kh1", "O-O", "Nf5", "O-O", "Ng5", "Bg4", "Nxe6", "fxe6", "Bc4", "O-O", "f5", "Nd4", "f5", "Nd4", "Rxf4", "Ne5", "Raf1", "Nxd3", "Raf1", "Nxd3", "Rh4", "Rcf8", "Ne3", "Nxd3", "R4f2", "g4", "Rf3", "e5", "Ne3", "e5", "h3", "h4", "Qe1", "Ne5", "Bd2", "Nh5", "Rxf7", "Rxf7", "Rxf7", "Kxf7", "Qf2+", "Ng3+", "Qf3", "d5", "Ng4", "Nxd3", "c3", "Bc5", "Bc2", "Bxd4", "cxd4", "Nf5", "Nxf5", "exf5", "Qd2", "b4", "axb5", "axb5", "Bxb5", "Qb6", "Be8+", "Qb6", "Bd7", "Nf4", "Bxf5+", "Nxd7", "Bxf5+", "Kh6", "b4", "Qe7", "e6+", "Qe7", "Bxg4", "Qg5", "Qxd5+", "Kg7", "b5", "Ng6", "b5", "Qxf6", "exf6+", "Kxf6", "b5", "Ke7", "b6", "Nc6"]
+
+[White "Daulyte, Deimante"]
+[Black "Vajda, Szidonia"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "Ba4", "Nf6", "O-O", "Be7", "Bb3", "Be7", "Re1", "O-O", "c3", "d6", "c3", "d5", "exd5", "Nxd5", "Nxe5", "Bf6", "Nbd2", "b4", "c4", "exd4", "Nxd4", "Bf6", "Nbd2", "Bf6", "Ne4", "Qg6", "Bc2", "b3", "Bb1", "Nb4", "Nxf6+", "Rxd4", "Nxe4", "Rxd4", "Nc3", "Bb4", "f3", "Bh4", "Qe2", "Bc5", "Kh1", "f4", "Qe6+", "Nc4", "Bc3", "Rdxf5", "Bxf5", "Nc4", "Rac1", "Rd5", "Rac1", "Rxa5", "Qxb3", "Bxa5", "Rac1", "Qe6", "Qxb6", "Kh8", "b4", "Bc8", "Qb8", "Bd7", "Qb8", "Bb4", "Raa1", "a5", "Rd1", "Ba6", "Qxc4", "Rd3", "Qa8", "g6", "Rad1", "Bb7", "Qf3", "Bb7", "Rg1", "Rxb2", "Qxf6", "Qc6", "Rxg2", "Qf8", "Rxg2", "Bxg2+", "Kxg2", "Bxh3", "Rd1", "Qg5+", "Re2", "Qd4+", "Kf2", "Qxe1+", "Re5", "Qf3", "Rg5", "Qh1+", "Kf2"]
+
+[White "Gaponenko, Inna"]
+[Black "Tkeshelashvili, Sopio"]
+["e4", "c5", "Nf3", "Nc6", "d4", "d5", "d4", "cxd4", "exd5", "cxd4", "Bd3", "cxd4", "b4", "cxd4", "cxd4", "Nge7", "Be3", "Nge7", "O-O", "Nf5", "Be3"]
+
+[White "Gavasheli, Ana"]
+[Black "Juergens, Vera"]
+["e4", "Nf6", "Nc3", "d5", "g3", "d5", "Bg2", "e6", "Bg2", "Bg7", "O-O", "O-O", "d3", "Nbd7", "a3", "Nc7", "dxc4", "Be6", "Qc2", "Rc8", "Nc3", "Nc7", "b5", "Nc7", "a4", "b6", "Bb2", "Nb4", "Qc1", "Bxb2", "Bxg7", "Bxb2", "Bxg7", "Kxg7", "Qc3+", "f6", "Nc4", "Ncd5", "dxc5", "Nd6", "dxc5", "bxc5", "Rac1", "Bf7", "Nc6", "f5", "Ne6+", "Bxe6", "Bxe6", "Qc7", "Nc4", "Nxc4", "Bxc4", "Rbd8", "a5", "Rxd1+", "Rxd1", "Rd8", "Rxd8", "Qxd8", "Kg2", "Qd1+", "Kg2", "f5", "Kg2", "Qd1+", "b6", "Qd4", "Kg2", "Qd4", "Qb7+", "Qd4", "Qb7+", "Kh6", "Qxa7", "g5"]
+
+[White "Golubenko, Valentina"]
+[Black "Ciuksyte, Dagne"]
+["e4", "Nf6", "c4", "g6", "c4", "d5", "Bg2", "cxd4", "O-O", "d5", "c4", "Be7", "Nbd2", "Bxc5", "b4", "O-O", "Nb3", "e5", "e4", "Bb6", "e4", "Ne7", "a4", "dxe4", "exd5", "Nexd5", "c4", "Nb4", "a4", "Nb6", "a4", "Be6", "Rac1", "Be6", "Rac1", "Nc5", "Qc2", "h6", "cxb5", "h6", "Qxc7", "Bxc7", "Ba3", "Nxb2", "Nxb2", "h6", "Red1", "Bc3", "f3", "Rac8", "Re2", "h6", "Rac1", "Bg6", "h3", "Bb4", "Rc1", "Bd4", "Rc7", "Rxa2", "Nd6", "Bxf2+", "Kh1", "Rf8", "Re1", "Bxc1", "Rc8", "Bxc1", "Nxe4", "Bxc1", "Nxe4", "Nxh7", "Re1", "f5", "Rb8+", "Kg7", "b6", "Nf3", "Bxf3", "Nxf3", "b6"]
+
+[White "Hunt, Harriet"]
+[Black "Benderac, Ana"]
+["e4", "c5", "d4", "d5", "Nc3", "Nf6", "Nxe4", "Nd7", "Nf3", "Ngf6", "Bd3", "Be7", "c3", "cxd4", "O-O", "O-O", "c3", "cxd4", "d5", "b6", "Bb2", "cxd4", "Bb2", "Bb7", "Rad1", "Rac8", "Ne5", "h6", "Bf3", "Bxf3", "Nxf3", "cxd4", "Nxd4", "a6", "Qe2", "b5", "Nf3", "Rac8", "Nf3", "Rad8", "Rxd7", "Rxd1", "Rxd7", "Nxf4", "Rxd7", "Rxd7", "Bxf6", "Bc5", "Bxf6"]
+
+[White "Karlovich, Anastazia"]
+[Black "Shumiakina, Tatiana"]
+["e4", "c5", "d4", "Nf6", "Nc3", "g6", "dxe5", "exd4", "Bc4", "Be7", "Bg2", "Be7", "O-O", "O-O", "O-O", "O-O", "Re1", "Qc7", "h3", "Bf8", "Bg5", "Qc7", "Qd2", "b6", "Nxd4", "Ne5", "f3", "Ne6", "Nf5", "Ne5", "b3", "Ne6", "Nf5", "Nxd4", "Bxd4", "Be6", "Bxh3", "Bxg2", "Bxd6", "Bxd6", "Qxd6", "Qxd6", "Rxd6", "Bf3", "Red1", "Rad8"]
+
+[White "Krivec, Jana"]
+[Black "Worek, Joanna"]
+["e4", "c5", "Nf3", "Nc6", "f4", "Nc6", "Nf3", "Bg7", "Bc4", "Bd7", "Bxd7+", "a6", "Nxb5", "a6", "c3", "a6", "d3", "a6", "c3", "a6", "Nc3", "Nb4", "Nxd4", "cxd4", "Ne2", "e5", "Kh1", "Rac8", "c3", "Qc5", "c3", "dxc3", "bxc3", "Ng4", "axb6", "Qxb6", "Bd2", "Ng4", "fxg6", "hxg6", "Nd4", "Ng4", "d4", "e5", "Nd5", "Rxf1+", "Rxf8+", "Rxf1+", "Qxf1", "Qxf1+", "Rxf1", "exd4", "Rxf8+", "Kh8", "Rxf8+", "Bxf8", "h3", "a4", "h3", "a3", "cxd4", "a3", "h3", "dxe5", "dxe5", "Nh6", "Bxh6", "exd4", "Nxe3", "Kg8", "Ne7+", "exd4", "dxe5", "Kf7", "Kf2", "Ke6", "Bf6", "Nc4", "Na2", "Nd1", "Bxe3", "Nc2", "Kg1", "Nc2", "Bd2", "Kd5", "Bc3", "Kd5", "Nxb4", "Bc5", "Na2"]
+
+[White "Lujan, Maria Carolina"]
+[Black "Cherenkova, Kristina"]
+["e4", "c5", "Nf3", "Nc6", "d4", "Nc6", "Nbd2", "Nc6", "g3", "Be7", "Bg2", "Be7", "O-O", "O-O", "Nc3", "Nd7", "Re1", "d4", "Bf4", "Qc7", "a3", "a6", "h5", "b5", "b3", "Bb7", "hxg5", "Bb7", "Nd2", "Nb4", "Ne4", "Rxb7", "Ne4", "Nc2", "Rac1", "Nxa1", "Qh5", "g6", "Qxb7", "Nc2", "Ne4", "Nb4", "Nf6", "axb5", "Qxb5", "b4", "Qxb5", "cxd3", "dxc4", "cxd3", "Qxd3", "Qb7"]
+
+[White "Mamedjarova, Zeinab"]
+[Black "Limontaite, Simona"]
+["e4", "Nf6", "c4", "Nf6", "Bf4", "Nf6", "e3", "Bd6", "Bg3", "O-O", "Bd3", "c5", "Nd2", "Bb7", "c3", "Bb7", "Bc2", "Nxa6", "Nd2", "Be7", "Nd2", "Be7", "O-O", "cxd4", "O-O", "b4", "O-O", "Nc7", "O-O", "Nbd7", "f4", "Qxd7", "e4", "a5", "e4", "b4", "axb4", "axb4", "e5", "Ne8", "Bxe7", "Qxe7", "f4", "bxc3", "f5", "Nc7", "f5", "Nb5", "f5", "exf5", "Qxf5", "bxc3", "bxc3", "Rxa1", "Rxa8", "Nb5", "Qxg6", "Rxa8", "Qxg6", "Ne6", "Nf3", "h6", "Qb6", "Ne6", "Qb7", "Ne6", "Ne3", "Nf4", "cxd4", "Qxc3", "Nxd5", "Qd3", "Qxd4", "Ne2+", "Rc1", "Qe4", "Nxc4", "cxd3", "Rd1", "Rxe5", "Kf2", "Rxe5", "Kf2", "Nc3", "Rd2", "d2", "Rd1", "d2", "Rc4", "fxe6", "Kg2", "fxe6", "Kf3", "Ng5+", "Kg4", "Nxe6", "Rd6", "d2", "Kf3", "Rd4", "Ke4", "Nf3+", "Kd5", "d2", "Rd8+", "Kh7", "Rd3", "g6+", "Rxd4", "Nxd4+", "Ke4", "Ne6", "Kd3", "Kg6", "Kc2", "Nc5", "Kxd2", "Ne4+", "Kd3", "f5", "Kf3", "Kg5", "Kf4", "Ne2+"]
+
+[White "Matseyko, Ekaterina"]
+[Black "Khukhashvili, Sopiko"]
+["e4", "c5", "Nf3", "Nc6", "f4", "b5", "Bg2", "Bb7", "d3", "e6", "Nge2", "Nf6", "Nce2", "Nf6", "e5", "Ne7", "Nf3", "Nge7", "O-O", "Nh6", "Nbd2", "Nf5", "O-O", "Nf5", "O-O", "Nf5", "Rxa3", "Nf5", "Bf2", "a4", "fxg5", "hxg4", "hxg4", "Bxg5", "fxg5", "Qxg5", "Rxh3", "Rxh3", "Bxh3", "Qxg5", "Nf3", "Qh5", "Bxf5", "Ncd4", "Nxd4", "Nxd4", "Rxa3", "Qxe5", "Rxa3", "Rh8", "Bg2", "Qxg4+", "Bxg4", "Nxe5", "Be2", "Rh1", "Rxa3", "Nc6", "Rxa5", "Nc6", "Bf1", "Nc6", "Bxd4", "Rh1", "Ke1", "e5", "Bb6", "f2+", "Rxa5", "Ne3", "Rxa5", "Ne3", "Bd2", "Ne3", "Bd2", "dxc3", "Kxf1", "Ne3", "dxe5", "Ka7", "Ra1+"]
+
+[White "Muzychuk, Anna"]
+[Black "Melia, Salome"]
+["e4", "c5", "Nf3", "Nc6", "f4", "Nd4", "Bc4", "Nxb5", "Nxb5", "a6", "O-O", "cxd4", "dxc5", "cxd4", "Nxd4", "e5", "Qd3", "Be7", "O-O", "Be6", "O-O", "Rc8", "Ne3", "Be7", "O-O", "Be7", "f4", "O-O", "Rad1", "exf4", "f5", "Bxd5", "exd5", "Qb6", "fxe5", "e4", "Qe2", "Rfe8", "b4", "bxc4", "Bc3", "Rfe8", "Kh1", "Bf8", "g4", "Bf8", "g4", "Qb5", "Qxg4", "Nxg4", "Rxe4", "Nf6", "Rxc4", "Rxd4", "Bxd4", "a6", "Kh2", "e3", "g3", "e2", "Bxf6", "gxf6", "Re1", "Kg7", "Rxe3", "Rc1", "Rxe3", "Rxd5", "Kf3", "Rd2", "a3", "d5", "gxh5", "Rxh5", "Rxe3", "Rh3", "Kf3", "Kg7", "Rd2", "Kg7", "Rd8", "Rd1", "Rxa7", "Rc2", "Kg4", "Rxg3", "Kd5", "Rg2", "a4", "Re2+", "Kd5", "Kg6", "a5", "f5+", "b4", "f5+", "Rb6", "f5+", "Kd5", "Kh5", "Kxd6", "Kg4", "Ke5", "Kxf4", "a6", "Ke5", "Rxf7", "f4", "Rxf7", "f3", "b6", "Ke3", "a7", "f2", "b6", "Ke2", "b7", "f1=Q", "Rxf1", "Kxf1", "Kb7", "Ke2"]
+
+[White "Muzychuk, Mariya"]
+[Black "Jackova, Jana"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "exd4", "Nxd4", "Bc5", "Be3", "Qf6", "c3", "Nge7", "Bc4", "O-O", "Bg2", "dxe4", "cxd4", "Bb4+", "Nc3", "dxe4", "bxc3", "dxe4", "Bxe4", "O-O", "O-O", "Bh3", "Qh5", "Nd5", "Bg2", "Nd5", "Rb1", "Nd5", "Rab1", "b6", "a4", "Nd5", "Be5", "Qg6", "a4", "Bf5", "Bxf5"]
+
+[White "Pavlovskaya, Evgenija"]
+[Black "Mamedjarova, Turkan"]
+["e4", "c5", "Nf3", "Nc6", "Nxe5", "Nc6", "d3", "O-O", "d3", "O-O", "d3", "O-O", "d3", "c6", "a3", "d5", "exd5", "cxd5", "Bb3", "Nc6", "c3", "e4", "Ne5", "Nxe5", "c3", "Bd6", "f4", "bxc6", "Bf4", "Qc7", "Re1", "Qxd6", "Re1", "Rfe8", "fxe3", "Ne4", "Qe1", "Rae8", "Qxe2", "Ng3", "Qf3", "Nxf1", "Rxf1", "a4", "Bc2", "g6", "e4", "Kg7", "e4", "Rae8", "Qxc4", "Rae8", "Rxf6", "Qxf6", "Be4", "Qe6", "e4", "Qe6", "e4", "Re6", "Bb3", "Rf6+", "Kg1", "Qg3", "Bf3", "Qg3", "Bf3", "Qd5", "Bb3", "Qf5", "e4", "a4", "d5", "Kg7", "Bc4", "Qb8+", "g3", "Rf3", "Qg2", "Rxe3", "Qxc6", "cxd5", "Bxd5", "Qe5", "Bf3", "h5", "Qxf3", "Qxb2+", "Qg2", "Qxa2", "Kf2"]
+
+[White "Reizniece, Dana"]
+[Black "Charkhalashvili, Inga"]
+["e4", "Nf6", "Nc3", "g6", "e4", "d5", "d4", "Be7", "Nf3", "Be7", "fxe5", "dxe5", "d5", "Nxe5", "Qxd8+", "Kxd8", "Bg5", "Be7", "O-O-O+", "Nxf3+", "Bxf6+", "Nxf3+", "Bxf6+", "Bb4", "O-O-O+", "Kc7", "e5", "Bb4", "e5", "Nd7", "Ne4", "Bxc3", "Ne4", "Bxc4", "Bxc4", "Nxc4", "e6", "Ngxe5", "Nxe7+", "Nxd6", "exd6", "Nf5", "dxe7", "Nd5", "c4", "Ne3", "Rd3", "Nxc4", "Re7", "Rd8", "Rxf7", "Rd8", "Rxf7", "Rxd7", "Re8+", "Rd8", "Rxd8+", "Rxe8"]
+
+[White "Shaidullina, Sandugach"]
+[Black "Socko, Monika"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Bb4", "Qc2", "O-O", "e4", "Bxc3+", "Qxc3", "d5", "Bg5", "Nbd7", "e4", "h6", "Bd3", "Bb7", "Nf3", "h6", "O-O", "h6", "Qc2", "h6", "exd4", "Ne5", "Qxd6", "Qc7", "Bb1", "Rc7", "Qxd3", "Rh5", "Bg3", "Qxf6", "Nf4", "Rg5", "Rfd1", "Rg6", "f5", "f5", "f5", "Rd8", "f5", "bxc5", "e5", "Bc8", "exd5", "dxe4", "exd5", "dxe4", "exd5", "Rdg8", "exd5", "Rxd5", "dxe6", "Rf5", "Ng3", "Rxd6", "Rxd6", "Rxd1+", "Rxd1", "Rg5", "Kh1", "Qf8", "Rd8", "Rxh5", "Rxd5", "exd5", "Nxf6", "Qd6", "Qxf6+", "Qxf6", "Nxf6", "d4", "Ne4", "Kg7", "bxa6", "axb5", "axb5", "Kg7", "Nd5", "Kf8", "Nd6", "Bd7", "c8=Q", "Bxc8", "Nxc8", "d3", "Nxb6", "Ke4", "Nxb6", "d3", "Nd5", "Kc4", "b6", "Kxd5"]
+
+[White "Stepovaia Dianchenko, Tatiana"]
+[Black "Purtseladze, Maka"]
+["e4", "c5", "d4", "d5", "exd5", "dxe4", "Nxe4", "Bf5", "Ng3", "Bg6", "Nf3", "h6", "h5", "Nd7", "h5", "Bh7", "Bd3", "Bxd3", "Qxd3", "e6", "Bf4", "Ngf6", "O-O-O", "Nxe4", "O-O-O", "Nxe4", "Qxe4", "Nf6", "Qe2", "Qd5", "Kb1", "Qxh5", "Qxe4", "Nxe4", "Be3", "O-O-O", "c5", "Nxd2", "Rxd2", "bxc4", "Rc2", "O-O", "Rxc4", "Rab8", "Kc2", "Rb4", "Kc2", "f6", "Rg3", "Rab8", "b3", "a5", "Rxb4", "Rxb4", "Kc2", "a5", "Kc3", "Kd5", "Kc3", "Ke4", "Rf3", "a5", "g5", "a4", "bxa4", "axb3", "axb3", "e5", "fxe5", "fxe5", "dxe5", "Bxe5", "g5", "hxg5", "Bxg5", "Rg4", "Be3", "Rh4", "h6", "Ke4", "Rd1+", "Rxh5", "Bc5", "Rxh5", "b5", "cxb5", "Rxb5", "g5", "Rb4+", "Kf5", "Rb5", "g5", "Bf2", "Re4+", "Kf3", "g5", "Bg3", "g5", "Rd5", "Rc4", "Rb6+", "Bxb2", "Rxb2", "g5", "Rb5+", "Kf6", "Ke3", "g5", "Kg4", "Ra4+", "Rb6+", "Kf7"]
+
+[White "Sudakova, Irina"]
+[Black "Gromova, Iulia"]
+["e4", "c5", "d4", "d5", "exd5", "dxe4", "Nxe4", "Bf5", "Ng3", "Bg6", "Nf3", "h6", "h5", "Nd7", "h5", "Bh7", "Bd3", "Bxd3", "Qxd3", "e6", "Bd2", "Ngf6", "Bf4", "Qa5+", "Bd2", "Qc7", "O-O-O", "Qa5+", "Bd2", "Qc7", "Bf4"]
+
+[White "Szczepkowska Horowska, Karina"]
+[Black "Danielian, Elina"]
+["e4", "c5", "d4", "d5", "Nc3", "Nf6", "exd5", "exd5", "Ngf3", "Nc6", "Bxd7+", "Be7", "dxc5", "Bxb5", "Ngf3", "O-O", "Be3", "a6", "O-O-O", "a6", "Bxd7", "Nbxd7", "Nf3", "Rc8", "Nxc5", "Ba7", "Kb1", "Ba7", "Nxd4", "Ne5", "Rhd1", "Ne5", "g5", "Nc4", "g5", "Nc4", "h4", "Nc4", "f3", "Nc4", "Rxd5", "Nxe3", "Rxd5", "bxc3", "Bxc3", "Nxc3+", "Bxc3", "Qe5", "Qf5", "Qxg4", "Nf5", "Re4", "Qxg6", "Ne5", "Rg1", "Qf6", "Qd2", "Nxc1", "Rxa6", "Ne2", "Nf5", "Nxf2", "Bxe1", "Nxe1", "Bxe1", "Nc2+", "a3", "Nc2+", "a3"]
+
+[White "Titova Boric, Elena"]
+[Black "Zatonskih, Anna"]
+["e4", "c5", "d4", "d5", "Nd2", "dxe4", "Ngf3", "Bd6", "g3", "Nf6", "Bg2", "O-O", "O-O", "Bg4", "Re1", "Nbd7", "Re1", "Nf8", "Nf1", "a4", "c3", "Nf8", "Qc2", "Ba6", "Nf5", "Nc5", "Nf5", "dxe4", "Rad1", "d4", "Nf5", "d4", "Nf5", "b4", "Qxa4", "Bc6", "Qa2", "dxe4", "c4", "Rb8", "b3", "a4", "Ra1", "a4", "Nf5", "a4", "Rea1", "Rb7", "Rea1", "Qb6", "Nh2", "exf4", "f5", "Be7", "Nf3", "Be7", "Nf3", "Nc6", "g4", "Nb4", "Ng3", "f6", "Ng3", "Nb4", "Bxb4", "Nb7", "Nh5", "Nb7", "h4", "Qe8", "hxg5", "Bf8", "hxg5", "hxg5", "Kg1", "cxb4", "R3a2", "a4", "Kg3", "Nb7", "Kf2", "a4", "Kf2", "Nc5", "Qh2"]
+
+[White "Tsereteli, Tamari"]
+[Black "Maisuradze, Nino"]
+["e4", "c5", "d4", "Nf6", "Nc3", "Bg7", "Bg2", "Nf6", "Ne2", "cxd4", "O-O", "cxd4", "c3", "a6", "c3", "Bb7", "Nbc3", "Bb7", "Be3", "Ne7", "Qd2", "O-O", "Bh6", "cxd4", "Bxg7", "Kxg7", "d5", "Bb7", "d5", "Nxe5", "Nd5", "f6", "Nd5", "Qd8", "f5", "Nd4", "f5", "Bxd7", "fxe5", "Qxf6", "Rxd2", "Rxf6", "Rfd1", "Bxf1", "Nxb8", "Bxe2", "Kxf1", "Rd8", "gxf4", "Re8", "Rc2", "Kh6", "e5", "Nxc4", "b3", "Ne3+", "Nd5", "Nxb3", "Nf6", "Rh8", "e5", "Nd4", "Kf2", "b5", "axb5", "axb5", "Ke3", "Ne6", "Kf3", "c4", "Rd6", "Rc8", "Nf6", "Nd4", "Nf6", "b3", "Rb7", "b2", "Nf7+", "Kg7", "Nxh8+", "Kxh8", "Rc7", "b2", "Rb7", "b2", "Rxh7", "Ke8", "Rb8+", "Kd8", "Rxb3", "c4", "Rc3", "Nd5+", "Ke5", "Ne7", "Kd6", "Nc4+"]
+
+[White "Umudova, Nargiz"]
+[Black "Burtasova, Anna"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "Ba4", "Nf6", "O-O", "Nf6", "d4", "Bg7", "d4", "Ne7", "d4", "O-O", "d5", "Nxe5", "Bg5", "b5", "Bb3", "Qe8", "Bb3", "Be6", "b3", "c5", "Nf1", "Be6", "Be3", "Rd8", "b3", "c4", "axb5", "axb5", "Ba4", "Qb6", "Qxd1", "Qb6", "Bc2", "Nac6", "Qe2", "Rd8", "Nd2", "Nd6", "Nd5", "f5", "Bh6", "Nc6", "Bh6", "f5", "b4", "Qxb2", "Bh4", "g5", "b4", "f5", "Nd5", "f5", "Bf2", "f5", "Nd5", "Bc8", "Qa1", "Rb5", "Bxb3", "cxb3", "Rxa6", "Bb5", "exf5", "Rb7", "Nxb3", "gxf5", "Nxb3", "f4", "f4", "Qxa5", "Nc5", "Qc6", "Nxd7", "Nxb7", "Rxb7", "Qxb7", "Nd5", "Nxf5", "Qc5", "e3", "Be1", "exf2+", "Kxf2", "Qxb2", "Nxg7", "Qc1+", "Kxf2", "Qd2+", "Kf1", "Qc1+", "Ke2", "Qd2+", "Kf1"]
+
+
+[White "Vasilevich, Tatjana"]
+[Black "Maksimovic, Suzana"]
+["e4", "Nf6", "c4", "e6", "Nc3", "d5", "Bd2", "Qe7", "Bg2", "O-O", "e3", "Ne4", "O-O", "Bxd2", "Nbxd2", "d5", "Nc3", "e5", "e4", "e5", "d5", "Nd8", "Nh4", "Na6", "Nd3", "b6", "f4", "f6", "f5", "f6", "Qxd3", "Nc5", "Qe3", "f6", "g4", "Bd7", "g4", "Rfb8", "Raf1", "c6", "g4", "b5", "g4", "b5", "g5", "Bh5", "cxd5", "Bxd5", "Nxd5", "Qf7", "Rg2", "b5", "Rg2", "b5", "hxg5", "b5", "f6", "gxf5", "Rh2", "Qxh7", "Nf6", "f4", "exf5", "Rh8", "Bh5", "e4", "Qg4", "Qxf5", "Qxf5", "Rxf5", "Bg4", "Rf4", "Nd5", "Ne4", "Nd5", "Rfh4", "Bg4", "Rh1+", "Kf2", "Nd3+", "Ne3", "Nd3+", "Kxg2", "Ra1", "Ne8+", "Rxa2+", "Kg3", "Nxb3", "Ne8+", "Kf7", "Nf6+", "Rxb3+", "Nf6+", "Rxb3", "Nf6+", "Kg7", "Nxe4", "Nxe4", "Kg5", "Nxb3", "Bxe4", "b6", "Kd4", "b6", "Ke4", "Kxg6", "Bxb7", "Rxf3", "Bxb7", "Kf6", "Bxb7", "dxc5", "Bxb7", "Ke5", "Ba6", "Kd4", "Bc4"]
+
+[White "Benderac, Ana"]
+[Black "Gavasheli, Ana"]
+["e4", "Nf6", "c4", "Nf6", "Bf4", "e6", "c3", "Nc6", "Bd3", "Nc6", "Bd3", "Bd6", "O-O", "O-O", "Re1", "Bxc5", "b4", "dxe4", "exd5", "dxe4", "h3", "dxe4", "h3", "Nge5", "Nxe5", "Nxe5", "Bc2", "exd5", "Nf3", "Nxd3", "Qxf3", "Be6", "Be3", "Rfe8", "Bd4", "Rad8", "Bh6", "Rad8", "Bd4", "Bxd4", "Bxg7", "Kxg7", "Rxd5", "Rad8", "b3", "Rad8", "Re1", "Qxb2", "Bb3", "a4", "Rd4", "a4", "Re5", "a4", "Bxd5", "Rxb2", "Rexd5", "Rxb2", "Qe5+", "Rb1+", "Qxe6", "Qxa2", "Rf4", "Qd6", "Rxf6", "Rxe3", "Rxe3", "Kxf7", "Rxe3", "Rc8", "Kf1", "b5", "Rb4", "Rd5", "Kh2", "Rd2", "Rxb5", "Rxa2", "Rxb5", "Rc2", "Ra5", "Ra1", "Kg3", "Ra1", "c4", "Kc6", "c5", "Rxg2", "Rxa3", "Kd7", "Rxa3", "Rc2", "Ra5", "Rc2", "Rg7", "Rc2", "Rg5", "Kc5", "Rxg6", "Rxc4+", "Kg5", "Rc5+", "Kh4", "Rf5", "Rg5", "Rc4+", "Rxh5", "Kf6", "Kg4", "Rc4+", "Rf5+", "Rc4+", "Rxh4", "Rc4+", "f4", "Rc4", "Rh5", "Kf5", "Rg4+", "Kf6", "h4", "Ra3+", "Kg4", "Kf5", "Kg4", "Kf5", "Rg4", "Rh6", "Kg3", "Ra3+", "Kh4", "Ra4", "Kh5", "Ra3+", "Kh4", "Ra2+", "Kg3"]
+
+[White "Blazkova, Petra"]
+[Black "Nemcova, Katerina"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "exd4", "Nxd4", "Bc5", "Be3", "Qf6", "c3", "Nge7", "Bc4", "O-O", "Be2", "d6", "O-O", "N5g6", "Bxg4", "Bxg4", "g3", "Qxg4", "Qxg4", "Bxg4", "h3", "O-O-O", "cxd4", "d5", "Nc3", "O-O-O", "h3", "Bh5", "g4", "Bf7", "O-O-O", "c6", "a3", "fxg5", "gxf6", "gxf6", "Bh4", "Ke7", "Bxf6", "Bh5", "Bxf6", "dxe4", "e5", "Bxd1", "Rxd1", "Ne7", "exf6", "Rf8", "Nxd5", "Kd6", "Nf4", "Rxf6", "Ne4+", "Nd3+", "Rg7", "Nd3+", "Kd2", "Nf4", "Rg7", "Nxh3", "Ne4", "Kd6", "Ne4+", "Nxf6", "Rg5", "Nxf6", "Re4+", "a6", "Rxf4", "Nxd5+", "Kf3", "c6", "Rc5", "Rxf6", "Nc8", "Rxf6", "Re4+", "Rxf6+", "Ke2", "Rg6+", "Na7", "Ne3", "a5", "Rf7", "Rxh7", "Rxa7", "Rxb7", "b5", "Rxb7", "Ke6", "Rc7", "Kd6", "Kf4", "Nc5", "h4", "Nxb3", "h5", "Ne6+", "Kg4"]
+
+[White "Burtasova, Anna"]
+[Black "Karlovich, Anastazia"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "Ba4", "dxc6", "O-O", "Bg4", "d4", "exd4", "Nxd4", "Qxd4", "Nxd4", "Bc5", "Nc3", "O-O-O", "Be3", "c5", "Nb3"]
+
+[White "Charkhalashvili, Inga"]
+[Black "Rudolf, Anna"]
+["e4", "Nf6", "c4", "d5", "Nc3", "d5", "Nc3", "Be7", "e4", "Bb4", "Bxc4", "b5", "Bd3", "Bb7", "O-O", "Bb7", "O-O", "c5", "O-O", "Nd5", "exf6", "axb5", "exf6", "Nxf6", "Bd2", "Nxf6", "Nxd4", "Ne5", "Bxb5+", "Kf8", "Be3", "Rg8", "f3", "Rxa2", "Rd1", "Bc5", "Rd1", "Bc5", "Rd1", "Bc5", "Rd1", "Bb6", "Bh6+", "Bb6", "Bh6+", "Nxh4", "Rxg6", "Ke7", "Qxe5", "Nxe5", "Rd1", "Bb6", "Ke2", "Nc4", "Bxc4", "Rxc4", "b3", "Rc3", "Ke2", "Ba6+", "Kg1", "e5", "Kh2", "e5", "b4", "Be5", "Rd1", "Rc2", "Na3", "Bxf4", "Rf3", "Be5", "Na3", "Ra2", "Nc4", "Bxg3", "Bxe5", "Bxf3", "gxf3", "fxe5", "Nc4", "Rd1+", "Re1", "Rxa4", "Nxe5", "Rxh4", "a5", "Rxh4", "fxe4", "Rxe4", "Rf1+", "Ke7", "Rxe3", "e2", "Rxe3", "e2", "a5"]
+
+[White "Ciuksyte, Dagne"]
+[Black "Shaidullina, Sandugach"]
+["e4", "e5", "Bb2", "Nc6", "e3", "Nf6", "e3", "d5", "cxd5", "Nxd5", "Nf3", "Bd6", "Qc2", "O-O", "Nd2", "O-O", "Ngf3", "f5", "Ngf3", "f5", "O-O", "f5", "Qc2", "f4", "e4", "Nf6", "Nc4", "a6", "Nc4", "g5", "h3", "h5", "hxg4", "Bxg4", "Nc4", "Kh8", "Nc4", "Rh6", "dxe5", "Nxe5", "Nxe5", "Bxe5", "Nxe5", "Qxe5", "Bxg4", "Rxg4", "Nf3", "Rxd1", "Rxd8+", "Qxd8", "Rd1", "Qe7", "e5", "Qg7", "Qf5", "Nd5", "Qf5", "Rg7", "Re6", "Rf7", "Rxg6+", "Qg7", "Rd6", "Qxe5", "e6", "Nf8", "Rd6", "Rg4", "Qe3", "h5", "Rxg4+", "Nxg4", "Qb8+", "Kg7", "Qxb7+", "Kf6", "Qxe7+", "Kxe7", "Nf5+", "Kf6", "Nd4+", "Nxe3", "f4", "Nd3", "Ke2", "c5", "bxc5+", "Ng6", "bxc5+", "Kxc5", "Kd3", "Nd4", "Ke4", "a4", "f5", "Ke6", "g4", "Kf6", "f5+", "Kf6", "Kd5", "Kg5", "Kd5", "Nb4+", "Kc5", "Nd3+", "Kb5", "Kf6", "Nxa5", "Kf6", "Kxa5", "Kg5", "Kb6", "Kg5", "a5", "Nd6", "a6", "Nc8+", "a7", "Kxe3", "Kb7", "Nxa7", "Kxa7", "Kxe3", "Kb6", "h5", "gxh5", "Kxh5", "Kc6", "Kg5", "Kd5", "Kf6", "Ke4", "Kf7", "Ke5", "Ke7", "Nd5+", "Kf7", "Nf5", "Kf8", "Kg6", "Ke8", "Nf5", "Kf8", "Nf5", "Kg7"]
+
+[White "Danielian, Elina"]
+[Black "Sandu, Mihaela"]
+["e4", "Nf6", "c4", "Nf6", "Bg5", "e6", "Bxf6", "e6", "Nf3", "Be7", "Ne5", "Nc6", "Bb5", "Bd7", "Bxc6", "Nxe5", "Bxc6", "Bxc5", "Nxd7", "Qxf6", "Nxd7", "Kxd7", "Nxd5", "fxe4", "Nxe4", "Qxf4", "c3", "Qxf4", "Bxc6+", "Qxe4+", "Rf1", "a6", "Kd1", "a6", "Ba4", "bxc6", "Nf3", "Qc7", "Kc2", "Rab8", "Qg3+", "Kb7", "Na5+", "Kb6", "b4", "Qf5+", "Kb3", "c5", "Rhf1", "c4+", "Qf2", "Kxa5", "a4+", "Kxa5"]
+
+[White "Gromova, Iulia"]
+[Black "Mamedjarova, Zeinab"]
+["e4", "Nf6", "c4", "Nf6", "Nc3", "Bg7", "Nc3", "Nf6", "Bg2", "O-O", "O-O", "d6", "Nc3", "c6", "Bb2", "Qc7", "Nbd2", "d5", "cxd5", "e6", "f3", "fxe4", "e3", "Nd7", "e3", "Nd7", "bxa5", "axb4", "axb4", "Na6", "e3", "Na6", "Bc3", "Nc7", "Rb1", "Bf8", "b5", "exf3", "Bb2", "Rxa1", "Rxa1", "b5", "Ra7", "gxf4", "gxf4", "Qh4", "c5", "Rg7", "Kh1", "Qh4", "Ng3", "h4", "h3", "Be7", "fxe5", "Bxh3", "Ra2", "Bxg2", "Kh2", "Bxg2", "Rxg2", "Rxg2+", "Kxg2", "Qd3", "Qxd3", "Nd5", "Bf2", "c3", "Kh3", "c3", "Qg2+", "Kf7", "Qxe4", "Qxe1", "Qxe4", "Bf8", "Qxe4", "Qg5+", "Qxh4", "Kxf6", "Bxh4+", "Kg6", "Qg4+", "Kf7", "Qd7+", "Qe6", "Qh5+", "c3", "Nxe4", "c2", "Nd6+", "Kg8", "Ne6", "Qf7", "e4", "Qxg7", "Qc8+", "Kh7", "Qf5+", "Qg6", "Qd7+", "Qg7", "Qd8+", "Kf7", "Qxb7+", "Ke6", "Kf2", "c2", "Qf4+", "Nf5", "Qc4+", "Nd5", "Kf2", "Qf5+", "Ke2", "Qa1+", "Kd2", "c1=Q", "Qg4+", "Kf7", "Qe6+"]
+
+[White "Hunt, Harriet"]
+[Black "Muzychuk, Anna"]
+["e4", "c5", "exd5", "Qxd5", "d4", "Nxd5", "d4", "Bg4", "Be2", "e6", "O-O", "e6", "O-O", "Bd6", "h3", "Bh5", "Nbd2", "O-O", "Nbd2", "Nf4", "Nf1", "b5", "Bxf3", "b5", "Ne5", "b6", "Ne5", "Bf6", "Ne5", "Bf6", "Ne5", "Na5", "Nxd5", "Na5", "Ng4", "Nf6", "Bxh6", "gxh6", "Ne5", "Qxd5", "Ne3", "Qxa2", "Bf4", "Ne5", "dxc6", "Qxc6", "Rd7", "Qxc6", "Nxf5", "Qxc6", "Nd4", "Qd5", "Qc2", "Kf6", "b3", "Rxe6", "Qxf5+", "Rf6", "Nxe6", "Ke8", "Qg8+", "Bf8", "Qg7+", "Kf6", "Qxd8+", "Kxf5", "Qh7+", "Kf4", "Rd4+", "Ke5"]
+
+[White "Jackova, Jana"]
+[Black "Matseyko, Ekaterina"]
+["e4", "c5", "Nf3", "Nc6", "d4", "g6", "Bxc6", "bxc6", "O-O", "Bg7", "O-O", "Nf6", "O-O", "O-O", "Be3", "b5", "Bh2", "b6", "Qd2", "b5", "Bh6", "Nf4", "Bxg7", "Kxg7", "g4", "Rad8", "g4", "f6", "O-O", "Nf4", "Nxf4", "exf4", "O-O-O", "b5", "gxf6+", "Kg8", "gxf6", "f5", "e5", "fxe4", "h5", "cxd3", "Qxg7+", "cxd3", "Rxh5", "cxd3", "cxd3", "fxe4", "dxe4", "Bxa2", "g6", "Bg6", "Nxf7", "hxg6", "Rhxg6", "hxg6", "Rxg6", "Rxe5", "Rxg7+", "Rxg7", "Qc4+", "Kh7", "Qb4+", "Re8"]
+
+[White "Juergens, Vera"]
+[Black "Umudova, Nargiz"]
+["e4", "Nf6", "c4", "e6", "Bxf6", "exf6", "e3", "Bg7", "Nf3", "c6", "Bxc4", "Bg7", "Nc3", "O-O", "Nf3", "O-O", "Nf3", "Nd7", "Nge2", "Be6", "Bd3", "Nd7", "Nge2", "Nd7", "O-O", "Nf6", "Nf4", "Bxf4", "Bxc4", "Bxd3", "Qxd3", "Rfe8", "Rac1", "Rfe8", "Rac1", "Nc4", "Rac1", "Nc4", "Ne2", "Nd5", "Nef4", "Bxc5", "Nf4", "Bxf4", "Nxe4", "a4", "Qxf4", "a4", "Nd2", "Nxd2", "Qf3", "g4", "Qf4", "Ng5", "Nc4", "Nh3", "Nc4", "gxh3", "Qh2", "f4", "Nc4", "Qd5+", "Kh2", "h5", "Nxf3", "Qxf3", "Qxh3", "Qxh1+", "Qf1", "Re4", "Qf3", "Re4", "Qf3", "Qe4", "Qh5", "Rxe4", "Kxh3", "f5", "Kg4", "f5", "Rh1", "Rxh1", "Kxh1", "f5", "Kg2", "Ke6", "f3", "f5", "fxe4+", "Rb3", "fxe4+", "Rb3", "Ke2", "Rb3", "Ke2", "Rb3", "Kf2", "Kd5", "Ke2", "Ke6", "Rc2", "Kh5", "Kh3", "Kg4", "Kg2", "h5", "Re2", "h5", "d5", "h5", "Rc5", "Rd2+", "Rc2", "h5", "Rc5", "Rd2+", "Ke1", "Rxb2", "Rxf5", "Kxg3", "Re5", "Kf3", "Rxh6", "Rxa3", "Rxh6", "Ra2+", "Kd1", "Kf3", "Rg6+", "Kf3", "Rh3+", "Ke2", "Kb2", "Rf3", "Ka3", "b5", "Kxa4", "b5", "Re1", "b5", "Rb1", "b5", "d5", "Rxe3", "Kc5", "Rc3+", "Kd6", "e3", "f5", "e2", "Kxd5"]
+
+[White "Khukhashvili, Sopiko"]
+[Black "Gaponenko, Inna"]
+["e4", "c5", "Nf3", "Nc6", "Nxe5", "Nc6", "d3", "Bxc3", "d3", "Re8", "Nd3", "Bxc3", "dxc3", "Nxe4", "O-O", "Nc6", "O-O", "Bf5", "Bf3", "Ne5", "Bd3", "Nf6", "Bd3", "Bf5", "c3", "Ne5", "Re2", "Qd7"]
+
+[White "Limontaite, Simona"]
+[Black "Sudakova, Irina"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "Nc3", "Nf6", "Nc3", "Bd6", "Bd3", "Bd6", "Bxc4", "b5", "Bd3", "Bb7", "O-O", "c5", "e5", "c4", "dxe6", "fxe6", "O-O", "Bb7", "O-O", "Be7", "Re1", "Be7", "e5", "exd5", "Nxf6+", "Nxf6", "e5", "Rg6", "Rad1", "Rf8", "Bg3", "Rf8", "Nh4", "Nf6", "Nh4", "Rf6", "Nf5", "Nc5", "Nf5", "Bc8", "Nf5", "Rg6", "exf5", "Nd4", "Qg4", "Nxc2", "Rac1", "Nxe1", "Qh6"]
+
+[White "Maksimovic, Suzana"]
+[Black "Lujan, Maria Carolina"]
+["e4", "Nf6", "Nc3", "g6", "cxd5", "Nxd5", "g3", "Nxc3", "g3", "Bg7", "d4", "Bg7", "d4", "O-O", "d4", "Nxh5", "Rxh5", "Nc6", "Be3", "Bxf3", "Be3", "Nc6", "Qd2", "e6", "Ne3", "Bxf6", "Bxf6", "Bxf3", "Rxg4", "Bxb2", "Nxe5", "Bxe5", "Qd2", "Qd4", "Bb3", "a5", "O-O-O", "Bg7", "O-O-O", "a4", "Bc2", "c5", "Rh4", "fxe4", "g3", "exf4", "Bf3", "exf4", "Kf1", "Rxe5", "exf5", "Qxe5", "Bxe4", "Qxe5", "b3", "axb3", "axb3", "b4", "Rd1", "Qe3", "Rd1", "Ref7", "Ke2", "c4", "Ke2", "Rbf7", "Qc4+", "Kg7", "Ke2", "Qxd5", "Qxe5+", "Rxe5", "Ke2", "h5", "Kd3", "Ra3", "Kc4", "Rb2", "Kc4", "Rxd2+", "Kxd2", "Bc3+", "Kd3", "Ra7", "Kc4", "hxg4", "Bxg4", "Ke5", "Bf3", "Kf4", "Be6", "Rf2", "Be6", "Ke5", "Rg4", "g5", "Rh5", "Rg7", "Kc4", "g4", "Rh4", "Rg7", "Rh1", "Kg3", "Rh1", "g3", "Bf5", "Bf6", "Rf8+", "Kxe4", "Bd5", "Kxe4", "Bd5", "g2+", "Kg1"]
+
+[White "Mamedjarova, Turkan"]
+[Black "Daulyte, Deimante"]
+["e4", "Nf6", "c4", "g6", "c4", "Bg7", "Nc3", "O-O", "e4", "d6", "Be2", "e5", "e4", "Bxe6", "Be2", "Nc6", "O-O", "Bd7", "O-O", "Nc5", "b4", "Rb8", "b3", "Nxb3", "axb3", "Bc6", "Bxc6", "bxc6", "Qa4", "Qd7", "Bd2", "Rfb8", "Bd2", "Ne4", "Qxd7", "Ne4", "Nf4", "Qf5", "Nf4", "Nf6", "e4", "Be5", "e4", "Ne6", "e4", "Ne6", "Be3", "Nd4", "Nxd4", "f5", "Qxe2", "Bd4+", "Bf4", "fxe4", "Kh1", "Bxe3+", "Qxe3", "fxe4", "fxe4", "Qxe4", "fxe4", "Rxe4", "Rxd6", "Rxc4", "Rxc6", "Rc2", "Rc7", "c4", "Ra7", "Rff2", "Rd8+", "Kg7", "Rxf7+", "Kxf7", "Rd7+", "Rxb2", "Rxa4", "Ke6", "Kh2", "h5", "a4", "c4", "a5", "c4", "a6", "c4", "Ra8", "c3", "a7", "Kb5", "a7", "Kxa6", "Rc8+", "Kd4", "Rc6", "Ke3", "Re8+", "Kd2", "Rd8+", "Kc3", "Rd6", "c3", "a7", "Kb1", "Kf1", "c2", "Rxc3+", "Kd2", "Rc6", "Rg7", "Rg6", "Rg7", "Kh2", "Kd3", "Kf3", "Kd4", "h4", "h4+", "Ra4+", "Kf5", "Rf7+"]
+
+[White "Melia, Salome"]
+[Black "Berzina, Ilze"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "Ba4", "Nf6", "O-O", "b5", "Bb3", "Be7", "c3", "O-O", "c3", "d6", "c3", "Na5", "Bc2", "c5", "Nbd2", "Nc6", "Nf1", "Bg4", "Ng3", "Bf8", "Ng3", "Bf8", "Be3", "Be6", "Ng4", "d4", "Nf5", "Bxf5", "Qxf5", "Rc8", "Ng4", "Nxg4", "Qxg4", "Kh7", "Bd2", "Ne7", "Bd2", "Ne7", "Bg4", "Rc7", "dxc4", "cxd3", "cxd4", "bxc4", "cxd4", "cxb3", "axb3", "dxc3", "c4", "dxc3", "cxd4", "Rxd4", "Qc6", "e4", "d5", "Rd6", "Bf3", "Rd6", "Bc3", "Red8", "Bxe4", "Rxe4", "Rd4", "Qxf5", "Rg4", "f6", "Rxg7+", "Kf8", "Rxa6", "Kxg8", "Qg4+", "Kf8", "Qg7+", "Qxd5", "Kf1", "Rxd5", "Ke2", "Rxd5", "Kf3", "Rxe4+", "Bxe4", "Re8", "Bb4+", "Kg8"]
+
+[White "Meshcheriakova, Evgenia"]
+[Black "Calzetta Ruiz, Monica"]
+["e4", "c5", "Nf3", "Nc6", "d4", "e6", "d4", "Bg7", "Nxd4", "cxd4", "Ne2", "Bg7", "Nxd4", "Qa5+", "Bd2"]
+
+[White "Rogule, Laura"]
+[Black "Stepovaia Dianchenko, Tatiana"]
+["e4", "Nf6", "Nc3", "Nf6", "g3", "f5", "Bg2", "Be6", "d3", "Nf6", "d3", "Nf6", "b4", "Bg7", "O-O", "Bg7", "O-O", "Nge7", "Be3", "O-O", "Nh4", "O-O", "cxd5", "Nd4", "Qxd7+", "O-O", "gxf4", "g5", "Bxf3", "g5", "Bg4", "Qe8", "Be6+", "Qb4", "Be6+", "Kh7", "Qg4", "exf4", "f3", "g5", "Qh3", "Bh6", "Kh1", "f3", "Rg1", "cxd5", "Qh3", "g4", "Rg1", "g4", "exd5", "g4", "Qh4", "f3", "Bc3", "Rxe6", "dxe6", "Qxe6", "Rc7", "Qd5+", "Qe4+", "Ng6", "Rge1", "Rf8", "Bc3", "Rf5", "Qe4", "Rxd5", "Rxd7+", "Bg7", "Re8+", "Nf8", "Rxh6", "Rxd6", "Rxd6", "Bg5", "Rd5", "Kf7", "Rd5", "Ne6", "Rd6+", "Ne6", "Rxb7", "Nd4", "Rxa7", "Nxd3", "Ra6+", "Nxb2", "Ra6+", "Bxf2+", "Rd6+", "Kf5", "a6", "Nf3+", "Rd5", "Ke4"]
+
+[White "Shumiakina, Tatiana"]
+[Black "Sarakauskiene, Zivile"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "e3", "e6", "Bxc4", "Be7", "O-O", "cxd4", "a4", "b5", "Nc3", "O-O", "e4", "b5", "Rd1", "Qc7", "e4", "cxd4", "Nxd4", "b5", "Be3", "Qxe5", "Bf4", "Bb7", "Bc2", "Bb7", "Bh6", "Bb7", "Bb1", "Nd7", "Be4", "Bxe4", "Bxb7", "Qa5", "Rxc7", "Qb6", "Rxc7", "Nxc7", "e6", "Nxe6", "Nxe6", "fxe6", "Qxe6+", "Rf7", "Qxd5", "Rf8", "g3", "Nf6", "Bd4", "Nc4", "Bd4", "b4", "Bd4", "Nc4", "Rxa6", "Nxe3", "fxe3", "Bd2", "Qxb5", "Ref8", "Qxe6", "Kg7", "e4", "Kg7", "Qe5+", "Bc3", "Qe5+", "Kh7", "e4", "Bc3", "Qc7+", "Rf5", "Qd7+", "Re5", "Qd7+", "Rf7", "e4", "Bc3", "Qc7+", "bxa3", "axb4", "Bc3", "axb4", "Rd6", "Qe5+", "Kh6", "Qc5", "Rd7", "Qc4+", "Re6", "Qc4", "Ke7", "Kf4", "Kd7", "Qd3+", "Bc7", "g3", "Rb6", "Kd5", "Be7", "Qf5", "g4"]
+
+[White "Tereladze, Sopiko"]
+[Black "Kostiukova, Liubov"]
+["e4", "Nf6", "c4", "g6", "c4", "Bg7", "e3", "O-O", "e3", "d6", "e3", "Bb7", "Be2", "d6", "O-O", "Nbd7", "Nbd2", "a5", "Nbd2", "a6", "Nc4", "e5", "dxe5", "exd4", "Nb5", "a6", "axb6", "axb6", "Rxa8", "Rxa8", "Nc7", "e4", "Rd1", "exd4", "Nxg5", "Qxg5", "Nxd6", "Nf6", "Nc7", "d5", "Na7", "d5", "Nc7", "Bxd5", "Qxb5", "exd4", "cxd4", "exd4", "dxe5", "e4", "Be2", "d5", "Bc4", "Rc8", "Ra6", "Nd5", "Qa7", "Nd5", "Qb5", "Qc6", "Qb3", "Bg7", "h4", "Be7", "Qxd7", "Nxd7", "hxg5", "hxg5", "Bb5", "d5", "Ra6", "Nd5", "Ra7", "Rc2", "Bg4", "f5", "Bxf3", "Nxe3", "Bc6", "Nf5", "Bxd6", "Nf5", "Bxd6", "Rd8", "Bc7", "Bxe5", "dxe5", "Rd1+", "e6", "Nxe5", "Ra6", "Nxc6", "bxc6", "Rc8", "Ke2", "Rc1", "c7", "Rc2+", "Rb7", "Kg4", "Rxb6", "Rc2+", "Rb4+", "Rc2+", "Kf2", "Rc2+", "Rb4+", "f4", "Rc5", "Rb1", "Ra2", "Rb2+", "Kg1", "Rb1+", "Ra3", "g4", "Ra5+", "f3", "Rg8+", "g3", "Rg8+", "g3", "Rxf4", "Kg3", "Rf8", "Rf2+", "Ke2", "Ra2+", "Rb3+", "Rxg2+", "Ke3", "Rf2+", "Ra3+", "Kf3", "Ke2", "Rb2+", "Rc3+", "g3", "Rg7", "g3", "Ke3", "Rb2+", "Rh6+", "Kg1", "Rg6", "g2", "Kf3", "Rb2+", "Rg6", "Rf2+", "Rg6", "Re7+", "Kd2", "Rg7", "Kd3", "Rg4", "Rf6+", "Kg3", "Kxe4", "g1=Q", "Rf5", "Qg4+", "Ke5", "Qg5+", "Rd4", "Qg5+", "Re4+", "Kd3", "Rd4+", "Qe3+", "Rd4+", "Ke3", "Rd6", "Qc5+", "Ke6", "Qe7+", "Kf5", "Qe4+", "Kg5"]
+
+[White "Titova Boric, Elena"]
+[Black "Bashkite, Viktoria"]
+["e4", "c5", "Nf3", "Nc6", "Nxe5", "d6", "Nf3", "Nxe4", "d4", "d5", "Bd3", "Bd6", "O-O", "Bb4", "Bd2", "Bxc3", "bxc3", "Bxc3", "Re1", "O-O", "Re1", "dxc4", "cxd5", "Bxd5", "c4", "O-O", "Re1", "O-O", "c3", "O-O", "a3", "Nc6", "d5", "c5", "Rad1", "c6", "Rfe1", "Bg6", "d5", "Re8", "d5", "Qb7", "d5", "Bxf3", "d5", "g6", "Bxe4", "Rxe4", "Rfe1", "Nb8", "Rfe1", "Rxe1+", "Qb1", "Rxe1+", "Rxe1", "Nc7", "Ne5", "Rd8", "Nf3", "Bxd4", "Ne5", "Nb8", "Bc3", "Bf6", "g3", "Bxe5", "Qf5", "Kxf7", "Qg6", "Nxe5", "dxe5", "c5", "Qe4", "c5", "Bc3", "Qe6", "Qe4", "Bg5", "e6", "Bg5", "Kg2", "Bd2", "h4", "Qg4", "e6", "Re8", "e7", "hxg4", "e7", "Re8", "Re3", "Kxg7", "Rxg4", "Kh7", "Bf6", "Bxe5"]
+
+[White "Tkeshelashvili, Sopio"]
+[Black "Muzychuk, Mariya"]
+["e4", "Nf6", "c4", "Nf6", "Bf4", "Nf6", "e3", "Bg7", "Nf3", "Nf6", "Nf3", "Nf6", "Bd3", "Nxe5", "fxe5", "h6", "Bd3", "Qb6", "a4", "Nf7", "O-O", "Nf7", "O-O", "h6", "a4", "Bh6", "a4", "Nh6", "Rg3", "Bxh6", "Rg3", "Kh7", "Ne2", "Rg8", "Nf4", "Bxf4", "Nh3", "Rg8", "g3", "Rg8", "b5", "axb4", "axb4", "Ra2", "c3", "Rfa8", "Bc2", "Ra3", "Kf2", "Ra2", "Qd2", "Ra1", "bxc5", "bxc5", "Qb1", "c4", "Bxb3", "c4", "Bc2", "Ra2", "Qb1", "Qa3", "Nxh5", "Bxf4", "Rb1", "Bf8", "Qb8", "Qxb6", "Rb2", "Rxb2", "Qxb2", "Qa7", "Qb8", "Bf7", "Nh3", "Be7", "Qa7+"]
+
+[White "Vajda, Szidonia"]
+[Black "Reizniece, Dana"]
+["e4", "c5", "d4", "Nf6", "Nc3", "g6", "f4", "Bg7", "Bc4", "O-O", "O-O", "c6", "h3", "Nbd7", "a5", "e5", "Be3", "e5", "Qd2", "Bb7", "f4", "e5", "d5", "a6", "dxe6", "exd5", "exd5", "Rfe8", "Bf3", "Rfe8", "Bf3", "Re7", "Rae1", "b5", "g5", "Nh5", "Bxh5", "gxh5", "f5", "b5", "axb5", "axb5", "Ne3", "c4", "Qd2", "b4", "Ne2", "c3", "Qxh5", "Bd4", "Qxh5", "Ne5", "c3", "Bxe3", "Rxd4", "Qxd4", "Rd1", "Qe4", "Qxh5", "Qf4", "Nb6", "Nf3+", "hxg4", "Rxa4", "Rxd5", "Rd2", "Bxd4", "Qxg4+", "Bxd4"]
+
+[White "Vojinovic, Jovana"]
+[Black "Batsiashvili, Nino"]
+["e4", "Nf6", "c4", "Nf6", "Bf4", "c6", "Nc3", "Be7", "Bg2", "O-O", "O-O", "b6", "Ne5", "b5", "a4", "b5", "Qxc4", "b5", "Nc3", "Nbd7", "Qd1", "Nc6", "Nc3", "cxd4", "dxc5", "Bxc5", "Qc2", "Nbd7", "e4", "Bc6", "Qb1", "Bc6", "b3", "Qb6", "a5", "Qa7", "e5", "Bb5", "Nc2", "Qb5", "b4", "Ba7", "Na3", "Nd3", "Bxe5", "Qxe5", "Nc4", "Qc3", "N2e3", "Qg6", "Ne5", "Bxe4", "Bxe4", "Nxe4", "Ng2", "Nd2", "Qd1"]
+
+[White "Worek, Joanna"]
+[Black "Tsereteli, Tamari"]
+["e4", "d5", "c4", "g6", "Bg2", "Bb7", "O-O", "e6", "d3", "Be7", "Nbd2", "Be7", "Nbd2", "O-O", "e4", "d5", "e4", "Nbd7", "Nf1", "Qc7", "Nf1", "a6", "e5", "dxe5", "exd6", "Bxd6", "Ne4", "Be7", "dxc5", "Bxg5", "Nexg5", "h6", "Ne4", "cxd4", "dxc5", "Nxc5", "Nxc5", "Qxc5", "Rad1", "Rfd8", "Rad1"]
+
+[White "Zatonskih, Anna"]
+[Black "Purtseladze, Maka"]
+["e4", "c5", "d4", "d5", "Nf3", "dxe4", "h3", "Bxf3", "Qxf3", "e6", "d4", "Nf6", "Bg5", "Be7", "O-O-O", "Bb4", "Bg2", "O-O", "O-O", "Ne5", "Nxe4", "Nxe4", "Qxe4", "Nf6", "Bc3", "Nf6", "a3", "Nf6", "c3", "Nb6", "c3", "Nd5", "Qxd5", "Qxa2", "Qxc4", "Nxc4", "b3", "a4", "b3", "b5", "Bxc4", "axb3", "Rbc1", "axb3", "Bg2", "axb3", "axb3", "c5", "cxb4", "bxc3", "Rxc3", "Nb5", "Rxc6", "Nb5", "Rxc6", "Rxb5", "Rd1", "Bxd4", "Rcc7", "Rxd4", "Rcc7", "Rdd8", "Rxb8", "Rxb7", "Rxf7", "Rxb7", "Rxb7", "Rd5", "Kg2", "Kh7", "Kg2", "e5", "Kg2", "Kg6", "Kf3", "Re2+", "Rxe6+", "Kf5", "Re3", "g6", "Kf3", "Rd3", "Rb7", "Rd4", "Rb5+", "Rd3", "Rxg6", "Rd3", "Rg5", "Rd3", "Rc4", "Rh1+", "Rh2", "Rxh2+", "f5", "Rxg3+", "Kh2", "Kxf4", "Rd4", "Kxf4", "Rd4+", "Kf5", "Rd3+", "Rg3+", "Kh2", "Rg2+", "Kh1", "Rg3+", "Rd3+", "Ke4", "Rxh5", "Rxb3+", "Rb5", "Rxb3+", "Kg2", "Kg4", "Kf1", "b3", "Kg2", "Rb2+", "Kh3", "Rb3+"]
+
+[White "Batsiashvili, Nino"]
+[Black "Daulyte, Deimante"]
+["e4", "Nf6", "c4", "g6", "c4", "Bg7", "e3", "O-O", "Be2", "d6", "O-O", "Nbd7", "c3", "Nc6", "O-O", "b6", "Nbd2", "Bb7", "Nbd2", "Bb7", "Nc4", "Rc8", "Nc4", "e5", "Qb3", "e5", "c4", "N7f6", "dxc5", "dxe5", "Nxe5", "e4", "Nd4", "bxc5", "Ne2", "cxd4", "cxd4", "Re7", "Qc6", "Rd7", "Nb5", "Nb4", "Nb5", "Nfd5", "Nc4", "Rc8", "Nxb4", "Nxb4", "Rc5", "Nd3", "Rac1", "Kh7", "Bc7", "Qb7", "Bg3", "Nd3", "Be5", "g4", "d6", "Re5", "d7", "Bf6", "Bc4", "Bd8", "hxg4", "Qxg4", "d8=Q", "Rxd8", "Bxd8", "Rxd8", "Bxd8", "Rg6", "Bxd3", "exd3", "Qxd3+", "Rg6", "Qf1", "h4", "Bxh4", "Qxh4"]
+
+[White "Berzina, Ilze"]
+[Black "Socko, Monika"]
+["e4", "c5", "d4", "d5", "Nc3", "c5", "c3", "Nc6", "Nf3", "Qb6", "Bd3", "Qb6", "Be2", "b5", "Nbd2", "b5", "O-O", "Ng6", "Re1", "Be7", "Nh2", "Ba4", "Qe1", "Nb3", "f4", "Nb3", "Ndf3", "exf5", "fxe6", "fxe6", "Bg4", "Bd3", "Rf2", "Bg6", "Bg4", "Be7", "Ndf3", "Rdf8", "Ndf3", "cxb3", "Nxb3", "Nxb3", "Qxb3", "Nc4", "Bxc4", "Rhf8", "a6", "Rc8", "a6", "Rhf8", "Nd3", "Rxf1+", "Bxf1", "Rf8", "Bxd3", "h6", "Rxa5", "Qxc3", "Bb2", "Qb4", "Bc1", "Nc4", "Bc1", "a6", "Rb1", "Qxd4+", "Kh1", "Qxe5", "Bf4", "Bd6", "Kh2", "Bd6+", "g3", "Qxg3+", "Kh1", "Qxh3+", "Kg1"]
+
+[White "Calzetta Ruiz, Monica"]
+[Black "Melia, Salome"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "a6", "Be3", "e6", "Qd2", "Be7", "O-O-O", "Be7", "Bxf6", "bxc6", "Bxf6", "Be7", "Bb3", "O-O", "f4", "Rd8", "h4", "a5", "h5", "Bb7", "h5", "Bb7", "h5", "a5", "a4", "Ba6", "Bc4", "Bxc4", "Qxc4", "Rab8", "Nb5", "Qc6", "Bf4", "Ne8", "g5", "Nc7", "Nxc7", "Nxb5", "axb5", "Nd4", "bxa3", "Qa7", "Rd1", "Rxb5", "Rxa5", "Rdb8", "Reb3", "d5", "exd5", "exd5", "Qe2", "Bd6", "Rxb7", "Bxa3+", "Rxb7", "Rxb5", "axb5", "Rxe7", "axb5", "Qxd6", "Re8", "Rb8", "a4", "Qd4+", "c3", "d4", "cxd4", "dxc3+", "Kxc3", "Qb4+", "Kd4", "c3+", "Kd3", "Qxa4", "Rxf8+", "Qb4+", "Rxf8+", "Rxe8", "Qxb4", "Qc4+", "Rxe7", "Rb8", "Ra7", "Rxb5", "Rxa5", "hxg5", "Kc3", "f5", "Kc4", "Kg6", "Kc5", "f5", "b6", "g4", "Kc6", "g6", "Kc7", "g4", "fxg4+", "fxg4", "Kc7", "Rf8", "b7", "Rf7+", "b8=Q", "Rf7+", "Kb6", "Rxb7", "Kxb7", "g2", "Rh8+", "Kg4", "Kc6", "Kg3", "Kd5", "Kf2", "Ke4", "g1=Q", "Rxg1", "Kxg1", "Kf6", "g5"]
+
+[White "Gaponenko, Inna"]
+[Black "Benderac, Ana"]
+["e4", "c5", "d4", "Nf6", "Nc3", "Bg7", "Be3", "Nf6", "Nf3", "O-O", "Bd3", "c5", "e5", "Ne4", "h3", "Nh6", "Be3", "Nf5", "g4", "c6", "g4", "Be4", "Qd2", "gxf5", "Qd2", "exf6", "exf6", "Bxf6", "Qd2", "Qe7", "Qd2", "Qxe3", "Qd2", "Re8", "O-O-O", "Bxg5", "Nxg5", "Qe7"]
+
+[White "Gavasheli, Ana"]
+[Black "Tsereteli, Tamari"]
+["e4", "Nf6", "Nc3", "Nf6", "g3", "f5", "Bg2", "Bg7", "e3", "d6", "Nf3", "f5", "O-O", "O-O", "Rb1", "h6", "b4", "h6", "b4", "g5", "b4", "g5", "b4", "a6", "b5", "c6", "fxe5", "c6", "fxe5", "c6", "Nc2", "c6", "b5", "Nf7", "b5", "Ne7", "fxe5", "d5", "bxc6", "bxc6", "fxe5", "Rab8", "Nc3", "Rab8", "Nb5", "Nc6", "Bxf4"]
+
+[White "Jackova, Jana"]
+[Black "Hunt, Harriet"]
+["e4", "c5", "d4", "d5", "exd5", "dxe4", "Nxe4", "Bf5", "Ng3", "Bg6", "Nf3", "h6", "h5", "Nd7", "h5", "Bh7", "Bd3", "Bxd3", "Qxd3", "e6", "Bf4", "Ngf6", "O-O-O", "Be7", "Ne5", "O-O", "Ne5", "Nxe5", "Nxd7", "Nxd7", "Ne4", "Nf6", "Nxf6+", "Nxe4", "Rdg1", "f5", "f3", "fxe4", "fxg4", "fxe4", "Qxe4", "Qd5"]
+
+[White "Karlovich, Anastazia"]
+[Black "Molchanova, Tatjana"]
+["e4", "c5", "Nf3", "Nc6", "d4", "g6", "Bxc6", "Bg7", "c3", "d6", "c3", "O-O", "d3", "Ne8", "Bxc6", "dxc6", "d3", "Nc7", "d3", "Nd5", "Be3", "b6", "Be3", "b6", "Be3", "b6", "Bb2", "Bb7", "Qd2", "Rd7", "Nxd4", "Nxf3+", "Nxd4", "Nxf3+", "Bxd4", "cxd4", "Bd2", "Bxc4", "Qf3", "Bd5", "Bf4", "g5", "Re2"]
+
+[White "Khotenashvili, Bela"]
+[Black "Mamedjarova, Turkan"]
+["e4", "Nf6", "c4", "Nf6", "Bf4", "e6", "Bg2", "e6", "Bg2", "c6", "Bg2", "Nbd7", "O-O", "Be7", "Qb3", "Qb6", "cxd5", "O-O", "e4", "dxe4", "Ndxe4", "Nxe4", "Nxe4", "Bxe4", "Bxe4", "Nd7", "dxe5", "Bc7", "dxe5", "Bxc5", "e6", "Nxc5", "Bg2", "Ne6", "Be3", "Ne6", "Qd3", "Rad8", "Qd3", "g6", "f5", "Nd5", "f6", "Bg5", "fxg6", "gxf5", "f6", "Nxf5", "Bxf5", "Rfe8", "Bxe7", "Nxe7", "Bg2", "Nd5", "Raf1", "Qe6", "R6f3", "Rae8", "Bg2", "Rxe5", "Bf3", "Kh7", "Qd5", "b6", "Rf4", "Qe2", "e6"]
+
+[White "Kostiukova, Liubov"]
+[Black "Rogule, Laura"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "Nc3", "Be7", "Bg2", "Bb4+", "O-O", "cxd4", "Nxd4", "Bd7", "Qxc4", "Nc6", "Nxd4", "Nxd4", "Nxc6", "Nxd4", "Nxc6", "Qb4", "Qh4", "Be7", "Bf3", "Qxg5", "Bxg5", "O-O", "Rac1", "h6", "Bxe7", "Nxc3", "Bxc3", "f6", "Rd2", "O-O", "Ne4", "Rfd8", "Rd2", "Bxd6", "Rd2", "Nf7", "Rad1", "Kxf7", "Rad1", "Rfc8", "Rad1", "Bc6", "Bxc6", "Rxc6", "Rad1", "R8c7", "Rad1", "Ke8", "Rxc7", "Rxc7", "Kg2", "Rd7", "Ke2", "Kxd7", "Ke2", "Kc6", "Kd3", "Kd5", "e4+", "Kc6", "f4", "Bc5", "f4", "hxg4", "hxg4", "Bc5", "f4", "f5"]
+
+[White "Lujan, Maria Carolina"]
+[Black "Tkeshelashvili, Sopio"]
+["e4", "c5", "Nf3", "Nc6", "d4", "Nc6", "g3", "d5", "Bg2", "Nf6", "O-O", "Be7", "c3", "O-O", "Re1", "O-O", "Nbd2", "Qc7", "Nbd2", "cxb4", "Be3", "cxb4", "Be3", "dxc5", "Be3", "Nd5", "c4", "Nc7", "Nc3", "Nd4", "Rb1", "Rb8", "a4", "Bxg5", "exf6", "Bxf6", "Bh6", "Rf7", "Nh4", "fxe5", "Bxb7", "Qd6", "Bxc8", "Qd4"]
+
+[White "Maksimovic, Suzana"]
+[Black "Zatonskih, Anna"]
+["e4", "Nf6", "c4", "d5", "Nc3", "Nf6", "Nf3", "Nc6", "Nc3", "exd5", "Nc3", "Bd7", "Bxd7+", "Nbxd7", "O-O", "Bxc5", "O-O", "Bd6", "Nc3", "O-O", "Bb2", "Nce4", "Nc3", "Nce4", "Rc1", "Bb8", "Rc1", "a6", "Ba3", "a6", "Nbd4", "Qd6", "Qc1", "Qd6", "Rfc1", "Rac8", "h3", "Rac8", "Rxc8", "Rxc8", "Rxc8+", "Rxc1+", "Rxc8+", "Qxc8"]
+
+[White "Mamedjarova, Zeinab"]
+[Black "Ciuksyte, Dagne"]
+["e4", "Nf6", "c4", "g6", "c4", "d5", "e3", "Bb7", "Be2", "Be7", "Nbd2", "O-O", "c3", "cxd4", "c3", "Nbd7", "c3", "Nbd7", "Bh2", "Nd7", "a3", "Nxd3", "a3", "Nxd3", "Qxd3", "Nf6", "Rac1", "Rad8", "cxd4", "Nc5", "Rac1", "Nc5", "Rad1", "Nc5", "N2f3", "Qxc4", "Qb3", "Bf6", "N2b3", "Nb6", "N2f3", "Ne5", "f4", "e5", "Nf1", "Nxb3", "axb3", "e5", "Rf1", "Bg3", "Nc2", "d5", "Rxd4"]
+
+[White "Matseyko, Ekaterina"]
+[Black "Worek, Joanna"]
+["e4", "c5", "Nf3", "cxb4", "a3", "bxa3", "axb4", "Bxb4", "c3", "Be7", "d4", "d5", "Nf3", "Nf6", "Ne2", "a6", "g3", "Be7", "Nf3", "Ngf6", "Ne2", "Ngf6", "O-O", "Bb7", "g5", "exf5", "d5", "f6", "h4", "hxg5", "d5", "hxg5", "Nd2", "hxg5", "Rg1", "Nb6", "d5", "Nc6", "hxg5", "Rxh1", "Rxh1", "O-O-O", "cxd4", "O-O-O", "e5", "O-O-O", "dxe5", "d4", "Be4", "dxe3+", "Qxe3", "Bxe4", "Nbd4", "Nd5+", "Rh8", "Rc3+", "Rd3", "Rxd3+", "Kd2", "Rxd3", "Qxd3", "Qf4+", "Qe3", "Bxe4", "Nd2", "Nd3+", "Kg2", "Qxf5", "Qxf4"]
+
+[White "Muzychuk, Anna"]
+[Black "Sudakova, Irina"]
+["e4", "c5", "Nf3", "exd4", "c3", "Nc6", "c3", "Bxd2+", "Nbxd2", "c5", "Qxd4", "Nf6", "Nc3", "O-O", "O-O-O", "Nc6", "f3", "Ne5", "Rg1", "Ngf6", "h3", "Nf6", "h3", "Nf6", "Qg2", "dxe5", "Be2", "g6", "Bxh5", "Rxe5", "Bxh5", "Qxd2+", "Rxd2", "Re8", "Ng5", "Nf4", "Rxc5", "Nxe2+", "Re5", "Bg4", "Re5", "Rad8", "Ng5", "Rxe5", "Rxe8+", "Rxe8", "Nd4", "Ne6", "Rd7", "Kf7", "Nd4", "Nc5", "Nd4", "a5", "Nd1", "Bxe2", "Re5", "f4", "Nf3", "Bxf3", "Re2", "Bxf3", "hxg5", "gxh4", "Bxg4", "Nxg5", "Ne4+", "b4", "Bxb5", "Rc4", "Be4+", "Kf6", "Nd5+", "Kf7", "Ne5", "Nc5", "Nxg4", "Nxe4", "Ne5+", "Kh6"]
+
+[White "Muzychuk, Mariya"]
+[Black "Danielian, Elina"]
+["e4", "c5", "d4", "d5", "exd5", "Bf5", "Bd3", "e6", "g4", "Bg6", "h4", "c5", "h4", "Nc6", "h4", "Nxe5", "Bg2", "Bxc5", "b4", "bxc6", "Nxc6", "Qc7", "Bb5", "a6", "Ba4", "Bd6", "h4", "Ne7", "O-O-O", "Ne4", "Nxe4", "Bxe4", "f3", "Bg6", "h4", "O-O", "h4", "Nc5", "Nd4", "Ne5", "Na5", "Rxc6", "Bxc6", "Qxc6", "h4", "Rc8", "h4", "Nc5", "h4", "Nc4", "b3", "Qb5", "c3", "Bh5", "c3", "Nxc2+", "c3", "Nxc2+", "Rxc2", "Qxc2", "Qxc2", "Rc8", "h5", "Bxa3", "Qxe4", "Rxc1+", "Rxc8+", "Bf8", "Bc5"]
+
+[White "Nemcova, Katerina"]
+[Black "Titova Boric, Elena"]
+["e4", "c5", "e5", "Nd5", "d4", "Nb6", "d4", "d6", "exd6", "cxd6", "Nc3", "Be7", "Nf3", "O-O", "Bd3", "O-O", "Bd3", "Nc6", "O-O", "Nc6", "Be3", "Re8", "Bb2", "Re8", "c5", "Nd7", "a3", "N8e7", "a3", "Ng6", "Ng4", "bxc5", "cxb6", "cxb6", "Ng4", "Bxg4", "Bxg4", "b5", "Qd2", "b5", "Rc2", "b5", "Rfc1", "h5", "Bf3", "Rc7", "Nc5", "Nb4", "Ne2", "hxg4", "hxg4", "Nb4", "Rb2", "Nec6", "a3", "axb5", "Rxa2", "axb5", "Rc5", "Qb6", "Rc5", "Qd7", "Qb4", "Reb8", "b4", "Rc8", "Raxb5", "b4", "Rd6", "Bxe5", "Rxa8", "Ra1+", "dxe5", "Ra1+", "Kg2", "Nc8", "Bxd5", "Rb1", "e6+", "f6", "g5", "Nf5", "gxf6+", "Kxf6", "Qf4+", "Nxd5", "Qxe5+", "Rxd5", "Qxe5+", "Kg7"]
+
+[White "Pavlovskaya, Evgenija"]
+[Black "Meshcheriakova, Evgenia"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "Ba4", "Nf6", "O-O", "b5", "Bb3", "Be7", "c3", "O-O", "c3", "O-O", "Nbd2", "Na5", "Bc2", "c5", "Re1", "Nc6", "Nf1", "Bg4", "Ng3", "Nh7", "h3", "Bf8", "Be3", "Be6", "f4", "Ng6", "Nxf6+", "Nxg4", "hxg4", "Qh4", "Nf5", "Bg5", "Qh3", "Qxe7", "Qg3", "Ng6", "f4", "h5", "Bxg5", "f6", "Be3", "Qf7", "d4", "Rh8", "axb5", "Be6", "Bxe6+", "Rh8", "Bh5+", "g6", "Bxe8", "Rxe8", "axb5", "axb5", "d4", "cxd4", "dxe5", "Bd7", "f4", "cxb4", "Ra5", "Ng6", "f5", "Ne7", "Ra5", "Rh8", "g4", "Kf8", "Ra5", "g6", "Ra5", "Qb7", "Rea1", "Bb5", "Qb3", "Rc8", "Rc1", "Bc4", "Bd2", "Qc8", "Re3", "g6", "Re3", "Qc8", "fxg6+", "Nxg6", "Bg3", "Nf4", "Qa7+", "Qh5", "Qf3", "Rg8", "Qg4", "Rg8", "Qg4", "Rg8", "Bf2", "Rg8", "Rh1", "Bc4", "Kg1", "Bc2", "Rb2", "Bxe4", "Bh2", "Ng6", "Bxf4", "Ng6", "Rf2", "Rg8", "g3", "Ng6", "Rg2", "Rh3", "gxf4", "Nxf4", "Rxg5", "Nxg2", "Qxg2", "Nxg2", "Kxg2", "Rg8+", "Bxf4", "Rg8+", "Ra1", "Rh3+", "Kg4", "Ke7", "Ke3", "Rh3", "Kd4", "Rh3", "Kd4", "Rc4", "Kd2", "Rc8", "Kd4", "Rg8", "Bd4", "Rc8", "Rg7+", "Kc8", "Ra7", "Bb5", "Bd4", "Kb8", "Rh7", "Kc8", "Bd4", "Bd7+", "Kg6", "Kc7", "bxa5", "Ra4", "e5", "Rxa5", "a6", "Kb7", "Rd8", "Kc7", "a6", "Ra4", "Ra8", "Kb6", "a7", "Kb6", "Bd4", "Rxa6"]
+
+[White "Purtseladze, Maka"]
+[Black "Dzagnidze, Nana"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Bb4", "Qc2", "O-O", "e3", "cxd4", "Nxd4", "Nc6", "Qc2", "d5", "bxc3", "Nc5", "Qf3", "O-O", "Bg2", "Nc6", "O-O", "e5", "Qxb7", "Qc7", "Rd2", "Qc7", "axb3", "Bc6", "Qxb7", "Nd7", "Qxa8", "Bxe2", "Rxa7", "d5", "Be3", "Nd7", "Be3", "Nf6", "Bxc5", "dxc5", "Ra8", "Qd1+", "g4", "Bg6", "Kh2", "Bg6", "Qxc5", "Bf3", "Qd4", "Qxc3", "Rc8", "Qxe3", "fxe3", "Rd8", "c5", "Rb2", "c6", "Rc3", "Rc8+", "Rc3", "c7", "Kg7", "Rd8+", "Rxc7", "Rxa6", "Kg7", "e4", "Kg7", "e5", "Kf6", "Ra5", "Ke5", "Rf2+", "Kg6", "Kg1", "f5", "exf5+", "exf5", "gxf5+", "Kxf5", "Bg4+", "Ke4", "Bg4", "Re4", "Rh8", "Rb2+", "Rxh6", "Ke5", "Rh8", "Rb2+", "Kg3", "Rb3+", "Rxf6", "Kf5", "Rg6", "Rb3+", "Rxf6", "Kf5", "Rxe6+", "Kf6", "Re8+", "Ra3+", "Bf3", "Kf6", "Re8+", "gxh4+", "Kxh4", "Kf4", "Bg4", "Kf4", "Kh5", "Kf4", "Rxh6", "Kf4", "Ra5+", "Kf4", "Rf8+", "Kg3", "Re8+", "Ke4", "Rf8", "Ke5", "Rf5+", "Kf4", "Rf1+", "Kg3", "Kxh6", "Rh2+", "Rf1+", "Rh2+", "Rf1+", "Rxg4", "Rf1+", "Kg3", "Kg5", "Ra5+", "Bf5+", "Ke3", "Kf6", "Kf2", "Rf1+", "Kg3", "Rf4+", "Ke3", "Rf4+", "Kg3", "Re4+", "Rc1", "Re4+", "Kf2", "Kf4", "Kd2", "Rxc1", "Rg1+", "Kf3", "Rf1+", "Ke4", "Rf4", "Kg3", "Ke3", "Kg3", "Kd4", "Rd5+", "Ke3", "Re5+", "Kd4", "Rd5+", "Kc5", "Kg3", "Rh6", "Kf4", "Kd3", "Kf4", "Rg7+", "Re4+", "Rg7", "Rf3+", "Ke4", "Rf4+", "Ke5", "Kg4", "Rg1+", "Bf5+", "Ke5", "Re2+"]
+
+[White "Reizniece, Dana"]
+[Black "Khukhashvili, Sopiko"]
+["e4", "Nf6", "Nc3", "Nf6", "g3", "Bc5", "Nxe7", "exd4", "dxe5", "c6", "Nxe7", "exd4", "Bb2", "e4", "Nxd4", "Nc6", "Qd1", "Bg4", "Bb2", "Bg4", "e3", "Bg4", "Be2", "Qe7", "Be2", "Nb4", "Be2", "Bxf3", "g4", "Bg6", "Bxg6", "hxg6", "g5", "Ne5", "a3", "Nxe4", "a3", "Qc7", "Nxh7", "Kxh7", "a3", "Qh4", "f5", "Nc5", "Nxa4", "Rxe4", "Nc3", "Re8", "Qg2", "gxf5", "fxg6+", "gxf6", "fxg7", "Qd7", "gxf6", "Ne4", "gxf6", "Ne5", "Qxb6", "dxc5", "bxc5", "cxb4+", "Kh1", "bxc3", "Bxc3", "f5", "Bf6", "gxf5", "Qd4", "gxf5", "Qd4", "Rxh3+", "Qd4", "Rxh3+", "Kg2", "Qg3+", "Rg2", "Rh1+", "Ke2"]
+
+[White "Rudolf, Anna"]
+[Black "Shumiakina, Tatiana"]
+["e4", "c5", "Nf3", "Nc6", "Bb2", "d6", "Nf3", "d6", "Bxc6+", "bxc6", "d3", "Nf6", "d3", "Nf6", "Nd2", "Be7", "Qd2", "f4", "Nge2", "O-O", "Nxf6+", "Bxf6", "Qd2", "Be6", "O-O-O", "d5", "O-O-O", "Qg6", "Nd2", "Bh5", "f3", "Bh4+", "Kd1", "Bg3", "Nd2", "a5", "Nc4", "a5", "Nc4", "d5", "exd5", "d4", "a4", "Bxe1", "Rxe1", "Bc3", "Rxe1", "Qxe1+", "Na4", "d4", "Kf2", "dxe4", "fxe4", "Rd4", "Rhd1", "Red8", "Rxd4", "a5", "Rxd4", "a5", "Rxd4", "Qc7", "Nxc5"]
+
+[White "Sandu, Mihaela"]
+[Black "Gromova, Iulia"]
+["e4", "c5", "d4", "d5", "cxd5", "cxd5", "cxd5", "Nf6", "Nc3", "Nxd5", "Bc4", "Bg7", "Nf3", "O-O", "O-O", "a6", "d4", "Nc7", "Re1", "a6", "Bf4", "Rb8", "axb5", "Ncxd5", "Qxa4", "Ncxd5", "Nxd5", "Nxc3", "Qxb6", "Nxc3", "Nxd5", "Nxd5", "Nd7", "Rfd8", "Bxd5", "Rfe8", "Bb4", "Nxb4", "Rxb4", "Bxe5", "Qxd6", "Rxd6", "Nf3", "Nxd4"]
+
+[White "Shaidullina, Sandugach"]
+[Black "Kopylova, Lyubov"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Bg7", "cxd5", "Nxd5", "e4", "Bg7", "e3", "Bg7", "e3", "O-O", "Nf3", "Bg4", "Be2", "c6", "dxc5", "Nc6", "dxc5", "Nd5", "Rxd1", "Nxc5", "b3", "Rac8", "Nxe6", "Nxe6", "Be5", "Rc2", "Nxe5", "Rc2", "Rd2", "Rfc8", "Rd2", "Rfc8", "Be2", "Rxd2", "Bd1", "Rxc2", "Bd1", "Nxb2", "Bxa4", "Re4", "Bxc4", "bxc4", "Ne5", "cxd3", "bxa4", "Ne4", "f3", "Nc3", "f3", "Nc3", "Kd2", "Nxa4", "a5", "Nxa4", "Kxd3", "Kd7", "Ra8", "Nc5", "Rxa7+", "Ke6", "a5", "e5", "a6", "e5", "Rxh7", "Nxa6", "Rxh7", "Kxf7"]
+
+[White "Szczepkowska Horowska, Karina"]
+[Black "Miednikova, Swietlana"]
+["e4", "c5", "d4", "d5", "Nc3", "Nf6", "exd5", "exd5", "Ngf3", "cxd4", "Bc4", "Qd8", "O-O", "Nf6", "O-O", "Nc6", "O-O", "Be7", "O-O-O", "e5", "Rhe1", "O-O", "h3", "Qxe5", "Bxc6", "Rxd6", "Bxc6", "Rxc6", "Rxd4", "Bxf3", "Rxd4", "c5", "Bf4+", "Bh5", "Nxf3", "Rhd8", "Bxf6", "h6", "Rxe8", "Rxe1", "Nxe1", "gxf6", "Kc2", "Bf4+", "Kc2", "Re7", "Kc2", "Re7", "f4", "f6", "Nd3", "Rxe2", "Kc2", "f6", "b3", "Kd6", "b3", "c5", "Ne2", "c5", "Nd5+", "Kd6", "Nd5", "Re7", "b3", "a3", "b3", "Re7", "Rd8+", "Ke7", "Nf4+", "cxb4", "b5", "Ke7", "Kb3", "Kg5", "Nd5", "h5", "Rg8+", "Kf6", "Rd6+", "Kg7", "Nxh5", "Rb7", "Nxh5", "cxd4", "c5", "Re3", "b7", "Rc3+", "Kd2", "Rxc5", "b8=Q", "Rxd3"]
+
+[White "Toma, Katarzyna"]
+[Black "Burtasova, Anna"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "Ba4", "Nf6", "O-O", "Nf6", "d4", "Bg7", "d4", "Ne7", "Rd1", "O-O", "d4", "exd4", "cxd4", "Nxd4", "cxd4", "b5", "e5", "c6", "Nxe4", "Bf5", "d5", "Nxd4", "Bxd6", "Nf5", "Bb3", "Nxb2", "Bc2", "Nxb3", "axb3", "c6", "Qxg4", "Qxd5", "Bxc7", "Qxb3", "Bb6", "Rfe8", "Rac1", "Bxd4", "Rc5", "Re4", "Be5", "Re4", "Be5", "Rxc1", "Rxc1", "Bxe5", "fxe5", "Rxd4", "Rc8+", "Rd1+", "Qc8+", "Rd1+", "Kh1", "Rd1+", "Rc8+", "Qd2", "e6", "fxe6", "Kg1", "fxe6", "Qb8+", "Qd4+", "Kh1", "Rd1", "Qb8+", "Kg7", "Qxd8+", "Rxf1+", "Qxf1", "Qd5", "h3"]
+
+[White "Umudova, Nargiz"]
+[Black "Vajda, Szidonia"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "a6", "Bg5", "e5", "Nb3", "Be6", "O-O", "O-O", "Be3", "exf4", "f5", "Nbd7", "f5", "Nbd7", "f5", "Bxd5", "exd5", "Nbd7", "c4", "Rac8", "axb6", "Qxb6", "fxe5", "Nc5", "Nc6", "Ndc5", "Nc6", "Qc5", "fxe5", "Rfc8", "Qa3", "Qxd5", "fxe5", "Nxe5", "Nxe5", "dxe5", "c4", "Bd6", "b4", "Bxe3", "Bxb6", "Qxb6", "b4", "Nd2", "Bd3", "Nd2", "c5", "e4", "Bxe4", "Qxe2", "cxd6", "exd3", "Qe6+", "Kh8", "Rxf5", "d2", "Qe8", "Rxe8", "Rad1", "Rd6", "Qe3", "Rxe8", "Qe3", "d2", "h3", "Rad8", "h3", "Qd4", "Qxe4"]
+
+[White "Benderac, Ana"]
+[Black "Rudolf, Anna"]
+["e4", "c5", "d4", "d5", "Nc3", "c5", "c3", "Nc6", "Nf3", "Qb6", "Bd3", "Bd7", "cxd4", "Nge7", "b4", "Nf5", "Bb2", "Nxe3", "Bd3", "Nxe3", "fxe3", "Be7", "b5", "Na7", "a4", "Nf5", "Qe2", "Bb4", "Bd3", "O-O", "Re1", "O-O", "Qxc1", "O-O", "g4", "Bb4", "g4", "Ng7", "Nxh4", "Nxf3", "h4", "Rc8", "h5", "Rxc1", "Qxc1", "Bb4", "Bxf5", "Bb4", "Nc5", "Bc8", "Nxd7", "Qxd7", "Qc6", "exf5", "Qc6", "Qxc6", "Qxe6", "f4", "Qxe6", "Qg4", "Qxe6", "Qg4", "Qxe6", "fxe6", "Ke3", "gxf5", "Nf4", "Kf7", "Ke3", "Kf7", "Nxd5", "Bxh4", "Kf4", "Bxg5+", "Kf3", "Bd8", "d5", "Ke6", "Nc7+", "Kxd5"]
+
+[White "Burtasova, Anna"]
+[Black "Kostiukova, Liubov"]
+["e4", "c5", "d4", "d5", "Nc3", "c5", "c3", "Nc6", "Nf3", "Nc6", "Bd3", "Nc6", "cxd4", "Nc6", "Bxb5+", "Qxb5", "Nc3", "Qd7", "Qe2", "Bxb4", "b5", "Qa5", "Bd2", "Qd8", "O-O", "Ne7", "a4", "h6", "Ne2", "g6", "Qh3", "h6", "Nf3", "O-O", "a4", "Ng7", "Nxh4", "Bxh4", "Qxg4", "Bxh4", "Qg3", "Rxd4", "Be3", "Rc4", "Ne2", "Qc7", "Rxa3", "Rxa1", "Rxa3", "Bxa3", "Ra1", "Be7", "h4", "b6", "Ra1", "Bc5", "Kh1", "Qxe5", "Rg1", "Bxd4", "Qxd4", "Qxe5", "Qxe5", "Nxe5", "Re1", "Nf3", "Re3", "Kd7", "Kg2", "Rc8", "Nc5+", "Kd6", "Kg2", "Ne5", "Nxe5", "Rc4", "h4", "Ng4", "Nh3", "f6", "Ng1"]
+
+[White "Ciuksyte, Dagne"]
+[Black "Batsiashvili, Nino"]
+["e4", "e5", "Bb2", "Nc6", "e3", "Nf6", "e3", "f5", "d4", "Bg7", "Be2", "Nge7", "Be2", "Nf6", "Nbd2", "O-O", "Be2", "h6", "O-O", "g5", "O-O", "g5", "d4", "g4", "hxg4", "fxg4", "Nh2", "f4", "Kg2", "f4", "Rh1", "Bg5", "Ndf3", "f4", "Rh1", "f4", "Rh1", "e4", "Be2", "Bd7", "Be2", "hxg4", "Qd1", "Bg7", "Rh1", "Ng6", "f3", "Rg8", "b4", "Rxa4", "Ng2", "Bg7", "Nf4", "Nxf4", "exf4", "h4", "gxh4", "Bxb3", "Qxb3", "Kg8", "Qc3", "Qxd1", "Rxd1", "Kg8", "Rc1", "Kg8", "gxh4", "Kh5", "Ke3", "Kh5", "Rc3", "Kh5", "gxh4", "Kh5", "h5", "Ne7", "Kd4", "Raxc4", "Rxc4", "Rxc4", "fxe4", "exf3", "Kxf3", "Re4+", "Kxf3", "Kxh5", "Rh1+", "Rxa4", "Bxe7", "Rxa4", "Ra1", "Nxd5", "a5"]
+
+[White "Danielian, Elina"]
+[Black "Khukhashvili, Sopiko"]
+["e4", "d5", "c4", "g6", "Bg2", "Bb7", "O-O", "e6", "d3", "Be7", "Nbd2", "d6", "c3", "b4", "axb5", "axb5", "Rxa8", "Bxa8", "Nc3", "Bc6", "Nc4", "Be7", "e5", "dxe5", "Nfxe5", "O-O", "Kxg2", "O-O", "Qf3", "O-O", "Kxf3", "O-O", "Be3", "f6", "Nf3", "Kf7", "Nfd2", "Kf7", "Ra1", "Kf7", "Ra7", "Rb8", "Rxa8", "Nb5", "Ndb3", "Nxe3", "Nc4", "Nxe3", "Ke4", "Nd5", "h4", "Nbd4+", "Bxd4", "Nxd4+", "Nxd4", "exd4", "Ke4", "Ke6", "f4", "g6", "f5+", "Rxa1", "Nxa1", "g6", "Nb3", "g6", "Nb3", "Bb6", "Nd2", "Bc7", "Nc4", "Bg3", "Nc4", "Bg3", "Nd2", "Bd6", "Nf3", "Bc7", "Nd2", "Bd6", "Nd2", "Bg3", "Ng6", "Bd6", "Nf4", "Bf8", "Ng6", "Bd6", "Nh4", "Bf8", "Ng6", "Bd6", "Nd2", "Bd6", "Nc4", "Bc7", "Nd2", "Kd6", "Nf3", "Bc7"]
+
+[White "Daulyte, Deimante"]
+[Black "Khurtsilava, Inga"]
+["e4", "c5", "d4", "d5", "exd5", "Bf5", "Bd3", "e6", "Nf3", "e6", "Bd3", "Bxd3", "h3", "c5", "Bxf3", "c5", "dxc5", "Bxc5", "O-O", "Ne7", "Bf4", "Qb6", "c4", "Bxd6", "exd6", "Qxd6", "c4", "Nf6", "cxd5", "O-O", "Bh4", "g6", "Be3", "O-O", "Bxg6", "Ne5", "cxd5", "exd5", "Bxg6", "f5", "Bf3", "f4", "Qd4", "Raxb8", "Qd4", "b6", "Rad1", "Ne7", "Rfe1", "a5", "Re5", "Rd6", "Rde2", "a6", "h3", "Nc6", "h4", "Nc6", "h4", "Nc6", "h4", "Nc6", "h4", "Nc6", "Bxd5", "b4", "Qxa5", "Nf6", "Qb4", "d3", "Rxe8+", "Qxe8", "Rd1", "d3", "Bf1", "bxa4", "axb5", "Qe1+", "Qa1", "Kh7", "Bf3", "Qe1+", "Bf1", "Ne4", "Bh3", "g5", "Qe3", "Ne4", "Bxe4", "Rxe4", "Qc3", "Qxd2", "Qd5", "Qxd5", "Kg2", "Re5", "Qd3", "Qe6", "Kh2", "Re1", "Qd5", "Qc1", "b4", "f4", "Qd6", "f4", "b5", "Qxd6", "Qd4", "Qxb4", "Qc5", "Qf1", "Kxh1", "Qf1+", "f3", "Qc2+", "Qxf5+", "Qg6", "Qxg6+", "Kxh8"]
+
+[White "Dzagnidze, Nana"]
+[Black "Maksimovic, Suzana"]
+["e4", "Nf6", "c4", "d5", "Bg5", "Be7", "Bh4", "Be7", "e3", "Be7", "Bg3", "Bg7", "Be2", "Nxg3", "Nc3", "Nxg3", "Be2", "Nxg3", "O-O", "Nxg3", "hxg3", "O-O", "Qc2", "e5", "Qc2", "Bb7", "Qd3", "f5", "gxf5", "exf5", "Rae1", "Be4", "d5", "Bxd5", "cxd5", "cxd4", "Qxb5", "c4", "Qd2", "f4", "Nd2", "Qf6", "Qxd6", "Bxd4+", "Kh1", "Bc5", "Ne4", "Nxf6", "Rxf6", "h5", "Bxg4", "Rxf1+", "Rxf1", "Rf8", "Be6+", "Kg7", "Rxf8+", "Rxf1+", "Nxf1", "Qf6", "Qxd7", "Nc5", "Qf7", "Bxg3", "Qb8+", "Qg8", "Qxb5", "Bxg3", "Qd8+", "Qg8", "Qh4", "Bxg3", "Qe8+", "Qg8", "Qh5", "Bxg3", "Qe8+", "Bxg3", "Qe8+", "Qh5+", "Qe8", "Qe5", "Kg1", "Qe2", "Qc3", "Kf6", "Qd8+", "Qe3+", "Kh2", "Qg5", "Qh8+", "Ne5", "Qf8+", "Nf7", "a4", "Qe7", "Qxe7+", "d5", "Qh8+", "d5", "Qf8+", "Qf7", "Bc2+", "Kg5", "Bd1+", "Kg6", "Bc2+", "Kh5", "Bd1+", "Ng4+", "Qxg4+", "Kg5", "Qe7+", "Kh5", "Qxd6", "Qe2", "Bd1", "Qxc2", "Qxe5+", "Kg6", "Qe6+", "Qa4", "Qe6+", "Kg7", "Qf4+", "Qb5", "Qf4+", "Kg6"]
+
+[White "Fierro Baquero, Martha Lorena"]
+[Black "Karlovich, Anastazia"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "Ba4", "Nf6", "O-O", "Nf6", "d4", "Nf6", "d4", "Ng6", "d5", "Be7", "Re1", "O-O", "Nf1", "b5", "Nxh4", "Nb8", "dxc6", "Nb8", "h3", "Bh5", "Nxf3", "Bh5", "Bc2", "f5", "exf5", "Bxf5", "Bc2", "Nd7", "Bxf5", "Bxc2", "Bxf5", "b6", "Bxf5", "Rxf5", "Qc2", "Qg6", "Ne4", "Qg6", "Qg4", "Qg6", "Ng3", "Qxg4", "hxg4", "Nf6", "Nxf6+", "Bxf6", "g5", "h6", "b4", "Bg5", "Kg2", "hxg5", "Kg2", "Rf7", "Rh1", "Ke7", "Rf3", "Rf7", "Rf3", "Raf8", "b4"]
+
+[White "Gaponenko, Inna"]
+[Black "Muzychuk, Anna"]
+["e4", "c5", "Nf3", "Nc6", "Nxe5", "d6", "Nf3", "Nxe4", "d4", "Qe7", "d3", "Nf6", "Bg5", "Qxe2+", "Bxe2", "Be7", "O-O", "O-O"]
+
+[White "Gavasheli, Ana"]
+[Black "Mamedjarova, Zeinab"]
+["e4", "d5", "d4", "Bg7", "c4", "Bg7", "Nc3", "Bg7", "Bg5", "O-O", "Bg2", "d6", "O-O", "e5", "O-O", "e5", "a3", "e5", "e4", "e5", "dxc6", "Nc7", "h3", "e5", "h3", "b5", "Nxe4", "b5", "Bg2", "b5", "Re1", "Qd7", "Qe2", "Nc7", "Nxc7", "Qxc7", "b3", "Rfe8", "b3", "Qd7", "g5", "Ng4", "Bxh5", "gxh5", "Qxh5", "Qg4+", "dxe6", "Bxe6", "b3", "Bxc4", "b3", "d5", "b3", "h6", "Qxg6", "Rf6", "Qg4", "Rff6", "b3", "Rg6", "bxc4"]
+
+[White "Hunt, Harriet"]
+[Black "Lujan, Maria Carolina"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "a6", "Bg5", "e5", "Nf3", "exf4", "Bxf4", "Be7", "Bc4", "O-O", "O-O-O", "Nc6", "Kb1", "Bxd6", "Qxd6", "Be6", "Kb1", "Nc6", "Kb1", "Nc6", "Qg5", "b4", "Qg3", "b4", "Kb1", "Nb4", "a3", "hxg5", "bxc3", "Nxd3+", "fxg7", "Nxd3+", "cxd3", "Qxa2", "Kb1", "Qxa2", "Ke2", "Bb3+", "Qxh6", "Qxb2+", "Ke3", "Kh7", "Qxh6", "Kh7", "Qxh6", "Kh7", "Qxh6+", "Ke8", "Qh8+", "Kd7", "Qg7", "Kc7", "Qb4", "Kb6", "Qd4+", "Qc2+", "Qe3+", "Rd4", "Qe3+", "a4", "Qe3+", "a4", "Qe3", "Bxf7", "e6"]
+
+[White "Limontaite, Simona"]
+[Black "Matseyko, Ekaterina"]
+["e4", "Nf6", "c4", "e6", "d5", "b5", "Nc3", "exd5", "cxd5", "d6", "e4", "g6", "Nf3", "Bg7", "Nf3", "O-O", "Bd3", "Re8", "O-O", "a6", "a4", "Nbd7", "Bf4", "Ne5", "Re1", "Nh5", "a5", "Nh5", "Bh2", "Ne5", "Nxe5", "Nxf3+", "Nxe5", "Bd7", "Nc4", "Rxe5", "Nc4", "Bd7", "axb6", "Rxb6", "Nc4", "g4", "hxg4", "Rb4", "Nxc5", "Qxc5", "Nxc5", "gxh3", "Nc4", "Rc2", "Nd6", "gxh3", "Rxa6", "Rb6", "Bxa6", "Reb8", "hxg4", "Nxg4", "Nf5", "Bxd6", "Nf5", "Rd4", "Nxe5", "Bg7", "Rxf6", "Rxe5", "Rf5", "Kg7", "Ra8", "Kg7", "Rf4", "Be7", "Ra7", "Bh4", "g3", "Bg5", "Bg4", "Bxg3", "fxg3", "Kg6", "fxg3", "Rxg3+", "Kf1", "Rxh3", "Rg7+", "Rhh2", "e6", "Rhf2+", "Rg7+", "Rb8"]
+
+[White "Mamedjarova, Turkan"]
+[Black "Tkeshelashvili, Sopio"]
+["e4", "d5", "Nf3", "c5", "e3", "c5", "Bg2", "Nc6", "O-O", "Bg4", "d3", "Bg7", "d3", "O-O", "Nbd2", "O-O", "Nbd2", "Nxe5", "fxe5", "Ng4", "e4", "cxd4", "h3", "h4", "h3", "cxd4", "exd4", "Bxc2", "Bxd5", "Nh6", "Nxd5", "Rxd4", "Nxd5", "Bxh3", "Nxd5", "Rxc2", "Bxh6", "Bxd5", "Nf4", "Qxd4", "Rd1", "O-O", "Qxb7", "O-O", "Bf4", "O-O", "Bf4", "Qxb4", "Qxd6"]
+
+[White "Melia, Salome"]
+[Black "Reizniece, Dana"]
+["e4", "c5", "d4", "Nf6", "Nc3", "g6", "f4", "Bg7", "Bg2", "O-O", "Nge2", "c6", "O-O", "Nbd7", "h3", "Nbd7", "Be3", "Re8", "Qd2", "Qc7", "a3", "b4", "dxc6", "b4", "Rxa4", "cxd5", "exd5", "Bb7", "c4", "Nb6", "c4", "Nxa4", "Nec3", "Nxa4", "Nxa4", "f5", "Nc3", "Bg7", "Qd2", "exf4", "Bxf4", "Bg7", "Bd4", "Rxe1+", "Qg4", "Bg7", "Nxc5", "Nxa4", "fxg6", "hxg6", "Qg4", "Nxc3", "Bxc3", "Bg7", "Qf3", "Qh6", "Qf3", "Bf5", "b4", "a3", "Ra1", "a2", "Ra1", "Bg7", "Rxf5", "a1=Q", "Qxa1", "Rxa1", "Rf2", "Bg7", "Rg4", "Qe1", "Rxf7", "Qxb4", "Rgf4", "Bg7", "Bxg7", "Kxg7", "Rhf4", "f5", "h4", "Rh8", "R1f2", "Re3+", "R4f3", "Qd3", "Rf2", "Rg1+", "Kg2", "Kf6", "Kh2", "Qxg1+", "Kh3", "Qe3+", "Rf3", "Qe5+", "Kh3", "f4", "Rg3", "Qxc4", "Bf3", "f4", "Bg2", "Qf3+", "Rg3", "Qf2+", "Rg2", "Qxh4+", "Bh3", "Qxc4", "Rg2", "Qxd5", "Bg2", "Qd2", "Rg1", "Qf4+", "Rf8+", "d4", "Rd6+", "Kg5", "Kg3", "Qe3+", "Kh2", "Qe5+"]
+
+[White "Meshcheriakova, Evgenia"]
+[Black "Agrest, Inna"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "d3", "fxe4", "dxe4", "Nf6", "Nc3", "Bc5", "Bg5", "d6", "Nc3", "Qe7", "Nc3", "Qe7", "Bg5", "Nxd5", "exd5", "Na5", "Nxd4", "Qxd7", "Nxd4", "dxe5", "Nd3", "O-O", "Nxc5", "Ne2+", "Be3", "dxc5", "Qxc5", "Ne2+", "Qc4", "Ne2+", "Kh1", "Qxc2", "Qe3", "Qxa5", "Be3", "Rxe3", "c3", "Qc2", "a5", "Qxf4", "a5", "Re2", "f3", "Rc2", "Rac1", "Qxc3", "b5", "Rb2", "a6", "bxa6", "bxa6", "Kb8", "Rxa2", "Kb7", "Rxa2", "Qa4", "Rxa1", "Ka8", "h3", "Qd4", "Rb1", "Qe1+", "Kg2", "Qe4+", "f3", "Qb7", "Rb2"]
+
+[White "Molchanova, Tatjana"]
+[Black "Umudova, Nargiz"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Bg7", "e4", "O-O", "Bg2", "d6", "Nf3", "Nbd7", "O-O", "e5", "dxe5", "c6", "e4", "exd4", "Nxd4", "Nc5", "Re1", "a5", "Bg5", "Bd7", "Bg5", "Bc6", "Bg5", "Nh5", "Rad1", "Ne5", "b3", "Qc8", "b4", "Ne6", "Be3", "Bxe5", "f4", "Bg7", "Nd5", "Bxg2", "exd6", "cxd6", "Kxg2", "Qc6", "Qxg2", "Qxc4", "Qxb7", "Qxe4", "Qxc6", "bxc6", "Nd6", "Rxe6", "Nd6", "Bxc3", "Nce4", "e5", "Nc5", "Bd4+", "Kg2", "e5", "Rxc6", "Bxc7", "Rxc7", "Rfd8", "b5", "Rab8", "b6", "Rb4", "b7", "Rb2+", "Kf3", "Rb8", "Rc8", "exf4"]
+
+[White "Purtseladze, Maka"]
+[Black "Sandu, Mihaela"]
+["e4", "Nf6", "c4", "Nf6", "Bg5", "e6", "Bxf6", "exf6", "e3", "c6", "Bd3", "Bd6", "Nge2", "c6", "Nge2", "O-O-O", "Nge2", "O-O-O", "Nf4", "Bf7", "h4", "g5", "O-O", "Nd6", "Nc5", "Qc7", "O-O", "b6", "O-O", "axb4", "Bxe4", "Bxc5", "f3", "O-O", "dxc5", "O-O", "Bxc4", "Bxc4", "Qxc4", "Nd2", "Qe6+", "Qxe6", "Nxe6", "Nxf1", "Nf4", "Nb3", "Rab1", "a4", "Nf4", "g5", "cxb6", "Rab8", "d5", "Rxb6", "Nc3", "Rab8", "d5", "Rxa4", "Rxb3", "Rxa3", "Rb7+", "Kg6", "Rc1", "Rc3", "Rxc6", "Rc3", "Rxa1", "Rxa1+", "Kh2", "Rd1", "Rxc6", "Rxd4", "f5+", "Kh6", "Rxc6", "Kg5", "Kg3", "Rd2+", "Kg3", "Re8", "fxg6", "hxg6", "h4", "Rxf6", "g5+", "Kg7", "gxf6+", "Kxf6", "Kg4", "Kf7", "Kg5", "Kf7", "h4", "Kf6", "h4", "Kf5", "Kg5", "Kf6", "Kh6", "Kf5", "Kg7", "Kf5", "Kh6", "Kxf4"]
+
+[White "Rogule, Laura"]
+[Black "Muzychuk, Mariya"]
+["e4", "c5", "Nf3", "Nc6", "f4", "g6", "Bg2", "Bg7", "d3", "d6", "O-O", "Nf6", "d3", "b5", "d3", "e6", "Ne3", "Nge7", "Kh1", "exf5", "fxe6", "exf5", "fxe6", "fxe6", "d3", "O-O", "Nxe6", "Bxe6", "Bxc8", "cxd3", "cxd3", "Bxe6", "Bxc8", "Rxc8", "d4", "Ngf7", "Kg2", "Nxf3+", "Qxf3", "O-O", "Qd5+", "Bxb2", "Rb1", "Bd4", "Qd5+", "Kh8", "Kg2", "Rxf1+", "Kg2", "Rxf1", "Nxf1", "Rf8+", "Kg2", "Rf8+", "Kg2", "Bxf4", "Nxf4", "b4", "Kg2", "b3", "Qxc5", "dxc5", "Ke2", "b3", "axb3", "axb3", "Nd1", "Rb8", "Nb2", "b2", "dxc4", "b2", "Nb1", "Rc8", "Nd3", "Rxc4", "Nec3", "Kg7", "Ke2", "Kf6", "Ke3", "Rg4", "Ne4", "Kf6", "Kf4", "Re8+", "Kf4", "Re1", "Ndc3", "Rc1", "Kf2", "Rf1+", "Ke3", "Kf5", "Nd2", "Rg1", "Kd2", "Rf1+", "Ke3", "Rc1", "Ned2", "Rc1", "Kd3", "Rc1", "Nbc3+", "Kc5", "Kd2", "Kb4", "Nde4+", "Rxg3", "Kxb2", "Rg2", "Nc4+", "Ka2", "Nxb2", "Ka1", "Nxb2", "Rxg3", "Ne4", "Rxg3", "Ncxb1", "Rxg3", "Ne4", "Rxg3", "Kf2", "Rg4", "Nf3", "Rxh4", "Ne4", "Rh3", "Nd2", "Kc3", "Ke4", "g4", "Ng1", "Kc2", "Ne4", "Kxd2", "Nf1", "h4", "Nf2", "h3+", "Ne2", "Rd2", "Nd5", "Kd3", "Nef4+", "Ke3", "Kf2", "g3+", "Ng6", "Rxf4+", "Kg2", "Rxe2", "Nxh4", "Rf2+", "Kg1", "Ke2", "Ng2+", "Kf3", "Nh4+", "Kg4", "Ng2", "Kh3", "Ne3", "Re2", "Kf1", "Rf2+", "Ke2", "Kh2", "Kxe1"]
+
+[White "Shumiakina, Tatiana"]
+[Black "Szczepkowska Horowska, Karina"]
+["e4", "Nf6", "c4", "g6", "c4", "g6", "Nc3", "Bg7", "Bg2", "O-O", "O-O", "c6", "O-O", "Bxf3", "Bxf3", "c6", "O-O", "e5", "e3", "e5", "d5", "Ne7", "e4", "f5", "O-O", "f4", "Bg5", "h6", "h5", "Qd7", "O-O-O", "h6", "cxb5", "bxc4", "Ne2", "Bh8", "Ne2", "bxc3", "fxg6", "Nxg6", "Be6+", "Qf7", "Qxg6+", "hxg6", "bxc3", "Ne4", "O-O", "Ne5", "Rb7", "Bxc3", "Bxf7", "Kxf7", "Rb7", "Bxc3", "Rhb1", "Nxc4", "Bf4", "Nxc4", "Rxc7", "Nxc4", "Rxc7", "Rc8", "Bd4", "Nc1+", "Bxf6", "cxd5", "cxd5", "exf3+", "Bxc5", "exf3+", "Kxf3", "Nxd5", "Rxd6", "Ne1+", "Bxf6", "Rxe6", "d6", "Nc1+", "Kd2", "Nxa2", "Rf4", "Rxd5", "Kxc3", "Rc8+", "Rf4", "Rg5"]
+
+[White "Socko, Monika"]
+[Black "Calzetta Ruiz, Monica"]
+["e4", "c5", "Nf3", "Nc6", "d4", "Bg7", "Nc3", "cxd4", "Nxd4", "Bg7", "Nc3", "Bg7", "Be2", "Bg7", "Qxd4", "Bg7", "O-O", "O-O", "Qd2", "Be6", "O-O", "a4", "O-O", "Bd7", "Rfd1", "Qa5", "Nd5", "Qa5", "Nd5", "Qxd2", "Rxd2", "Rfc8", "Rdc2", "Nc5", "Nxe6", "Nxe6", "Bxc5", "a3", "b4", "e5", "b4", "Rac8", "Bxc5", "a3", "Bf1", "a3", "Bf1", "Nxb2", "Bf1", "Nc5", "e5", "a3", "exd6", "a3", "exd6", "exd6", "Bxc5", "Rxd6", "Bxc5", "Rd1+", "Bxb6", "Rc6", "Bxb6", "Rb2", "Bxb6", "Rb2", "Bxb6", "Rxb6", "Kc3", "Rb2", "Ke4", "Ke7", "Rd2", "Kf6", "Kb3", "Bc5", "Bd5"]
+
+[White "Sudakova, Irina"]
+[Black "Khotenashvili, Bela"]
+["e4", "c5", "d4", "d5", "exd5", "Bf5", "Bd3", "h5", "g4", "Be4", "f4", "e6", "g5", "e6", "Bd3", "Nf5", "Bd3", "e6", "Ne3", "Be4", "f3", "Bh7", "Nh3", "Bxd3", "Qxd3", "Nd7", "Ne2", "Nc6", "f4", "cxd4", "cxd4", "Bb4+", "Qb3", "Rc8", "a3", "Be7", "a3", "Bxh4", "fxe6", "Nxf5", "Nexd5", "Nd3", "Nexd5", "O-O-O", "Rc1", "Nxb4", "Bd6", "Bxf4", "Rc1", "Rxd6", "Rxf4", "Rxh5", "Rxf5", "Kd7", "Nxf5", "bxc6", "Nxd8", "fxg4", "Rg2", "Qb5", "Rxg7", "g6", "Rxc6+", "Qxc6"]
+
+[White "Titova Boric, Elena"]
+[Black "Stepovaia Dianchenko, Tatiana"]
+["e4", "Nf6", "c4", "Nf6", "Nc3", "e6", "Nc3", "Bg7", "Bg2", "O-O", "O-O", "d6", "Nc3", "Nc6", "Re1", "e5", "Nd4", "e5", "e4", "Nc5", "a3", "e5", "dxc6", "cxd5", "Nb6", "Nec5", "Nb6", "Rd8", "Nxd7", "Qxd7", "dxc6", "cxd5", "dxe6", "Nxe6", "Nxe6", "Nxd4", "b4", "Nxe6", "Bxg7", "Bxb2", "Bxg7", "Kxg7", "b4", "fxe4", "fxe4", "Rxf1+", "Kh1", "Ne6", "Rxf8+", "Rxf8", "Rf1", "axb4", "axb4", "Qxc4", "b5", "Ne6", "b5", "Qe7", "Qb8+", "Qe8", "b5", "Kg7", "cxd6", "Qxd6", "Qxd6", "Kg7", "b5", "Qe5", "Qxe5+", "Nd6", "Qd8", "Nxe4", "Rxf7+", "Kxf7", "Qd8", "Kg7", "Qa7", "Nb5", "Qf1", "Nc4", "b5", "Ne5", "b5", "c5", "Qa2", "Nd6", "Kh2", "Qf4+", "Kg1", "Ne5", "Qd5", "Nxe5", "Qa3+", "Qc5", "Qe3", "Qxe5", "h4", "c3", "Qc6", "Kf5", "Qxh7", "Kxg5", "Qd8+", "Kh6", "Qh4+", "c3", "Qc6", "Nf2+", "Qxe4", "Nf2+", "Kg1", "Qe1+", "Bxh3", "Qe1+", "Qf1", "Nf2+", "Kg1", "Nh3+", "Kh1", "Nf2+", "Kg1", "Qxh3+", "Kg1"]
+
+[White "Tsereteli, Tamari"]
+[Black "Shaidullina, Sandugach"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "e5", "Be3", "e6", "f4", "Be7", "Nb3", "Be7", "Bxf6", "Be7", "Qxd4", "Nxd4", "Rxd4", "Be7", "Be2", "O-O", "Be2", "O-O", "a5", "O-O", "Bc4", "O-O", "exd5", "Nxd5", "Nxd5", "Bxd5", "Nc7+", "O-O", "Nxc6", "O-O", "Rhd1", "Rfd8", "Nxc6", "Rxc6", "Rd7", "Rc5", "Rxd6", "Kf8", "Rd7", "Bxh2", "Bc4", "g6"]
+
+[White "Vajda, Szidonia"]
+[Black "Jackova, Jana"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "a6", "Ba4", "Nf6", "O-O", "Be7", "Re1", "b5", "Bb3", "O-O", "c3", "d5", "h3", "Na5", "Bc2"]
+
+[White "Worek, Joanna"]
+[Black "Nemcova, Katerina"]
+["e4", "Nf6", "Nc3", "g6", "g3", "Nc6", "g3", "d5", "d3", "exd4", "Nxd4", "Bc5", "e4", "Bc5", "Be2", "Be7", "O-O", "O-O", "f4", "O-O", "cxd5", "cxd5", "exd5", "Bd7", "exd5", "Nxd5", "Nxd5", "Nxc3", "Nxd5", "Nxc3", "Bc4", "Qxd4", "Nf5", "Nxb5", "Nxc7", "Ne5", "Bc5+", "g6", "Rad1", "Qe7", "Bc5+", "Qe7", "Nxf7", "Qxe6", "Bc5", "Qe7", "Qe2", "Kg7", "Qf4", "Nf5"]
+
+[White "Zatonskih, Anna"]
+[Black "Sammalvuo, Nina"]
+["e4", "Nf6", "c4", "e6", "Nc3", "d5", "g3", "Bb7", "b3", "d5", "Bg2", "Be7", "O-O", "exd5", "cxd5", "Bxd5", "O-O", "Bb7", "O-O", "Be7", "e4", "O-O", "e5", "Qc7", "Nd5", "Nc7", "Ne5", "Ne6", "Rad1", "Ne6", "Ne5", "Bf6", "Nxc6", "Nxc6", "e5", "Ne6", "Qxc3", "Ne6", "e5", "Nba6", "e5", "Nb5", "e5", "Na3", "f6", "Ra7", "f6", "Qe6", "Bxg5", "Qxe5", "Bh6", "Qxf6", "Bg7", "Qxe2"]
+
+[White "Agrest, Inna"]
+[Black "Tsereteli, Tamari"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "e5", "Ndb5", "d6", "Bg5", "a6", "Na3", "b5", "Nd5", "gxf6", "Nd5", "f5", "Bd3", "axb5", "Nxb5", "Qa5+", "Nbc7+", "Nxb4", "Nbc7+", "Kd7", "Nxb4", "Rxe4+", "Kf1", "Rh4", "Qxf7", "Ba6+", "Rb1", "Nxd5", "Rb1", "Nxd5", "Rb6+", "Kc5", "Rb5+", "Kd4", "Rb6+", "Kc5", "Rb5+", "Kc6"]
+
+[White "Batsiashvili, Nino"]
+[Black "Gaponenko, Inna"]
+["e4", "Nf6", "Nc3", "Nc6", "g3", "g6", "Bg2", "Bg7", "Nf3", "e6", "Nf3", "Nf6", "O-O", "O-O"]
+
+[White "Berzina, Ilze"]
+[Black "Pavlovskaya, Evgenija"]
+["e4", "c5", "d4", "d5", "Nf3", "dxe4", "h3", "Bxf3", "Qxf3", "e6", "Ne2", "e5", "Bc4", "e5", "Nd2", "Ngf6", "Bd2", "dxc3", "bxc3", "Ba5", "O-O", "Ngf6", "Bg5", "O-O", "Bh6", "b5", "Nc4", "Bc7", "Bg5", "exf4", "Bxf4", "b5", "exd5", "N5b6", "exd5", "Bxd6", "Qxd6", "N5f6", "Qg3", "Rg6", "Bh6", "Ne5", "Bh6", "Na4", "Bg5", "Nd5", "d4", "f6", "d4", "g6", "exf6", "Ne4", "Qg4", "Nxg5", "h4", "gxf6", "Qxg5", "Nxh5", "Qxh5", "Rae8", "Rf3", "Qg3", "d5", "Qe7", "Rf3", "Rxf1+", "Rf7", "Qxe1+", "Kh2", "Qe6", "Rg3", "Re7", "Qg6", "Qf5", "Rxc6", "Qe7", "Rxc6", "Qf4+", "Rc8+", "b4", "Rc8+", "b4", "Re6", "Rxc7", "Rxe7", "Rxe8", "Rc5", "Re3", "Rxb5", "Rxc3", "Rxa5", "Rd3", "d5", "Kf7", "a4", "Ke7", "Kf1", "Ke7", "Rb5", "Ke5", "d6", "Ke6", "a5", "Ke8", "Ra7+", "Ke6", "d7", "Ke7", "a6", "Ke7", "a6", "Rxd7", "a7", "Ra2", "d8=Q+", "Rxa7"]
+
+[White "Calzetta Ruiz, Monica"]
+[Black "Sudakova, Irina"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "a6", "Be3", "e6", "f4", "Be7", "O-O-O", "Be7", "f4", "Be7", "Kb1", "Be7", "g4", "h6", "h5", "h6", "h5", "Nc4", "h5", "Bxf6", "g5", "Be7", "f4", "Nc4", "Nxc6", "Nxd4", "g6", "Bxc6", "Bg2", "fxg6", "gxh7+", "Rxf7", "h6", "g6", "hxg7+", "Bxg7", "Qh2", "Bxd5", "exd5", "bxa3", "dxc6", "Bb5", "Bd3", "Bf5", "Bxf5", "Rxf5", "Qd3", "h6", "Qh3", "a5", "Rde1", "Qxf4", "Rde1", "Qf7", "Re6", "Rxf4", "Rxd6", "Rcxf4", "Re8+", "Kh7", "Qc2+", "Rf2", "bxc3", "Bxc3+", "Ka2", "Rxb4+", "Qc2+", "Rxb4+", "Qc2", "Kxg6", "Re6+", "Rf6", "Kc2", "h4", "Rg8+", "h4", "Rxa6", "h3", "b5", "h2", "Ra1", "Rf2+", "b5", "Kg3", "b5", "Kg2", "b5", "Kg2", "Kc6", "Rg1", "Kb6", "Kg2", "Rxh2+", "h1=Q", "Rxh1", "Kxh1", "b5", "Kg2", "Kb7", "Kf3", "b6", "Ke4", "b7"]
+
+[White "Ciuksyte, Dagne"]
+[Black "Purtseladze, Maka"]
+["e4", "c5", "d4", "d5", "exd5", "dxe4", "Nxe4", "Bf5", "Ng3", "Bg6", "Nf3", "h6", "h5", "Nd7", "h5", "Bh7", "Bd3", "Bxd3", "Qxd3", "e6", "Bf4", "Ngf6", "c3", "Qc7", "c3", "Bd6", "O-O", "Qc7", "Bc3", "Ngf6", "Kb1", "O-O-O", "Ne4", "Rad8", "Ne4", "a4", "f4", "Bxc3", "Ne4", "Nxe4", "Qxe4", "Nf6", "bxc3", "Nf6", "g4", "Nxe5", "Qf3", "exd5", "cxd5", "Qb6+", "g4", "Qc5", "g5", "hxg5", "gxf6", "hxg5", "fxg5", "Qxe5", "gxf6", "Qxf6", "fxg7", "Qxg7", "Qg2", "Qf5+", "Rxe5", "Rf2+", "Rg1+", "b5", "Rg2+", "b5", "Rxb7", "Ra1", "Rg2+", "Kxh6", "Rxf7", "Rxa2+", "d6"]
+
+[White "Fomina, Tatyana"]
+[Black "Burtasova, Anna"]
+["e4", "Nf6", "d5", "cxd4", "c3", "Nc6", "Nxd4", "a6", "Nc3", "Qc7", "Nc3", "Qc7", "Nb3", "Bb4+", "O-O", "Be7", "Nc3", "Qc7", "Nc3", "Be7", "Rc1", "Bb7", "Rac1", "Bb7", "f4", "Bb7", "f5", "Nc5", "cxd5", "exd5", "e5", "Ne4", "Nxe4", "dxe4", "Nd5", "Bxd5", "Rxd5", "Nc5", "Rfd1", "Nc5", "Qd2", "Qb7", "Rcd1", "Nb6", "Rdc2", "Nb6", "Rxd8+", "Qc7", "Rxd8+", "Rxd8", "Bxb6", "Nc4", "h3", "Qxd6", "Rd2", "fxe6", "exf7+", "Rxd8", "Rxd8+", "Kh7", "Bxb6", "Qxg4+", "Kf1", "Qf3+", "Kg1", "e3", "Rd3", "e2", "Kf1", "e2", "Rd1"]
+
+[White "Jackova, Jana"]
+[Black "Worek, Joanna"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "a6", "Bg5", "e6", "Bb3", "Be7", "O-O", "O-O", "O-O", "Qc7", "Be3", "Qc7", "Nde2", "Bxf5", "exf5", "Qd7", "Nd5", "b5", "Rad1", "Nxd5", "Qxd5", "Bf6", "c3", "Ne7", "Be4", "Nxd5", "axb5"]
+
+[White "Karlovich, Anastazia"]
+[Black "Arutyunova, Diana"]
+["e4", "c5", "d4", "d5", "Nc3", "exd5", "Nf3", "Nf6", "Nf3", "Ne7", "O-O", "O-O", "O-O", "Bg4", "c3", "Bg4", "f3", "Bh5", "Bxd6", "Bg6", "Bxd6", "Qxd6", "Ng3", "Nbd7", "Qg3", "Qxg3", "Nxg3", "Bg6", "Bxg6", "hxg6", "Rfe1", "Kf8", "Rxe1", "Re8", "Rxe8+", "Nxe8", "Kf2"]
+
+[White "Khotenashvili, Bela"]
+[Black "Goletiani, Rusudan"]
+["e4", "c5", "Nf3", "Nc6", "f4", "d5", "Nf3", "d5", "Bb5", "d4", "O-O", "Bd7", "Nxd7", "Qxd7", "O-O", "a6", "Bxc6", "Nxc6", "O-O", "Be7", "f5", "O-O", "f5", "exd5", "Ne3", "Nd4", "exf5", "fxe4", "Qf2", "fxe4", "c3", "b5", "c3", "Bxe5", "Nc4", "Nc6", "g3", "Nc6", "Nc4", "Qd6", "Bf4", "Rad8", "Be3", "Rae8", "Rad1", "Qg6", "Rad1", "Qg6", "Nh4", "Qg6", "Nh4", "Ng6", "Bd2", "Bxb6", "Bd2", "Nxe3", "Nh4", "Ng6", "g6", "Qxh6", "Qxe6+", "Rxe6", "Ra1", "a5", "Bd2", "f4", "dxe4", "Rxe4", "Bf4", "Rxf4", "Nf3", "Bc7", "Rb7", "a4", "Rb7", "Bd6", "Bf4", "Rexf5", "g4", "Rexf5", "Nh6", "Rexf5", "Ra7", "Rxc7", "Bf4", "Rxf5", "Kh3", "Rxb2", "Nxe7", "Rxe7", "Bd6", "Rf7", "Rf8+", "Ne6", "Re3", "Kd7", "Rf3+", "Kg6", "Bf6", "Rf7+", "Kg2", "Nd4", "Bxf4", "Ne6", "Bf6", "Nd4", "Rxe6", "Rd3+"]
+
+[White "Kostiukova, Liubov"]
+[Black "Vajda, Szidonia"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "Nc3", "Nf6", "Bg5", "Be7", "Bd3", "dxc4", "Bxc4", "b5", "Bd3", "Bb7", "O-O", "O-O", "e4", "Bb7", "e4", "e5", "dxe5", "O-O", "Bg5", "Nxe5", "Nxe5", "Bxe5", "f4", "Qc7", "f4", "c5", "f4", "Rad8", "f4", "h6", "Bh4", "g5", "Bxf6", "Bxf6", "Nd5", "Bd4+", "Nd5", "Bd4+", "Nf2", "Qxf4", "Ng4", "Qg5", "Rd1", "Qe7", "exf5", "Rxe2", "Rxe2", "Rd8", "Ne5", "Rd8", "Ne4", "c4", "Ne5", "Bf6", "Nxh5", "b3", "axb3", "axb3", "Be4", "Bxe4", "Rxe4", "Bg5", "bxc3"]
+
+[White "Limontaite, Simona"]
+[Black "Molchanova, Tatjana"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Nf6", "Nc3", "Nf6", "Nc3", "Nf6", "Bd3", "Bd6", "O-O", "O-O", "O-O", "O-O", "Ne5", "Nd7", "Ne5", "Be8", "Bb2", "Nd7", "f4", "Nd7", "dxc5", "Bxe5", "Bxe5", "Qxe5", "cxd5", "exd5", "Nd4", "Nd7", "Nd4", "Nd7", "Nd4", "Bg6", "Nd4", "Rh6", "h3", "Bg6", "Nd4", "axb5", "axb5", "Bg6", "bxc6", "Rxb3", "bxc6", "Rb4", "Nd4", "Bg6", "Nd4", "Ra8", "Nd4", "Rxa3", "Qxa3", "f4", "Nd4", "bxc6", "Nd4", "Ne5", "Nd4", "Ne5", "Nd4", "Re6", "Ng3", "gxf4", "Ng3", "Bg6", "Bd3", "Re6", "exf4", "Re6", "Bd3", "Ne6", "Qe5", "Nxc5", "Re1", "Re8", "Nxf5", "Bxf5"]
+
+[White "Lujan, Maria Carolina"]
+[Black "Danielian, Elina"]
+["e4", "c5", "exd5", "Qxd5", "Nc3", "Qa5", "d4", "Nf6", "Nf3", "Bg4", "Bc4", "Bf5", "Bc4", "Bxc2", "Bc4", "e6", "Bf4", "Nxe4", "Bg5", "Qxd4", "Nexf7", "Bb4+", "Bxe6", "Qxe3+", "Bxe3", "Rg8", "Nxe5", "Bd6", "Nd3", "O-O", "O-O-O", "Bf5", "O-O-O", "Bb7", "Rad1", "O-O-O", "Bd2", "Nxe3", "Bg5", "Bxd5", "a5", "b5", "axb6", "e4", "axb6", "e4", "Nb4", "Bxb4", "Nxd5", "bxa5", "axb6", "Bd5", "axb6", "Rxd1", "Rxd5", "Rxd5", "Rxe4", "cxb6", "bxc7", "Bxc3", "Bxe5", "Bxc3", "Nxc3", "Rd2", "Nxe4", "Bd5", "Nxe4", "b4", "Nxe4", "Rxc2", "Nd6+", "Bd5", "Rxg7", "g6", "bxa4", "Bxb3", "f7", "Bxf7", "Rxf7", "b3", "Rf6+", "Kb5", "Rf7+", "a2", "Ra7+", "Rxc5", "Kh2", "a1=Q", "Rxa1", "Rxa1", "Nb3", "Kc6", "Nxb3", "Ra2", "g4", "b2", "Nxb2"]
+
+[White "Melia, Salome"]
+[Black "Gavasheli, Ana"]
+["e4", "c5", "exd5", "Qxd5", "Nc3", "Qa5", "d4", "c6", "Nf3", "Nf6", "Nf3", "Qc7", "Nf3", "Qd8", "Nxf6+", "exf6", "Qe2+", "Be7", "O-O-O", "Qxe2", "Nxe2", "Nd7", "Ng3", "O-O", "Ng3", "Bg6", "h4", "Nd7", "Bb3", "Nd7", "Bf3", "Rac8", "f5", "Rc7", "f5", "Nb4", "Nf5", "Nb4", "Bf5", "Bxf5", "Bxf5", "Nc7", "a3", "Nd5", "Be4", "Rfe8", "Rxe8+", "Rxe8", "c4", "g6", "f5", "g5", "fxg6", "g5", "Kc2", "h5", "Re2", "Rxe2", "c4", "h4", "gxh4", "Rxh4", "hxg5", "Nxf4", "hxg5", "Rxh4", "h3", "Nxh3", "Re3", "Rh4", "Rg3", "Rh4", "Kd2", "g4", "Kd3", "g4", "c4", "g4", "hxg4", "Rxg4", "Rh3+", "Nf4+", "Ke4", "Kg5", "bxc4", "Kg5", "Kc5", "Kxf5", "Kxc6", "Kxf5", "d5", "Kg4", "Re3", "Rd1", "Bc4", "Rxd4", "Bxf7", "Ne6", "Bxd5", "f5", "Kxa5", "f5", "Bxf7", "f4", "b4", "f3", "Kb4", "f2", "Rf1", "Kf3", "a4", "Kg2", "Ka5", "Rxc4", "a5", "Rb4+"]
+
+[White "Muzychuk, Anna"]
+[Black "Mamedjarova, Zeinab"]
+["e4", "c5", "d4", "Nf6", "Nc3", "e5", "dxe5", "Be7", "Nxd4", "Ngf6", "Nc3", "Be7", "Bb3", "Be7", "O-O", "O-O", "f4", "a6", "Bf3", "Bf8", "Rad1", "Bd7", "Qg3", "d5", "e5", "Nbxd5", "Nxd5", "Nxd5", "Bg3", "g6", "a3", "Bd7", "Bxg4", "Bxe2", "Rxe2", "Rxe2", "Qxe2", "Re8", "c4", "Qxb2", "c4", "Re8", "Qg4", "Nf6", "Qg4", "Ng6", "Bc3", "Qc5", "Rxd8", "Qc7", "h4", "Qd7", "h4", "f6", "h5", "Qd7", "h5", "Nh8", "Bxe5", "fxe5", "Nh4+", "Kxh6", "Ng4", "Kh7", "Nf5", "Qf7", "g4", "c5", "g4", "Qxh5", "Rf4", "Bc5", "Qxf6", "Bc5", "Rxg7+", "Kh8", "Qe8+", "Bf8"]
+
+[White "Muzychuk, Mariya"]
+[Black "Benderac, Ana"]
+["e4", "c5", "d4", "d5", "Nc3", "Nf6", "Nxe4", "Nd7", "Nf3", "Ngf6", "Bd3", "Be7", "Nxf6+", "Nxf6", "Bh4", "Be7", "Bb5+", "cxd4", "Qxd4", "Bd7", "Qxd4", "Qxh4", "Bxd7+", "Bxd7", "Nxd7", "Qxh4", "c4", "Bxe2", "Rd8+", "Bh5", "Rxb7", "Bd6", "Bg3", "gxh4", "Bg3", "Bg6", "Bxe5", "O-O", "Bxh8", "O-O", "Bxh8", "Rd8", "Ra7", "Kxb7", "Bf6", "Bxf3", "Bxh6", "Rd1+", "Bxg5", "Rxh2", "Rf1", "Re2+", "Kd1", "Rg2+", "Ke1", "Rxf1+", "Kxf1", "Kc6", "c3", "Kc6", "a3", "Kc6", "Kf2", "Kc6", "Ke3", "Kd5", "Ke3", "e5", "Ke3", "e4", "Kg5", "e4", "Bd8", "e4", "Bc7", "f4", "Kg4", "f3", "Kg4", "f3", "Bxe5", "e4", "Ke6", "Kd3", "Kg4", "e4", "Kg3", "e4", "Bb6"]
+
+[White "Nemcova, Katerina"]
+[Black "Socko, Monika"]
+["e4", "c5", "d4", "Nf6", "Nc3", "Bg7", "Qd2", "Nf6", "Bd3", "O-O", "Qd2", "b5", "Qd2", "b5", "Qd2", "b5", "a3", "dxe5", "Be4", "Rb8", "Bc6", "b4", "Ne2", "a5", "Ng3", "d5", "Qd2", "f6", "exf6", "g5", "Bc6", "bxc3", "Bg3", "f5", "Bc6", "f4", "Qd2", "g4", "exd6", "dxe5", "dxe5", "exd4", "dxe5", "Nc4", "Nd3", "exd4", "Qb3", "e5", "Rc4", "Nde5", "Bd5", "Kh8", "Bc4", "Kh8", "Bxf7", "h5", "Rce1", "Re8", "Nfxe5", "Re8", "fxe3", "Bxd7", "fxe3", "exf3", "gxf3", "Rbxc8", "fxe3", "dxe3", "Qc4", "h6", "Qc4", "h6", "b3", "h6", "hxg5", "hxg5", "Nxb4", "gxf4", "Bxf4", "Qxb2", "Rh2+", "Qxf3", "Bxf6", "Qxf3", "Qc8+", "Rg4", "Qc8+", "Rf8", "Qe6", "Rf7", "Bd4+", "Rh7", "Re7", "Rf6", "Rxf8+", "Rxe8", "a7", "Rf5", "Rxf8+", "Kg8"]
+
+[White "Reizniece, Dana"]
+[Black "Shumiakina, Tatiana"]
+["e4", "Nf6", "Nc3", "d5", "cxd5", "cxd5", "cxd5", "Nf6", "Nc3", "Bd7", "Nc3", "a6", "Ba4", "Rb8", "Nf3", "Bg7", "Nf3", "O-O", "Nf3", "Bxd7", "Qb3", "b5", "Nf3", "Bf5", "O-O", "a4", "axb4", "axb4", "Rxa8", "Qxa8", "Qxb4", "Nxd5", "Nd1", "Nxd5", "Qd2", "Nxf4", "Qxf4", "Ba4", "O-O", "Bxd1", "Rxd1", "Ba4", "Rxd1", "Qxb2", "Qxb2", "Qc2", "h3", "Ra1", "Rf1", "Bxe5", "dxe5", "Qc2", "Rxa1", "Qxa1+", "Kg2", "Qa5", "h4", "h5", "Qe4", "e6", "exf6+", "exf6", "Qe3", "Qe5", "Qd6", "Qb7+"]
+
+[White "Rudolf, Anna"]
+[Black "Fierro Baquero, Martha Lorena"]
+["e4", "c5", "d4", "Bg7", "Nf3", "d6", "Be3", "cxd4", "Bxd4", "Nf6", "Nf3", "Ng8", "f4", "Nc6", "Nf3", "d6", "Nf3", "Nh6", "O-O-O", "Nf5", "Nf3", "Nxe3", "Qxe3", "O-O", "O-O", "d6", "exd6", "dxe5", "exd6", "dxe5", "fxe5", "e6", "Nc3", "exf4", "h3", "exf4", "Bb3", "exf4", "Rxf4", "Rxf4", "Rxd4", "a6", "Nge4", "Bf5", "Bxc6", "bxc6", "Ng3", "Rfd8", "b4", "Be6", "Nge4", "Rfd8", "Qxb6", "Qxe3", "Rxe3", "Rd8", "Nc5", "e4", "Nc5", "Bd5", "Ne2", "Rc4", "Nc5", "e4", "Ne3", "Rfd8", "Ref1", "Rxd1+", "Rxd6", "Rxd6", "Nc4", "Be6", "Kg2", "Kf6", "Nc5", "Bd4", "Nxe6+", "Rxe6", "Re2", "Bxe3", "Rxe3", "Rd6", "Kf2", "Kf6", "Ke2", "Kf6", "Rc3", "h5", "gxf5+", "Kxf5", "c4", "Kf4", "Rc5", "g4", "b5", "cxb5", "axb5", "Rb6", "Rb3", "g4", "c3", "g4", "b6", "g3", "hxg3+", "hxg3", "Rb1", "e3", "Rb1", "axb6", "Rxb6", "Rh2+", "Kf1", "Kf3", "Kg1", "Kf3", "Rb4+", "e2", "Rf6+", "Ke4", "Rg6", "Rxc4", "Re8+", "Kd4", "Kg2"]
+
+[White "Shaidullina, Sandugach"]
+[Black "Dzagnidze, Nana"]
+["e4", "Nf6", "c4", "e6", "Nc3", "d5", "Bd2", "O-O", "g3", "Be7", "Bxd2", "Bb7", "g3", "O-O", "Bd3", "Nbd7", "O-O", "O-O", "Qc2", "Ndf6", "O-O", "f5", "Bb2", "Ndf6", "f3", "Nef6", "Bb2", "exd5", "cxd5", "dxc4", "cxd5", "dxc4", "Bxc4", "d5", "Bd3", "c4", "Bb2", "c4", "bxc5", "c4", "exd4", "cxd4", "Nf3", "Nc5", "Re2", "Qd6", "Nf3", "Rad8", "Nf3", "Nxd3", "Rxe8+", "Re3", "Nf3", "Nxd3", "Rxd3", "Qc4", "Bxd4", "Rxd4", "Rxf3", "Rxd4", "Rg3", "Qb1+", "Bxd4", "hxg6", "Rf1", "hxg6", "Rxd1", "Rxb2", "a4", "Rb4", "Rd6", "Rxa4", "Rd6", "Rb4", "Rxb6", "a4", "Rb8+", "Kh7", "b6", "a4", "b6", "Rxb5", "b6", "Nxb5", "Kd3", "a3", "h4", "Rb3+", "Ke4", "Rb2+", "g5", "Rg4", "Kc2", "Rg2+", "Kb3", "Rg3+", "Rxa3"]
+
+[White "Stepovaia Dianchenko, Tatiana"]
+[Black "Daulyte, Deimante"]
+["e4", "c5", "Nf3", "Nc6", "Bc4", "exd4", "Nxd4", "Bc5", "Nxc6", "bxc6", "Bd3", "Qe7", "Qe2", "Nd5", "c4", "Nb6", "b3", "g6", "Bb2", "f6", "Bg2", "Bg7", "Bg2", "Nb4", "O-O", "Bxe5", "Bxe5", "Qxe5", "Qxe5", "Rxe5", "cxd5", "Bxf1", "Bxf1", "cxd5", "Nc3", "Rhe8", "Re1", "h5", "h4", "Rhe8", "Rxe5", "Rxe5", "hxg4", "hxg4", "f3", "gxf3", "Bxf3", "c6", "Kf2", "Rd3", "Bxd5", "c6", "g4", "Rc2", "a4", "Kc7", "Ke2", "Kd6", "Kc2", "Rg1", "Kd2", "Kd6", "Ne3", "Ke5", "Nf5", "d4", "Nb2", "Rh2", "Ke1", "c5", "Nf4", "c4", "Nf3", "Rf2", "Ke1", "fxg5", "Nxg5+", "Kf5", "Nf3", "Kf6", "Nd6+", "d4+", "Nd8+", "Ke7", "Nb7", "d6", "Bf3", "Kd7", "Bb5+", "Kc7", "b4", "d4+", "Nc6", "Ke5", "a4", "Ra2+", "Nc6", "a6", "Nd8+", "Ke5", "Nc6", "a6", "Nd8+", "Ke5", "bxc4", "Ke5", "Kc3", "d4", "Nc6+", "Kc5", "Kc3", "d4", "Bh5", "d4", "Nc6", "Kb6", "Nb4+", "Rf2+", "b6", "Rf2+", "Kc1", "d3", "b6", "axb6", "axb6", "c3", "Kd2", "c3", "Bc6+", "Rxb7", "Bd1", "d2+", "Nxc2", "dxc2", "b8=Q", "Rxd1", "Kc3", "d5", "Bc8", "d5", "Kc3", "Ke4", "Kb4", "d4", "Kc5", "d3", "Kc6", "d2", "Ka7", "d2", "Kc7", "Ke3", "Kxb7", "Ke3"]
+
+[White "Szczepkowska Horowska, Karina"]
+[Black "Rogule, Laura"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "a6", "Nb3", "Be7", "Be3", "Be7", "Nc3", "Be7", "Be3", "a6", "Bxc4", "Rxc4", "O-O", "Rc8", "O-O", "Be7", "Kb1", "Be7", "Kb1", "Rc4", "Kb1", "O-O", "Nd5", "b5", "g5", "Nh5", "Nd5", "Qb7", "h4", "Nxe7", "Qxd6", "O-O", "Qd3", "Qc7", "h4", "O-O", "Nb7", "Rxd8", "Rxd8+", "Kxd8", "Rd1+", "Kd7", "Rd1+", "Ke6", "Rc1+", "Kd7", "Rc7+", "Ke6", "Bc5", "Nd7", "gxh6", "hxg5", "Rxa6", "Nxa7", "Rxa6", "Kf6", "Rxa6", "Rxh2", "Nd7", "f6", "Bg3", "Nd4", "Kc2", "Nd4", "Kc2", "Nd4", "f4", "Nxf3", "Rd7", "Rd1", "Bc3", "Rxe1", "Rb4", "Nc6", "Rb7", "Re3", "Rb7", "Rxf3", "Rd3", "Rxf3", "Rxb5", "Re3", "Rb6+", "Rxh2", "a5", "Ke5", "a5", "Ke6", "a5", "g4", "a6", "Ke5", "a6", "Re8", "a6", "Rc8", "Nf4+", "Kf7", "Rxe7+", "Kxf4", "Rxg7", "Ra8", "a6", "Kf3", "b5", "Ra8", "a7", "Rxb4", "b5", "Ra8", "b6", "g2", "b7", "g2", "b7", "Kxg2", "b7", "Rxa7", "b8=Q", "Rf7", "Qf8", "Kf3", "Qg4", "Re2+", "Qg3+", "Re5", "Kc3", "Ra7+", "Kb4", "Rb7+", "Kb5", "Ke4", "Qc3+", "Re6", "Qf5+", "Kg3"]
+
+[White "Tkeshelashvili, Sopio"]
+[Black "Zatonskih, Anna"]
+["e4", "Nf6", "c4", "Nf6", "Bf4", "Nf6", "Bd3", "Bg4", "Nc3", "Bf5", "Bd3", "Be7", "Nxc4", "b5", "O-O", "b5", "exd4", "b5", "Ne5", "bxc4", "Ne5", "Bb7", "Nec6", "Nbd7", "Qf3", "Nf6", "Bd2", "f6", "Bd2", "O-O", "Rac1", "Nd7", "Rxf4", "Qxe5", "Rg4", "Bxd4", "Rh3", "Qxc6", "Rh3", "Re8", "Raf1", "Bg7", "e4", "Rd7", "Be2", "Qd5", "Bc5", "Qa5", "Qxd8", "Rexd8", "Be2", "Rd2", "Rxd2", "Rxd2", "Bf3", "Rxb2", "Rd1", "Rxf2", "Kxf2", "Kf7", "Ke2", "e5", "Bd5+", "bxa4", "Bxa4", "Ke6", "Bb3+", "Ke6", "g3", "Ba5", "g3", "Kf6", "g3", "Bc3", "g3", "Bc7", "Bc4", "Bb5", "Bc4", "a5", "Bg8", "a5", "e4", "a4", "Ke3", "fxe4", "Bb6", "a3", "Bg5+", "Kg7", "exf5", "a3", "exf5", "Bc5+", "h6+", "Bb5+", "h6+", "a2", "hxg6"]
+
+[White "Vasilevich, Tatjana"]
+[Black "Toma, Katarzyna"]
+["e4", "Nf6", "c4", "e6", "Nc3", "Bg7", "Bg2", "O-O", "cxd5", "Nxd5", "Nc3", "Nb6", "Ne2", "O-O", "Be3", "Ne5", "O-O", "Nac4", "O-O", "cxd5", "exd5", "O-O", "b3", "Nd6", "Bb2", "O-O", "a5", "Bf5", "Bb2", "Rc8", "Rc1", "Rc8", "Rc1", "Rc8", "Nf4", "a6", "Ncb5", "bxc6", "dxc6", "Be6", "cxd7", "Qxd7", "Rb1", "Bg7", "Qe2", "e6", "Qe2", "e6", "Rc7", "hxg4", "hxg4", "Nd4", "Rc7", "e6", "Rc7", "Rbxc8", "Ne7+", "Kh7", "Bxe7", "Rxd1", "Rxd1", "Rc3", "g5", "gxf5", "Bg5", "Rxd8", "Bxd8", "Nd4", "Kf1", "Nd4", "Bc4", "Nd4", "Bg5", "Kd7", "Bb8", "a5", "Kg2", "Nd4", "Bd3", "g5", "Bxg6", "Kc6", "Bxd6", "Kxd6"]
+
+[White "Vovk, Oksana"]
+[Black "Mamedjarova, Turkan"]
+["e4", "Nf6", "c4", "Nf6", "Bg2", "e6", "Nf3", "Bg7", "O-O", "O-O", "Nc3", "d6", "Nc3", "d6", "Bg5", "Nc6", "Bb2", "Nxc3", "Bb2", "Re8", "Rac1", "c6", "Rfd1", "Nd7", "Ne5", "Nc7", "b5", "Nc7", "Ne5", "a6", "a3", "axb4", "axb4", "Bg7", "b5", "Nb4", "Qb1", "Bg7", "Bxc3", "Na2", "Rc2", "Nxc3", "Qxc3", "Rxa1", "Rxa1", "Bg7", "Ra8", "Bd7", "c6", "bxc5", "Bxb5", "Bg7", "Ne5", "Bg7", "Ne5", "Bxc6", "Qxc6", "Bxc6", "Bxb5", "Bd7", "Bxb5", "Rb8", "Nc3", "Bc5", "Bd3", "Bc5", "Bxb5", "Rxb5", "Rb7+", "Kh6", "Rxh7", "h6", "Ke2", "Bc5", "Rxh7", "Bxe3+", "fxe5+", "Kxe5", "Rxh7", "Bxe3+", "Ke2", "d4", "Re7+", "Kd4", "Bd7", "gxh4", "Kf3", "gxh4", "gxh4", "Rf2+", "Ke1", "Rh2", "h5", "Rxh4", "h5", "f3", "Rxd5+", "f2+"]
+
+[White "Khukhashvili, Sopiko"]
+[Black "Hunt, Harriet"]
+["e4", "c5", "Nf3", "Nc6", "d4", "cxd4", "Nxd4", "Nf6", "Nc3", "a6"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
